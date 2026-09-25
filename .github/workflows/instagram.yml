@@ -1,0 +1,28 @@
+# Instagram: post às 11h, Reel às 18h30 (e o vídeo vai para o seu Telegram para TikTok/Shorts).
+# Domingo de manhã sai o carrossel "Top 5 da semana".
+name: Instagram
+on:
+  schedule:
+    - cron: "0 14 * * *"    # 11:00 BRT -> post (ou carrossel no domingo)
+    - cron: "30 21 * * *"   # 18:30 BRT -> reel
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: "auto | post | reel | carrossel"
+        default: auto
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ghost
+  cancel-in-progress: false
+
+jobs:
+  instagram:
+    uses: ./.github/workflows/_pipeline.yml
+    with:
+      comando: instagram ${{ inputs.tipo || 'auto' }}
+    secrets: inherit
