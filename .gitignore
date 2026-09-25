@@ -1,0 +1,6 @@
+out/
+__pycache__/
+*.pyc
+.env
+# mídia gerada vai só para o deploy do GitHub Pages (não entra no histórico do git)
+docs/media/
