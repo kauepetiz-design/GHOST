@@ -1,6 +1,33 @@
 # Identidade da marca — usada por todos os agentes (textos, artes e vídeos)
 nome: "Achei na Cozinha"
 arroba: "@acheinacozinha"          # troque pelo @ que você conseguir registrar
+slogan: "Achadinhos de cozinha escolhidos por quem vive em cozinha profissional"
+promessa: "Só indico o que eu usaria na cozinha de um restaurante."
+
+tom_de_voz: >
+  Direto, prático e confiável, com um toque de bastidor de cozinha profissional.
+  Frases curtas. Sem CAPS LOCK, sem "CORRE!!!", sem urgência falsa, sem prometer o que o produto não faz.
+  Sempre explique POR QUE o produto é útil (dica de chef), não só que está barato.
+
+aviso_afiliado: "Link de afiliado: posso ganhar comissão, sem custo extra pra você."
+aviso_preco: "Preço e disponibilidade podem mudar a qualquer momento."
+
+cores:
+  primaria: "#E4572E"   # vermelho-tomate
+  fundo: "#FFF6E9"      # creme
+  texto: "#1F1A17"      # grafite
+  destaque: "#3A7D44"   # verde-manjericão
+  preco_fundo: "#1F1A17"
+
+fontes:
+  titulo: "Poppins-Bold.ttf"
+  medio: "Poppins-Medium.ttf"
+  texto: "Poppins-Regular.ttf"
+
+voz_video: "pt-BR-AntonioNeural"   # outras: pt-BR-FranciscaNeural, pt-BR-ThalitaMultilingualNeural
+# Identidade da marca — usada por todos os agentes (textos, artes e vídeos)
+nome: "Achei na Cozinha"
+arroba: "@acheinacozinha"          # troque pelo @ que você conseguir registrar
 slogan: "Achadinhos de cozinha testados por quem vive em cozinha profissional"
 promessa: "Só indico o que eu usaria na cozinha de um restaurante."
 
