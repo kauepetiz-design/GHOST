@@ -1,0 +1,33 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Achei na Cozinha | Achados</title>
+<meta name="description" content="Achadinhos de cozinha testados por quem vive em cozinha profissional"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--p:#E4572E;--f:#FFF6E9;--t:#1F1A17;--d:#3A7D44}
+*{box-sizing:border-box}body{margin:0;background:var(--f);color:var(--t);font-family:Poppins,system-ui,sans-serif}
+header{background:var(--t);color:var(--f);padding:22px 16px;text-align:center}
+header h1{margin:0;font-size:22px;letter-spacing:.5px}header p{margin:6px 0 0;font-size:13px;opacity:.8}
+.cta{display:block;margin:14px auto 0;max-width:420px;background:var(--p);color:#fff;text-decoration:none;
+padding:12px;border-radius:12px;font-weight:600}
+.busca{max-width:640px;margin:16px auto;padding:0 16px}
+.busca input{width:100%;padding:14px;border-radius:12px;border:2px solid #e5dccf;font-size:16px}
+main{max-width:640px;margin:0 auto;padding:0 16px 40px;display:grid;gap:12px}
+.card{display:flex;gap:12px;background:#fff;border-radius:16px;padding:10px;text-decoration:none;color:inherit;
+box-shadow:0 2px 10px rgba(0,0,0,.06)}
+.card img{width:96px;height:120px;object-fit:cover;border-radius:10px;flex-shrink:0}
+.n{font-weight:700;color:var(--p);font-size:14px}.t{font-weight:600;margin:2px 0 6px;line-height:1.25}
+.pr{font-weight:700}.de{text-decoration:line-through;opacity:.5;font-size:13px;margin-right:6px}
+.info{font-size:11px;opacity:.6;margin-top:4px}.bt{display:inline-block;margin-top:6px;background:var(--d);color:#fff;
+padding:6px 12px;border-radius:8px;font-size:13px;font-weight:600}
+footer{font-size:12px;opacity:.7;text-align:center;padding:0 16px 30px;max-width:640px;margin:0 auto}
+</style></head><body>
+<header><h1>Achei na Cozinha</h1><p>Achadinhos de cozinha testados por quem vive em cozinha profissional</p>
+<a class="cta" href="https://t.me/acheinacozinha">📲 Ofertas todo dia no Telegram</a></header>
+<div class="busca"><input id="q" inputmode="numeric" placeholder="Digite o número da oferta (ex.: 12)"></div>
+<main id="lista"><p>As primeiras ofertas chegam em breve.</p></main>
+<footer>Link de afiliado: posso ganhar comissão, sem custo extra pra você. Preço e disponibilidade podem mudar a qualquer momento.<br>Atualizado em 25/09/2026 13:16.</footer>
+<script>
+const q=document.getElementById('q');q.addEventListener('input',()=>{const v=q.value.replace(/\D/g,'');
+document.querySelectorAll('.card').forEach(c=>{c.style.display=!v||c.dataset.n===v?'flex':'none'})});
+const h=location.hash.replace('#','');if(h){q.value=h;q.dispatchEvent(new Event('input'))}
+</script></body></html>
