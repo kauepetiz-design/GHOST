@@ -145,8 +145,9 @@ def resumo() -> None:
            f"Publicações hoje: {', '.join(f'{k}: {v}' for k, v in por_canal.items()) or 'nenhuma'}\n"
            f"Fila pendente: {fila_pend}\n\n"
            "👇 Copie a mensagem abaixo e cole no seu canal do WhatsApp:")
-    telegram.para_dono(msg)
-    telegram.para_dono(wa)
+    telegram.para_dono(msg if top else msg.split("\n\n👇")[0] + "\n\nSem ofertas novas para o WhatsApp hoje.")
+    if top:
+        telegram.para_dono(wa)
 
 
 def semanal() -> None:
