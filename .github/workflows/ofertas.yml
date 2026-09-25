@@ -1,0 +1,23 @@
+# Canal de ofertas: a cada 2h das 8h às 22h (horário de Brasília = UTC-3). Threads ~4x/dia.
+name: Ofertas (Telegram + Threads)
+on:
+  schedule:
+    - cron: "5 11-23/2 * * *"   # 08:05, 10:05 ... 20:05 BRT
+    - cron: "5 1 * * *"         # 22:05 BRT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ghost
+  cancel-in-progress: false
+
+jobs:
+  ofertas:
+    uses: ./.github/workflows/_pipeline.yml
+    with:
+      comando: ofertas
+    secrets: inherit
