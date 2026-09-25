@@ -1,0 +1,38 @@
+# Liga/desliga canais e define o ritmo. Horários de verdade ficam nos arquivos .github/workflows/*.yml
+telegram:
+  ativo: true
+  url: ""                        # link público do canal, ex.: https://t.me/acheinacozinha (aparece na vitrine)
+  ofertas_por_execucao: 1        # o workflow roda a cada 2h das 8h às 22h -> ~8 ofertas/dia
+  botao: "🛒 Ver oferta"
+
+threads:
+  ativo: true
+  por_execucao: 1
+  intervalo_min_horas: 3.5     # ~4 posts por dia
+
+instagram:
+  ativo: true
+  # post único de manhã, reel à tarde, carrossel "top 5" aos domingos
+  reel_diario: true
+  carrossel_dia_semana: 6        # 0=segunda ... 6=domingo
+
+whatsapp:
+  # Não há API oficial para postar em Canais do WhatsApp. O Gerente manda para você,
+  # no Telegram, um texto pronto para colar no canal (leva 30 segundos por dia).
+  resumo_diario: true
+  ofertas_no_resumo: 5
+
+vitrine:
+  ativo: true
+  # Preencha com a URL do seu GitHub Pages (ou use o secret PUBLIC_BASE_URL)
+  url_publica: ""
+  max_ofertas: 60
+
+# subIds que vão em cada link da Shopee: o Analista usa isso para saber qual canal vendeu
+sub_ids:
+  telegram: tg
+  threads: th
+  instagram: ig
+  whatsapp: wa
+  vitrine: vt
+  tiktok: tt

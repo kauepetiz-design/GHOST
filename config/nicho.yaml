@@ -1,0 +1,66 @@
+# O que o Caçador procura e como o Curador filtra
+# Cada execução sorteia algumas palavras-chave (as do tema do calendário têm prioridade).
+palavras_chave:
+  - organizador de geladeira
+  - mixer de mão
+  - balança de cozinha digital
+  - termômetro culinário
+  - faca do chef
+  - afiador de facas
+  - tábua de corte
+  - espátula de silicone
+  - pote hermético
+  - air fryer acessórios
+  - forma de silicone air fryer
+  - fatiador de legumes
+  - ralador multifuncional
+  - espremedor de alho
+  - porta temperos giratório
+  - panela antiaderente
+  - frigideira de ferro
+  - moedor de pimenta
+  - seladora a vácuo
+  - garrafa térmica
+  - escorredor de louça
+  - organizador de gaveta cozinha
+  - cortador de pizza
+  - pincel de silicone
+  - saco de confeitar
+  - mini processador
+  - chaleira elétrica
+  - luva térmica silicone
+  - dispenser de detergente
+  - marmita de vidro
+
+palavras_por_execucao: 3
+resultados_por_palavra: 20
+
+filtros:
+  preco_min: 9.90
+  preco_max: 350
+  nota_min: 4.6
+  vendas_min: 150
+  comissao_pct_min: 3.0
+  dias_sem_repetir: 10
+
+# Palavras que eliminam o produto (qualidade, segurança ou marca)
+bloqueio:
+  - réplica
+  - replica
+  - usado
+  - recondicionado
+  - adulto
+  - arma
+  - canivete
+  - cigarro
+  - vape
+  - emagrecedor
+  - remédio
+
+# Pesos da nota do Curador (quanto maior, mais importa)
+pesos:
+  comissao_valor: 3.0     # R$ que você ganha por venda
+  desconto: 1.5
+  vendas: 1.5             # prova social (escala log)
+  nota: 1.0
+  tema_do_dia: 2.0        # bônus se casa com o tema do calendário

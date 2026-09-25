@@ -1,0 +1,57 @@
+# Temas sazonais. O primeiro tema cujo intervalo contém a data de hoje é usado.
+# "intensidade" multiplica o ritmo de postagem do Telegram (1 = normal, 2 = dobro).
+temas:
+  - nome: "Dia das Crianças"
+    inicio: "2026-10-06"
+    fim: "2026-10-12"
+    gancho: "cozinhar com as crianças"
+    palavras_chave: [forminha de silicone infantil, lancheira térmica, cortador de biscoito, avental infantil]
+    intensidade: 1
+
+  - nome: "10.10 Shopee"
+    inicio: "2026-10-10"
+    fim: "2026-10-10"
+    gancho: "10.10: os achados que valem a pena"
+    palavras_chave: []
+    intensidade: 2
+
+  - nome: "11.11 Shopee"
+    inicio: "2026-11-11"
+    fim: "2026-11-11"
+    gancho: "11.11: só o que um chef compraria"
+    palavras_chave: []
+    intensidade: 2
+
+  - nome: "Esquenta Black Friday"
+    inicio: "2026-11-12"
+    fim: "2026-11-26"
+    gancho: "lista de desejos do chef para a Black Friday"
+    palavras_chave: [air fryer, panela elétrica de arroz, liquidificador, cafeteira, processador de alimentos]
+    intensidade: 1
+
+  - nome: "Black Friday"
+    inicio: "2026-11-27"
+    fim: "2026-11-30"
+    gancho: "Black Friday de verdade: desconto conferido"
+    palavras_chave: [air fryer, batedeira, cafeteira, jogo de panelas, faca do chef]
+    intensidade: 2
+
+  - nome: "12.12 e presentes"
+    inicio: "2026-12-01"
+    fim: "2026-12-12"
+    gancho: "presente de Natal para quem ama cozinhar"
+    palavras_chave: [kit churrasco, tábua de frios, jogo de facas, moedor de café, avental]
+    intensidade: 1
+
+  - nome: "Ceia de Natal"
+    inicio: "2026-12-13"
+    fim: "2026-12-24"
+    gancho: "ceia de Natal sem sufoco"
+    palavras_chave: [assadeira, termômetro culinário, forma de pudim, travessa de vidro, faca para peru]
+    intensidade: 1
+
+padrao:
+  nome: "Cozinha de chef gastando pouco"
+  gancho: "cozinha de chef gastando pouco"
+  palavras_chave: []
+  intensidade: 1
