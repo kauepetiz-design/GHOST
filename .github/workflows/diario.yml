@@ -1,0 +1,38 @@
+# Resumo diário no seu Telegram + mensagem pronta para colar no canal do WhatsApp.
+name: Resumo diário
+on:
+  schedule:
+    - cron: "30 11 * * *"   # 08:30 BRT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ghost
+  cancel-in-progress: false
+
+jobs:
+  resumo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11", cache: pip }
+      - run: pip install -q -r requirements.txt
+      - run: python -m ghost.run resumo
+        env:
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+      - name: Salvar estado
+        run: |
+          git config user.name "ghost-bot"
+          git config user.email "ghost-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -q -m "ghost: resumo $(date -u +%F)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break || sleep 5; done
