@@ -1,0 +1,72 @@
+# Workflow reutilizável: roda uma rotina da Ghost, publica a vitrine/mídia no GitHub Pages
+# e depois entrega a fila do Instagram/Threads (que precisa das mídias em URL pública).
+name: _pipeline
+on:
+  workflow_call:
+    inputs:
+      comando:
+        type: string
+        required: true
+
+env:
+  PYTHONUNBUFFERED: "1"
+  PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+  TELEGRAM_CHANNEL_URL: ${{ vars.TELEGRAM_CHANNEL_URL }}
+  SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+  SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+  TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+  IG_USER_ID: ${{ secrets.IG_USER_ID }}
+  IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+  THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+  THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+
+jobs:
+  rodar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar dependências
+        run: |
+          sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg > /dev/null
+          pip install -q -r requirements.txt
+
+      - name: "Rotina: ${{ inputs.comando }}"
+        run: python -m ghost.run ${{ inputs.comando }}
+
+      - name: Salvar estado (data/ e vitrine)
+        run: |
+          git config user.name "ghost-bot"
+          git config user.email "ghost-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -q -m "ghost: ${{ inputs.comando }} $(date -u +%FT%TZ)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break || sleep 5; done
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Publicar fila (Instagram / Threads)
+        run: python -m ghost.run fila
+
+      - name: Salvar estado final
+        if: always()
+        run: |
+          git add data
+          git diff --cached --quiet || git commit -q -m "ghost: fila $(date -u +%FT%TZ)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break || sleep 5; done
