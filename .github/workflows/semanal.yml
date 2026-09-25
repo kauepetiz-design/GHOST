@@ -1,0 +1,56 @@
+# Segunda 9h: relatório do Analista. Dia 1 e 15: renova os tokens da Meta (valem 60 dias).
+name: Semanal (relatório + tokens)
+on:
+  schedule:
+    - cron: "0 12 * * 1"      # segunda 09:00 BRT
+    - cron: "0 13 1,15 * *"   # dias 1 e 15, 10:00 BRT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ghost
+  cancel-in-progress: false
+
+env:
+  SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+  SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+  IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+  THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+
+jobs:
+  semanal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11", cache: pip }
+      - run: pip install -q -r requirements.txt
+
+      - name: Relatório do Analista
+        if: github.event.schedule != '0 13 1,15 * *'
+        run: python -m ghost.run semanal
+
+      - name: Renovar tokens da Meta
+        if: github.event.schedule != '0 12 * * 1'
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}   # token pessoal com permissão "Secrets: read and write" neste repositório
+        run: |
+          python -m ghost.run renovar-tokens
+          if [ -s out/tokens.env ] && [ -n "$GH_TOKEN" ]; then
+            while IFS='=' read -r nome valor; do
+              gh secret set "$nome" --body "$valor" --repo "${{ github.repository }}"
+            done < out/tokens.env
+            rm -f out/tokens.env
+          fi
+
+      - name: Salvar estado
+        run: |
+          git config user.name "ghost-bot"
+          git config user.email "ghost-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -q -m "ghost: semanal $(date -u +%F)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break || sleep 5; done
