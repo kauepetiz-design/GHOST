@@ -99,9 +99,12 @@ def run() -> list[dict]:
                 log.info("'%s': %d produtos", kw, len(nodes))
             except Exception as e:  # noqa: BLE001
                 log.error("busca '%s' falhou: %s", kw, e)
-    else:
-        log.info("Shopee não configurada ou DRY_RUN: usando ofertas de exemplo")
+    elif dry_run():
+        log.info("DRY_RUN: usando ofertas de exemplo")
         novas += mock.ofertas(_palavras_do_dia())
+    else:
+        # Em produção NUNCA usa ofertas de exemplo: sem a API da Shopee, só entra a curadoria manual.
+        log.warning("API da Shopee ainda não configurada: usando só data/curadoria.csv")
 
     novas += _curadoria()
     for o in novas:
