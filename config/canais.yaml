@@ -1,7 +1,7 @@
 # Liga/desliga canais e define o ritmo. Horários de verdade ficam nos arquivos .github/workflows/*.yml
 telegram:
   ativo: true
-  url: ""                        # link público do canal, ex.: https://t.me/acheinacozinha (aparece na vitrine)
+  url: "https://t.me/acheinacozinha"   # link público do canal (aparece na vitrine)
   ofertas_por_execucao: 1        # o workflow roda a cada 2h das 8h às 22h -> ~8 ofertas/dia
   botao: "🛒 Ver oferta"
 
@@ -36,3 +36,14 @@ sub_ids:
   whatsapp: wa
   vitrine: vt
   tiktok: tt
+
+# Botões de redes sociais na vitrine. Deixe url vazia até o perfil existir: o botão só aparece com link.
+redes:
+  - nome: Instagram
+    url: "https://www.instagram.com/acheinacozinha/"
+  - nome: TikTok
+    url: ""        # https://www.tiktok.com/@acheinacozinha
+  - nome: YouTube
+    url: ""        # https://www.youtube.com/@acheinacozinha
+  - nome: WhatsApp
+    url: ""        # link do canal do WhatsApp
