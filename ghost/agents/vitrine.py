@@ -8,8 +8,8 @@ from __future__ import annotations
 import html
 import json
 
-from ..core import DOCS_DIR, brl, cfg, env, get_logger, load_json, now, save_json
-from . import redator
+from ..core import DOCS_DIR, brl, cfg, env, get_logger, load_json, now, public_base_url, save_json
+from . import logo, redator
 
 log = get_logger("vitrine")
 ARQ = "vitrine.json"
@@ -36,7 +36,11 @@ CSS = """
 :root{--p:%(primaria)s;--f:%(fundo)s;--t:%(texto)s;--d:%(destaque)s}
 *{box-sizing:border-box}body{margin:0;background:var(--f);color:var(--t);font-family:Poppins,system-ui,sans-serif}
 header{background:var(--t);color:var(--f);padding:22px 16px;text-align:center}
-header h1{margin:0;font-size:22px;letter-spacing:.5px}header p{margin:6px 0 0;font-size:13px;opacity:.8}
+header .logo{width:72px;height:72px;border-radius:50%%;display:block;margin:0 auto 10px}
+header h1{margin:0;font-size:22px;letter-spacing:.5px}header p{margin:6px auto 0;font-size:13px;opacity:.8;max-width:420px}
+.redes{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:12px auto 0;max-width:420px}
+.redes a{color:var(--f);text-decoration:none;font-size:13px;font-weight:600;padding:8px 14px;border-radius:999px;
+border:1px solid rgba(255,246,233,.35)}
 .cta{display:block;margin:14px auto 0;max-width:420px;background:var(--p);color:#fff;text-decoration:none;
 padding:12px;border-radius:12px;font-weight:600}
 .busca{max-width:640px;margin:16px auto;padding:0 16px}
@@ -58,6 +62,11 @@ def gerar() -> None:
     itens = load_json(ARQ, [])
     tg = env("TELEGRAM_CHANNEL_URL") or cfg("canais").get("telegram", {}).get("url", "")
     e = html.escape
+    redes = [r for r in cfg("canais").get("redes", []) if r.get("url")]
+    redes_html = "".join(
+        f'<a href="{e(r["url"])}" target="_blank" rel="noopener">{e(r["nome"])}</a>' for r in redes)
+    base = public_base_url()
+    og_img = f"{base}/og.png" if base else "og.png"
     cards = []
     for i in itens:
         preco = ""
@@ -75,11 +84,16 @@ def gerar() -> None:
         )
     pagina = f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(m['nome'])} | Achados</title>
-<meta name="description" content="{e(m['slogan'])}"><link rel="preconnect" href="https://fonts.googleapis.com">
+<meta name="description" content="{e(m['slogan'])}">
+<meta property="og:title" content="{e(m['nome'])} | Achados"><meta property="og:description" content="{e(m['slogan'])}">
+<meta property="og:image" content="{e(og_img)}"><meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image"><link rel="icon" type="image/png" href="favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 <style>{CSS % m['cores']}</style></head><body>
-<header><h1>{e(m['nome'])}</h1><p>{e(m['slogan'])}</p>
-{f'<a class="cta" href="{e(tg)}">📲 Ofertas todo dia no Telegram</a>' if tg else ''}</header>
+<header><img class="logo" src="logo.png" alt=""><h1>{e(m['nome'])}</h1><p>{e(m['slogan'])}</p>
+{f'<a class="cta" href="{e(tg)}">📲 Ofertas todo dia no Telegram</a>' if tg else ''}
+{f'<nav class="redes" aria-label="Redes sociais">{redes_html}</nav>' if redes_html else ''}</header>
 <div class="busca"><input id="q" inputmode="numeric" placeholder="Digite o número da oferta (ex.: 12)"></div>
 <main id="lista">{''.join(cards) or '<p>As primeiras ofertas chegam em breve.</p>'}</main>
 <footer>{e(m['aviso_afiliado'])} {e(m['aviso_preco'])}<br>Atualizado em {now().strftime('%d/%m/%Y %H:%M')}.</footer>
@@ -91,6 +105,7 @@ const h=location.hash.replace('#','');if(h){{q.value=h;q.dispatchEvent(new Event
     DOCS_DIR.mkdir(exist_ok=True)
     (DOCS_DIR / "index.html").write_text(pagina, encoding="utf-8")
     (DOCS_DIR / ".nojekyll").write_text("")
+    logo.gerar_arquivos(DOCS_DIR)
     if not (DOCS_DIR / "placeholder.jpg").exists():
         from .designer import imagem_produto
         imagem_produto({"id": "placeholder"}).resize((400, 400)).save(DOCS_DIR / "placeholder.jpg", quality=85)
