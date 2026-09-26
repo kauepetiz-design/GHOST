@@ -40,9 +40,9 @@ sub_ids:
 # Botões de redes sociais na vitrine. Deixe url vazia até o perfil existir: o botão só aparece com link.
 redes:
   - nome: Instagram
-    url: "https://www.instagram.com/acheinacozinha/"
+    url: "https://www.instagram.com/achei.na.cozinha/"
   - nome: TikTok
-    url: ""        # https://www.tiktok.com/@acheinacozinha
+    url: "https://www.tiktok.com/@achei.na.cozinha.br"
   - nome: YouTube
     url: ""        # https://www.youtube.com/@acheinacozinha
   - nome: WhatsApp
