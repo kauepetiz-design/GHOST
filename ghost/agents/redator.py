@@ -29,14 +29,14 @@ Responda SOMENTE um JSON com as chaves:
 "gancho": frase de abertura de até 60 caracteres que fala de um problema real na cozinha;
 "dica_chef": 1 ou 2 frases (até 200 caracteres) com uma dica prática de cozinha profissional sobre usar esse tipo de produto;
 "beneficios": lista com 3 benefícios curtos (até 45 caracteres cada), coerentes com o título;
-"roteiro": lista com 4 frases curtas para narrar um vídeo de 15 segundos (gancho, produto, dica, chamada "link no perfil");
+"roteiro": lista com 4 frases curtas para narrar um vídeo de 15 segundos (gancho, produto, dica e, por último, exatamente: "Procura Achei na Cozinha no Telegram. O link tá lá.");
 "hashtags": lista com 5 hashtags em português sem acento, relevantes.
 Proibido: CAPS LOCK, "corre", urgência falsa, promessas de saúde, citar concorrentes."""
 
 GANCHOS = [
     "Isso aqui resolve um problema chato da cozinha",
     "O item que eu mais uso na cozinha do restaurante",
-    "Achei e testei: vale cada centavo",
+    "Achado que vale cada centavo",
     "Parece bobo, mas muda sua rotina na cozinha",
     "Cozinha de chef gastando pouco",
 ]
@@ -79,7 +79,7 @@ def _template(o: dict) -> dict:
             rnd.choice(GANCHOS) + ".",
             f"{curto}.",
             (o.get("nota_chef") or _dica(o["titulo"])).split(".")[0] + ".",
-            "O link tá no perfil. Salva pra não perder.",
+            "Procura Achei na Cozinha no Telegram. O link tá lá.",
         ],
         "hashtags": ["achadinhos", "cozinha", "dicasdecozinha", "utilidadesdomesticas", "achadinhosshopee"],
     }
@@ -171,6 +171,22 @@ def instagram(o: dict) -> str:
         + "\n📲 Ofertas todo dia no nosso canal do Telegram (link na bio)\n"
         f"💾 Salva pra achar depois.\n\n{m['aviso_afiliado']} {m['aviso_preco']}\n\n{tags}"
     )[:2200]
+
+
+def tiktok(o: dict) -> str:
+    """Legenda para TikTok e YouTube Shorts: sem link clicável, então aponta para o Telegram."""
+    c, m = copy(o), cfg("marca")
+    tags = " ".join(dict.fromkeys(["#" + h.lstrip("#") for h in c["hashtags"][:4]] + ["#achadinhos", "#fyp"]))
+    return (
+        f"{c['gancho']} 👨‍🍳 {c['titulo_curto']} | {_linha_preco(o)}\n\n"
+        f"🔎 Link: procure \"acheinacozinha\" no Telegram (oferta #{o.get('numero')})\n"
+        f"{m['aviso_afiliado']}\n\n{tags}"
+    )[:2000]
+
+
+def comentario_fixado(o: dict) -> str:
+    """Comentário para fixar no vídeo do TikTok/Shorts."""
+    return f"🔗 O link dessa oferta (#{o.get('numero')}) tá no Telegram: procure acheinacozinha 👨‍🍳"
 
 
 def instagram_carrossel(ofertas: list[dict]) -> str:
