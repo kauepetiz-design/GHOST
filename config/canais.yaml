@@ -44,6 +44,6 @@ redes:
   - nome: TikTok
     url: "https://www.tiktok.com/@achei.na.cozinha.br"
   - nome: YouTube
-    url: ""        # https://www.youtube.com/@acheinacozinha
+    url: "https://www.youtube.com/@acheinacozinha"
   - nome: WhatsApp
     url: "https://whatsapp.com/channel/0029Vb8T9413GJOxCskotR2S"
