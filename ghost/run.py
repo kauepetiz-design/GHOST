@@ -67,6 +67,11 @@ def instagram(tipo: str = "auto") -> None:
     ig = cfg("canais")["instagram"]
     if not ig["ativo"]:
         return
+    if tipo == "verificar":  # teste de conexão com a Meta, sem publicar nada
+        r = meta.verificar()
+        log.info("verificar: %s", r)
+        telegram.para_dono("🔌 Teste de conexão Meta\n" + "\n".join(f"{k}: {v}" for k, v in r.items()))
+        return
     agora = now()
     if tipo == "auto":
         if agora.weekday() == ig.get("carrossel_dia_semana", 6) and agora.hour < 14:
