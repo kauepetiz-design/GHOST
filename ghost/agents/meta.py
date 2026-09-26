@@ -128,6 +128,24 @@ def threads_publicar(texto: str, imagem_url: str | None = None) -> str:
     return _req("POST", f"{TH}/{uid}/threads_publish", creation_id=cid, access_token=tok)["id"]
 
 
+# ------------------------------------------------------------------ teste de conexão
+def verificar() -> dict:
+    """Confere os tokens sem publicar nada. Retorna {"Instagram": "✅ @usuario" | "❌ erro", ...}."""
+    res = {}
+    for nome, var, url, campos in (("Instagram", "IG_ACCESS_TOKEN", IG, "user_id,username"),
+                                   ("Threads", "THREADS_ACCESS_TOKEN", TH, "id,username")):
+        tok = env(var)
+        if not tok:
+            res[nome] = f"❌ {var} ausente"
+            continue
+        try:
+            j = _req("GET", f"{url}/me", fields=campos, access_token=tok)
+            res[nome] = f"✅ @{j.get('username', '?')}"
+        except Exception as e:  # noqa: BLE001
+            res[nome] = f"❌ {e}"
+    return res
+
+
 # ------------------------------------------------------------------ processar fila
 def processar_fila(ao_publicar=None, ao_falhar=None) -> int:
     """Publica tudo que está na fila. ao_publicar(item, id_post) / ao_falhar(item, erro)."""
