@@ -100,7 +100,9 @@ def instagram(tipo: str = "auto") -> None:
         if tipo == "reel":
             arq = videomaker.video(o)
             # o mesmo vídeo vai para você postar no TikTok e no YouTube Shorts (1 minuto no celular)
-            telegram.video_para_dono(arq, "🎬 Vídeo do dia pronto para TikTok e Shorts.\n\nLegenda:\n" + legenda[:900])
+            telegram.video_para_dono(arq, "🎬 Vídeo do dia pronto para TikTok e Shorts.\n\nLegenda:\n"
+                                     + redator.tiktok(o)[:700]
+                                     + "\n\n📌 Comentário para fixar:\n" + redator.comentario_fixado(o))
         else:
             arq = designer.post(o, "ig")
         vitrine.adicionar(o, link(o, "vitrine"))
