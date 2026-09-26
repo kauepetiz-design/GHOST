@@ -1,9 +1,10 @@
 """Agente 6b — Publicador Meta (Instagram + Threads).
 
 Instagram API com login do Instagram (conta Profissional: Criador ou Empresa):
-    IG_USER_ID, IG_ACCESS_TOKEN        (token de longa duração, 60 dias — o Gerente renova sozinho)
+    IG_ACCESS_TOKEN        (token de longa duração, 60 dias — o Gerente renova sozinho)
 Threads API:
-    THREADS_USER_ID, THREADS_ACCESS_TOKEN
+    THREADS_ACCESS_TOKEN
+IG_USER_ID e THREADS_USER_ID são opcionais: sem eles, o id é lido do próprio token (/me).
 
 As mídias precisam estar numa URL pública (GitHub Pages) no momento da publicação, por isso
 os posts entram numa fila (data/fila.json) e são publicados depois do deploy da vitrine.
@@ -72,10 +73,25 @@ def _ig_aguardar(container: str, token: str, limite_s: int = 600) -> None:
     raise MetaError("Instagram demorou demais para processar a mídia")
 
 
+def _ig_uid(tok: str) -> str:
+    """IG_USER_ID é opcional: se faltar, descobre pelo próprio token."""
+    if env("IG_USER_ID"):
+        return env("IG_USER_ID")
+    j = _req("GET", f"{IG}/me", fields="user_id,username", access_token=tok)
+    return str(j.get("user_id") or j["id"])
+
+
+def _th_uid(tok: str) -> str:
+    if env("THREADS_USER_ID"):
+        return env("THREADS_USER_ID")
+    return str(_req("GET", f"{TH}/me", fields="id,username", access_token=tok)["id"])
+
+
 def ig_publicar(tipo: str, urls: list[str], legenda: str) -> str:
-    uid, tok = env("IG_USER_ID"), env("IG_ACCESS_TOKEN")
-    if not (uid and tok):
-        raise MetaError("IG_USER_ID / IG_ACCESS_TOKEN ausentes")
+    tok = env("IG_ACCESS_TOKEN")
+    if not tok:
+        raise MetaError("IG_ACCESS_TOKEN ausente")
+    uid = _ig_uid(tok)
     if tipo == "post":
         cid = _req("POST", f"{IG}/{uid}/media", image_url=urls[0], caption=legenda, access_token=tok)["id"]
     elif tipo == "reel":
@@ -98,9 +114,10 @@ def ig_publicar(tipo: str, urls: list[str], legenda: str) -> str:
 
 # ------------------------------------------------------------------ Threads
 def threads_publicar(texto: str, imagem_url: str | None = None) -> str:
-    uid, tok = env("THREADS_USER_ID"), env("THREADS_ACCESS_TOKEN")
-    if not (uid and tok):
-        raise MetaError("THREADS_USER_ID / THREADS_ACCESS_TOKEN ausentes")
+    tok = env("THREADS_ACCESS_TOKEN")
+    if not tok:
+        raise MetaError("THREADS_ACCESS_TOKEN ausente")
+    uid = _th_uid(tok)
     p = {"text": texto, "access_token": tok}
     if imagem_url:
         p |= {"media_type": "IMAGE", "image_url": imagem_url}
