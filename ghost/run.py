@@ -72,6 +72,8 @@ def instagram(tipo: str = "auto") -> None:
         log.info("verificar: %s", r)
         telegram.para_dono("🔌 Teste de conexão Meta\n" + "\n".join(f"{k}: {v}" for k, v in r.items()))
         return
+    if tipo == "teste":  # ensaio completo com produto de exemplo, só no Telegram do dono
+        return teste()
     agora = now()
     if tipo == "auto":
         if agora.weekday() == ig.get("carrossel_dia_semana", 6) and agora.hour < 14:
@@ -114,6 +116,36 @@ def instagram(tipo: str = "auto") -> None:
         meta.enfileirar({"canal": "instagram", "tipo": tipo, "ofertas": [o["id"]], "numeros": [o.get("numero")],
                          "arquivos": [_rel(arq)], "legenda": legenda, "criado": agora.isoformat()})
     vitrine.gerar()
+
+
+def teste() -> None:
+    """Ensaio geral com um produto de EXEMPLO: gera textos (IA), artes e o Reel e manda tudo
+    só para o Telegram do dono. Nada vai para os canais públicos nem para a vitrine."""
+    import random
+
+    from . import mock
+    from .core import env
+
+    o = random.choice(mock.ofertas(["cozinha"]))
+    o["numero"] = 0
+    chat = env("TELEGRAM_OWNER_CHAT_ID")
+
+    def foto(arq, legenda: str, html: bool = False) -> None:
+        d = {"chat_id": chat or "dono", "caption": legenda[:1024]}
+        if html:
+            d["parse_mode"] = "HTML"
+        with open(arq, "rb") as f:
+            telegram._api("sendPhoto", d, {"photo": f})
+
+    telegram.para_dono("🧪 Teste da Ghost com um produto de EXEMPLO (nada foi publicado nos canais).\n"
+                       "Vão chegar aqui: a oferta do Telegram, o post do Instagram, o do Threads e o Reel.")
+    foto(designer.post(o), "<b>📲 Assim sai no canal do Telegram:</b>\n\n" + redator.telegram(o), html=True)
+    foto(designer.post(o, "ig"), "📸 INSTAGRAM\n\n" + redator.instagram(o))
+    foto(designer.post(o, "th"), "🧵 THREADS\n\n" + redator.threads(o, o["link"]))
+    telegram.video_para_dono(videomaker.video(o), "🎬 REEL / TikTok / Shorts\n\n" + redator.tiktok(o)[:700])
+    r = meta.verificar()
+    telegram.para_dono(f"✅ Teste concluído (texto feito por: {o['copy'].get('origem', '?')}).\n"
+                       + "\n".join(f"{k}: {v}" for k, v in r.items()))
 
 
 def fila() -> None:
