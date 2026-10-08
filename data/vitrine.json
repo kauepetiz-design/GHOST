@@ -1,5 +1,15 @@
 [
   {
+    "numero": 3,
+    "titulo": "Cafeteira elétrica Electrolux inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "08/10/2026 11:35"
+  },
+  {
     "numero": 2,
     "titulo": "Processador triturador elÃ©trico",
     "preco": 7590.0,
