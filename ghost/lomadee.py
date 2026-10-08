@@ -38,6 +38,15 @@ BLOQUEIO_EXTRA = ["skincare", "cicatriz", "creme", "gel ", "pele", "cabelo", "ba
                   "shampoo", "suplemento", "vitamina", "capinha", "celular", "pet ", "cachorro", "gato "]
 
 
+# Buscas amplas que se alternam a cada rodada (as palavras do nicho são específicas demais para o catálogo das lojas)
+BUSCAS_GERAIS = [
+    "panela", "frigideira", "faca", "tábua", "assadeira", "forma", "utensílio cozinha", "colher", "espátula", "tigela",
+    "copo", "taça", "jarra", "garrafa", "pote", "marmita", "lancheira", "organizador cozinha", "escorredor", "peneira",
+    "ralador", "batedor", "avental", "pano de prato", "talher", "prato", "travessa", "cafeteira", "chaleira", "balança",
+]
+_CHAMADAS = {"n": 0}
+
+
 class LomadeeError(RuntimeError):
     pass
 
@@ -174,6 +183,21 @@ def _normalizar(p: dict, kw: str) -> dict | None:
 
 
 def buscar(kw: str, limite: int = 100) -> list[dict]:
+    """Busca a palavra do nicho + uma busca ampla que muda a cada chamada."""
+    import time
+
+    geral = BUSCAS_GERAIS[(int(time.time() // 3600) * 3 + _CHAMADAS["n"]) % len(BUSCAS_GERAIS)]
+    _CHAMADAS["n"] += 1
+    vistos_ids, out = set(), []
+    for termo in dict.fromkeys([kw, geral]):
+        for o in _buscar_um(termo, limite):
+            if o["id"] not in vistos_ids:
+                vistos_ids.add(o["id"])
+                out.append(o)
+    return out
+
+
+def _buscar_um(kw: str, limite: int) -> list[dict]:
     brutos = _produtos(kw, limite)
     if brutos:
         try:
