@@ -81,6 +81,7 @@ def _curadoria() -> list[dict]:
 
 def run() -> list[dict]:
     pool = {o["id"]: o for o in load_json(POOL, [])}
+    pool = {k: v for k, v in pool.items() if v.get("plataforma") != "lomadee"}  # Lomadee é recoletada a cada rodada
     agora = now()
     # remove ofertas velhas
     for k in list(pool):
