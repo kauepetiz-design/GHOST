@@ -13,6 +13,7 @@ import zlib
 from .. import mock
 from ..core import DATA_DIR, cfg, dry_run, get_logger, load_json, now, save_json, tema_atual
 from ..shopee import Shopee, normalize
+from .. import lomadee
 
 log = get_logger("cacador")
 POOL = "ofertas.json"
@@ -105,7 +106,12 @@ def run() -> list[dict]:
     else:
         # Em produção NUNCA usa ofertas de exemplo: sem a API da Shopee, só entra a curadoria manual.
         log.warning("API da Shopee ainda não configurada: usando só data/curadoria.csv")
-
+    if lomadee.configured() and not dry_run():
+        for kw in _palavras_do_dia():
+            try:
+                novas += lomadee.buscar(kw)
+            except Exception as e:  # noqa: BLE001
+                log.error("Lomadee '%s' falhou: %s", kw, e)
     novas += _curadoria()
     for o in novas:
         o["coletado_em"] = agora.isoformat()
