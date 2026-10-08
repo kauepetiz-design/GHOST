@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "id": "mercadolivre:cur0:2561553285",
+    "plataforma": "mercadolivre",
+    "item_id": "cur0",
+    "titulo": "Kit 12 potes hermÃ©ticos com trava 800 ml",
+    "preco": 3752.0,
+    "preco_de": null,
+    "desconto_pct": 0,
+    "comissao_pct": 12.0,
+    "comissao_valor": 300.16,
+    "vendas": 1000,
+    "nota": 4.8,
+    "imagem_url": null,
+    "link": "https://meli.la/27sUra2",
+    "loja": "Mercadolivre",
+    "fonte": "curadoria",
+    "nota_chef": "Pote transparente com trava deixa vocÃª ver o que sobrou sem abrir. Na cozinha profissional tudo Ã© guardado assim, etiquetado e com data.",
+    "keyword": "",
+    "coletado_em": "2026-10-08T10:24:22.485141-03:00",
+    "links": {}
+  },
+  {
+    "id": "mercadolivre:cur1:2420699312",
+    "plataforma": "mercadolivre",
+    "item_id": "cur1",
+    "titulo": "Cafeteira elÃ©trica Electrolux inox com filtro permanente",
+    "preco": 9350.0,
+    "preco_de": 12999.0,
+    "desconto_pct": 28,
+    "comissao_pct": 12.0,
+    "comissao_valor": 748.0,
+    "vendas": 1000,
+    "nota": 4.8,
+    "imagem_url": null,
+    "link": "https://meli.la/1yERjVW",
+    "loja": "Mercadolivre",
+    "fonte": "curadoria",
+    "nota_chef": "Filtro permanente Ã© menos papel no lixo e menos gasto no mÃªs. CafÃ© coado na hora rende bem mais do que o que ficou parado na garrafa.",
+    "keyword": "",
+    "coletado_em": "2026-10-08T10:24:22.485141-03:00",
+    "links": {}
+  },
+  {
+    "id": "mercadolivre:cur2:3558990979",
+    "plataforma": "mercadolivre",
+    "item_id": "cur2",
+    "titulo": "Processador triturador elÃ©trico de alimentos inox",
+    "preco": 7590.0,
+    "preco_de": 12990.0,
+    "desconto_pct": 42,
+    "comissao_pct": 12.0,
+    "comissao_valor": 607.2,
+    "vendas": 1000,
+    "nota": 4.8,
+    "imagem_url": null,
+    "link": "https://meli.la/2TXS1nT",
+    "loja": "Mercadolivre",
+    "fonte": "curadoria",
+    "nota_chef": "Cebola, alho e tempero picados em segundos. Corte em pedaÃ§os grandes antes, para nÃ£o passar do ponto e virar purÃª.",
+    "keyword": "",
+    "coletado_em": "2026-10-08T10:24:22.485141-03:00",
+    "links": {
+      "threads": "https://meli.la/2TXS1nT",
+      "vitrine": "https://meli.la/2TXS1nT"
+    },
+    "copy": {
+      "titulo_curto": "Processador triturador elÃ©trico",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Cebola, alho e tempero picados em segundos. Corte em pedaÃ§os grandes antes, para nÃ£o passar do ponto e virar purÃª.",
+      "beneficios": [
+        "Nota 4,8 de quem comprou",
+        "1.000 vendidos",
+        "42% abaixo do preço cheio"
+      ],
+      "roteiro": [
+        "Achado que vale cada centavo.",
+        "Processador triturador elÃ©trico.",
+        "Cebola, alho e tempero picados em segundos.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    },
+    "numero": 2
+  },
+  {
+    "id": "mercadolivre:cur3:3849204084",
+    "plataforma": "mercadolivre",
+    "item_id": "cur3",
+    "titulo": "Sanduicheira multilaser grill gourmet 750W",
+    "preco": 5499.0,
+    "preco_de": 19900.0,
+    "desconto_pct": 72,
+    "comissao_pct": 12.0,
+    "comissao_valor": 439.92,
+    "vendas": 1000,
+    "nota": 4.8,
+    "imagem_url": null,
+    "link": "https://meli.la/1UtKSFu",
+    "loja": "Mercadolivre",
+    "fonte": "curadoria",
+    "nota_chef": "PÃ£o fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
+    "keyword": "",
+    "coletado_em": "2026-10-08T10:24:22.485141-03:00",
+    "links": {
+      "telegram": "https://meli.la/1UtKSFu",
+      "vitrine": "https://meli.la/1UtKSFu"
+    },
+    "copy": {
+      "titulo_curto": "Sanduicheira multilaser grill gourmet",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "PÃ£o fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
+      "beneficios": [
+        "Nota 4,8 de quem comprou",
+        "1.000 vendidos",
+        "72% abaixo do preço cheio"
+      ],
+      "roteiro": [
+        "Isso aqui resolve um problema chato da cozinha.",
+        "Sanduicheira multilaser grill gourmet.",
+        "PÃ£o fechado e dourado em poucos minutos.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    },
+    "numero": 1
+  },
+  {
+    "id": "mercadolivre:cur4:4127098731",
+    "plataforma": "mercadolivre",
+    "item_id": "cur4",
+    "titulo": "Jogo de taÃ§as bowls de vidro para sobremesas",
+    "preco": 2390.0,
+    "preco_de": 3990.0,
+    "desconto_pct": 40,
+    "comissao_pct": 12.0,
+    "comissao_valor": 191.20000000000002,
+    "vendas": 1000,
+    "nota": 4.8,
+    "imagem_url": null,
+    "link": "https://meli.la/1NTGSPw",
+    "loja": "Mercadolivre",
+    "fonte": "curadoria",
+    "nota_chef": "Sobremesa em porÃ§Ã£o individual ganha cara de restaurante. Deixe a taÃ§a no freezer uns minutos antes de montar.",
+    "keyword": "",
+    "coletado_em": "2026-10-08T10:24:22.485141-03:00",
+    "links": {}
+  },
+  {
+    "id": "mercadolivre:cur5:1103780966",
+    "plataforma": "mercadolivre",
+    "item_id": "cur5",
+    "titulo": "Jogo 6 copos baixos Diamond 300 ml de vidro",
+    "preco": 2490.0,
+    "preco_de": 3990.0,
+    "desconto_pct": 38,
+    "comissao_pct": 12.0,
+    "comissao_valor": 199.20000000000002,
+    "vendas": 1000,
+    "nota": 4.8,
+    "imagem_url": null,
+    "link": "https://meli.la/2uCZfLN",
+    "loja": "Mercadolivre",
+    "fonte": "curadoria",
+    "nota_chef": "Copo baixo serve Ã¡gua, suco e atÃ© sobremesa em porÃ§Ã£o pequena. Lave Ã  mÃ£o com Ã¡gua morna para nÃ£o embaÃ§ar.",
+    "keyword": "",
+    "coletado_em": "2026-10-08T10:24:22.485141-03:00",
+    "links": {}
+  }
+]
