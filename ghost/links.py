@@ -14,6 +14,12 @@ def link(o: dict, canal: str) -> str:
     if canal in o["links"]:
         return o["links"][canal]
     url = o["link"]
+    if o["plataforma"] == "lomadee" and not dry_run():
+        from . import lomadee
+        try:
+            url = lomadee.short_link(o)
+        except Exception as e:  # noqa: BLE001
+            log.warning("não gerou link curto Lomadee (%s); usando URL do produto", e)
     if o["plataforma"] == "shopee" and o.get("fonte") == "api" and not dry_run():
         _shopee = _shopee or Shopee()
         sub = cfg("canais").get("sub_ids", {}).get(canal, canal)
