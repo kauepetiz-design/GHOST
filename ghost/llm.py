@@ -22,7 +22,7 @@ def _extrair_json(txt: str) -> dict:
 
 def _gemini(prompt: str) -> dict:
     key = env("GEMINI_API_KEY")
-    modelos = [m for m in (env("GEMINI_MODEL"), "gemini-flash-latest", "gemini-2.5-flash") if m]
+       modelos = [m for m in (env("GEMINI_MODEL"), "gemini-3.8-flash", "gemini-3.5-flash-lite", "gemini-flash-latest") if m]
     last = None
     for model in dict.fromkeys(modelos):
         try:
