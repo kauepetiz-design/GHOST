@@ -1,20 +1,41 @@
 """Cliente da API de Afiliados da Lomadee (REST).
 
-Autenticação: header  x-api-key: <LOMADEE_API_KEY>   (chave de afiliado, escopos products:read e shortener:write)
+Autenticação: header  x-api-key: <LOMADEE_API_KEY>   (chave de afiliado, escopos products:read, brands:read e shortener:write)
 Docs: https://docs.lomadee.com.br/api-reference/introduction.md
 
 - buscar(palavra)  -> lista de ofertas já no formato do pool da Ghost
 - short_link(o)    -> link curto COM rastreio de afiliado (só é chamado para ofertas que serão publicadas)
+
+Só entram produtos das lojas aprovadas (LOJAS_APROVADAS ou secret/variável LOMADEE_LOJAS, separadas por vírgula)
+e que sejam de cozinha/casa (lista de termos abaixo).
 """
 from __future__ import annotations
 
 import re
+import unicodedata
 
 from .core import cfg, env, get_logger, http, retry
 
 log = get_logger("lomadee")
 BASE = "https://api.lomadee.com.br"
 COMISSAO_PADRAO_PCT = 5.0  # a API não informa comissão; valor só entra na nota de ranking
+LOJAS_APROVADAS = ["Shopee", "Mundo Vem", "Desconto Aqui"]
+_ORGS: dict[str, str] | None = None  # id -> nome (cache por execução)
+
+# O produto só entra se o título tiver ao menos um destes termos (palavra inteira, singular ou plural).
+TERMOS_COZINHA = [
+    "panela", "frigideira", "cacarola", "assadeira", "forma", "tabua", "faca", "talher", "faqueiro", "colher",
+    "concha", "espatula", "escumadeira", "pegador", "batedor", "fouet", "peneira", "ralador", "descascador",
+    "abridor", "copo", "taca", "xicara", "caneca", "prato", "tigela", "bowl", "travessa", "jarra", "garrafa",
+    "pote", "marmita", "lancheira", "organizador", "porta tempero", "porta condimento", "escorredor", "pano de prato",
+    "avental", "luva termica", "cafeteira", "chaleira", "liquidificador", "mixer", "processador", "batedeira",
+    "air fryer", "fritadeira", "sanduicheira", "grill", "torradeira", "balanca de cozinha", "termometro culinario",
+    "galheiro", "saleiro", "açucareiro", "acucareiro", "moedor", "fatiador", "cortador", "utensilio", "cozinha",
+    "jogo americano", "descanso de panela", "formas", "forminha", "dispenser", "chapa", "espremedor", "garrafa termica",
+    "caixa organizadora", "lixeira", "escorredor de louca", "pia", "tabua de corte", "kit churrasco", "churrasco",
+]
+BLOQUEIO_EXTRA = ["skincare", "cicatriz", "creme", "gel ", "pele", "cabelo", "batom", "maquiagem", "perfume",
+                  "shampoo", "suplemento", "vitamina", "capinha", "celular", "pet ", "cachorro", "gato "]
 
 
 class LomadeeError(RuntimeError):
@@ -41,15 +62,47 @@ def _check(r, what: str):
     return r.json()
 
 
+def _norm(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", " ", s)).strip()
+
+
+def _lojas() -> dict[str, str]:
+    """Resolve os IDs das lojas aprovadas pelo nome (GET /affiliate/brands?search=...)."""
+    global _ORGS
+    if _ORGS is not None:
+        return _ORGS
+    nomes = [n.strip() for n in (env("LOMADEE_LOJAS") or "").split(",") if n.strip()] or LOJAS_APROVADAS
+    achadas: dict[str, str] = {}
+    for nome in nomes:
+        def go(nome=nome):
+            r = http().get(f"{BASE}/affiliate/brands", headers=_headers(),
+                           params={"search": nome, "limit": 20, "page": 1}, timeout=30)
+            return _check(r, "Lomadee marcas")
+
+        d = retry(go, tries=3, what="Lomadee marcas")
+        alvo = _norm(nome)
+        for b in d.get("data") or []:
+            n = _norm(b.get("name", ""))
+            if n == alvo or n.startswith(alvo):
+                achadas[b["id"]] = b.get("name", nome)
+        if not any(_norm(v).startswith(alvo) for v in achadas.values()):
+            log.warning("loja '%s' não encontrada na Lomadee (confira o nome exato no painel)", nome)
+    log.info("lojas Lomadee usadas: %s", ", ".join(sorted(achadas.values())) or "nenhuma")
+    _ORGS = achadas
+    return achadas
+
+
 def _produtos(search: str, limit: int, page: int = 1) -> list[dict]:
-    f = cfg("nicho")["filtros"]
+    orgs = _lojas()
+    if not orgs:
+        return []
     params = {
         "search": search,
         "limit": max(1, min(limit, 100)),
         "page": page,
         "isAvailable": "true",
-        # faixa de preço em centavos, formato from:to
-        "price": f"{int(f['preco_min'] * 100)}:{int(f['preco_max'] * 100)}",
+        "organizationIds": ",".join(orgs),
     }
 
     def go():
@@ -58,6 +111,16 @@ def _produtos(search: str, limit: int, page: int = 1) -> list[dict]:
 
     d = retry(go, tries=3, what="Lomadee produtos")
     return d.get("data") or []
+
+
+def _da_cozinha(titulo: str) -> bool:
+    t = " " + _norm(titulo) + " "
+    if any(b in t for b in BLOQUEIO_EXTRA):
+        return False
+    bloq = [str(b).lower() for b in (cfg("nicho").get("bloqueio") or [])]
+    if any(b in titulo.lower() for b in bloq):
+        return False
+    return any(re.search(rf"\b{re.escape(term)}s?\b", t) for term in map(_norm, TERMOS_COZINHA))
 
 
 def _normalizar(p: dict, kw: str) -> dict | None:
@@ -71,17 +134,19 @@ def _normalizar(p: dict, kw: str) -> dict | None:
         for pr in op.get("pricing") or []:
             v = pr.get("price")
             if v:
-                preco, lista = v / 100, (pr.get("listPrice") or 0) / 100
+                # Observado na prática: a API devolve o valor em REAIS (a doc diz centavos, mas não bate).
+                preco, lista = float(v), float(pr.get("listPrice") or 0)
                 break
         if preco:
             break
-    if not preco:
+    f = cfg("nicho")["filtros"]
+    if not preco or not (f["preco_min"] <= preco <= f["preco_max"]):
         return None
     img = ((p.get("images") or [{}])[0].get("url")
            or next((i.get("url") for op in opcoes for i in (op.get("images") or []) if i.get("url")), None))
     nome = re.sub(r"\s+", " ", (p.get("name") or "")).strip()
     url = (p.get("url") or "").strip()
-    if not (img and nome and url.startswith("http")):
+    if not (img and nome and url.startswith("http")) or not _da_cozinha(nome):
         return None
     de = lista if lista and lista > preco else None
     return {
@@ -108,9 +173,14 @@ def _normalizar(p: dict, kw: str) -> dict | None:
     }
 
 
-def buscar(kw: str, limite: int | None = None) -> list[dict]:
-    limite = limite or cfg("nicho").get("resultados_por_palavra", 20)
+def buscar(kw: str, limite: int = 100) -> list[dict]:
     brutos = _produtos(kw, limite)
+    if brutos:
+        try:
+            pr0 = (brutos[0].get("options") or [{}])[0].get("pricing") or [{}]
+            log.info("amostra de preço bruto: %s -> %r", (brutos[0].get("name") or "")[:40], pr0[0].get("price"))
+        except Exception:  # noqa: BLE001
+            pass
     vistos, out = set(), []
     for p in brutos:
         o = _normalizar(p, kw)
