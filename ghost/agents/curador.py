@@ -40,8 +40,8 @@ def nota(o: dict) -> float:
     score = (
         w["comissao_valor"] * min(o.get("comissao_valor", 0), 20) / 20
         + w["desconto"] * min(o.get("desconto_pct", 0), 60) / 60
-        + w["vendas"] * min(math.log10(o.get("vendas", 0) + 1), 4.5) / 4.5
-        + w["nota"] * max(o.get("nota") or 0) - 4.0
+        + w["vendas"] * min(math.log10((o.get("vendas") or 0) + 1), 4.5) / 4.5
+        + w["nota"] * max((o.get("nota") or 0) - 4.0, 0)
         + w["tema_do_dia"] * bonus_tema
     )
     if o["fonte"] == "curadoria":
