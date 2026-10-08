@@ -1,7 +1,7 @@
-plataforma,titulo,link,preco,preco_de,imagem_url,nota_chef,ativo
-mercadolivre,Kit 12 potes hermÃ©ticos com trava 800 ml,https://meli.la/27sUra2,37.52,,,"Pote transparente com trava deixa vocÃª ver o que sobrou sem abrir. Na cozinha profissional tudo Ã© guardado assim, etiquetado e com data.",sim
-mercadolivre,Cafeteira elÃ©trica Electrolux inox com filtro permanente,https://meli.la/1yERjVW,93.50,129.99,,"Filtro permanente Ã© menos papel no lixo e menos gasto no mÃªs. CafÃ© coado na hora rende bem mais do que o que ficou parado na garrafa.",sim
-mercadolivre,Processador triturador elÃ©trico de alimentos inox,https://meli.la/2TXS1nT,75.90,129.90,,"Cebola, alho e tempero picados em segundos. Corte em pedaÃ§os grandes antes, para nÃ£o passar do ponto e virar purÃª.",sim
-mercadolivre,Sanduicheira multilaser grill gourmet 750W,https://meli.la/1UtKSFu,54.99,199.00,,"PÃ£o fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",sim
-mercadolivre,Jogo de taÃ§as bowls de vidro para sobremesas,https://meli.la/1NTGSPw,23.90,39.90,,"Sobremesa em porÃ§Ã£o individual ganha cara de restaurante. Deixe a taÃ§a no freezer uns minutos antes de montar.",sim
-mercadolivre,Jogo 6 copos baixos Diamond 300 ml de vidro,https://meli.la/2uCZfLN,24.90,39.90,,"Copo baixo serve Ã¡gua, suco e atÃ© sobremesa em porÃ§Ã£o pequena. Lave Ã  mÃ£o com Ã¡gua morna para nÃ£o embaÃ§ar.",sim
+plataforma,titulo,link,preco,preco_de,imagem_url,nota_chef,ativo,nota,vendas
+mercadolivre,Kit 12 potes herméticos com trava 800 ml,https://meli.la/27sUra2,"37,52","39,50",,"Pote transparente com trava deixa você ver o que sobrou sem abrir. Na cozinha profissional tudo é guardado assim, etiquetado e com data.",sim,,
+mercadolivre,Cafeteira elétrica Electrolux inox com filtro permanente,https://meli.la/1yERjVW,"93,50","129,99",,"Filtro permanente é menos papel no lixo e menos gasto no mês. Café coado na hora tem muito mais aroma do que o que ficou parado na garrafa.",sim,"4,8",100000
+mercadolivre,Processador triturador elétrico de alimentos inox 2 L (220V),https://meli.la/2TXS1nT,"75,90","129,90",,"Cebola, alho e tempero picados em segundos. Corte em pedaços grandes antes, para não passar do ponto e virar purê.",sim,"4,7",5000
+mercadolivre,Sanduicheira multilaser grill gourmet 750W,https://meli.la/1UtKSFu,"54,99","199,00",,"Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",sim,"4,8",1000
+mercadolivre,Jogo de taças bowls de vidro para sobremesas (6 un.),https://meli.la/1NTGSPw,"23,90","39,90",,"Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar.",sim,"4,8",10000
+mercadolivre,Jogo 6 copos baixos Diamond 300 ml de vidro,https://meli.la/2uCZfLN,"24,90","39,90",,"Copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",sim,"4,9",5000
