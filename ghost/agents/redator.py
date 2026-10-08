@@ -160,7 +160,7 @@ def threads(o: dict, url: str) -> str:
 def instagram(o: dict) -> str:
     c, m = copy(o), cfg("marca")
     vitrine = public_base_url()
-    tags = " ".join("#" + h.lstrip("#") for h in c["hashtags"][:5])
+    tags = " ".join(["#publi"] + ["#" + h.lstrip("#") for h in c["hashtags"][:4]])
     return (
         f"{c['gancho']}\n\n"
         f"{c['titulo_curto']} | {_linha_preco(o)}\n\n"
