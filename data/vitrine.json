@@ -1,5 +1,15 @@
 [
   {
+    "numero": 5,
+    "titulo": "Jogo de taças bowls de vidro",
+    "preco": 23.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
+    "link": "https://meli.la/1NTGSPw",
+    "atualizado": "08/10/2026 12:34"
+  },
+  {
     "numero": 4,
     "titulo": "Jogo de panelas antiaderente cerâmica",
     "preco": 479.99,
