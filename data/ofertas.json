@@ -17,7 +17,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pote transparente com trava deixa você ver o que sobrou sem abrir. Na cozinha profissional tudo é guardado assim, etiquetado e com data.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -39,7 +39,7 @@
     "fonte": "curadoria",
     "nota_chef": "Filtro permanente é menos papel no lixo e menos gasto no mês. Café coado na hora tem muito mais aroma do que o que ficou parado na garrafa.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {
       "telegram": "https://meli.la/1yERjVW",
       "vitrine": "https://meli.la/1yERjVW"
@@ -64,7 +64,7 @@
     "fonte": "curadoria",
     "nota_chef": "Cebola, alho e tempero picados em segundos. Corte em pedaços grandes antes, para não passar do ponto e virar purê.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {
       "threads": "https://meli.la/2TXS1nT",
       "vitrine": "https://meli.la/2TXS1nT"
@@ -89,7 +89,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {
       "telegram": "https://meli.la/1UtKSFu",
       "vitrine": "https://meli.la/1UtKSFu"
@@ -114,36 +114,12 @@
     "fonte": "curadoria",
     "nota_chef": "Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {
       "telegram": "https://meli.la/1NTGSPw",
       "vitrine": "https://meli.la/1NTGSPw"
     },
-    "numero": 5,
-    "copy": {
-      "titulo_curto": "Jogo de taças bowls de vidro",
-      "gancho": "O item que eu mais uso na cozinha do restaurante",
-      "dica_chef": "Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar.",
-      "beneficios": [
-        "Nota 4,8 de quem comprou",
-        "10.000 vendidos",
-        "40% abaixo do preço cheio"
-      ],
-      "roteiro": [
-        "O item que eu mais uso na cozinha do restaurante.",
-        "Jogo de taças bowls de vidro.",
-        "Sobremesa em porção individual ganha cara de restaurante.",
-        "Procura Achei na Cozinha no Telegram. O link tá lá."
-      ],
-      "hashtags": [
-        "achadinhos",
-        "cozinha",
-        "dicasdecozinha",
-        "utilidadesdomesticas",
-        "achadinhosshopee"
-      ],
-      "origem": "template"
-    }
+    "numero": 5
   },
   {
     "id": "mercadolivre:cur5:1103780966",
@@ -163,9 +139,36 @@
     "fonte": "curadoria",
     "nota_chef": "Copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
+    "links": {
+      "telegram": "https://meli.la/2uCZfLN",
+      "vitrine": "https://meli.la/2uCZfLN"
+    },
+    "numero": 6,
+    "copy": {
+      "titulo_curto": "Jogo 6 copos baixos Diamond 300 ml",
+      "gancho": "Achado que vale cada centavo",
+      "dica_chef": "Copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",
+      "beneficios": [
+        "Nota 4,9 de quem comprou",
+        "5.000 vendidos",
+        "38% abaixo do preço cheio"
+      ],
+      "roteiro": [
+        "Cozinha de chef gastando pouco.",
+        "Jogo 6 copos baixos Diamond 300 ml.",
+        "Copo baixo serve água, suco e até sobremesa em porção pequena.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur6:71794851",
@@ -185,7 +188,7 @@
     "fonte": "curadoria",
     "nota_chef": "Talher bom muda a mesa. Lave e seque logo depois do uso para o inox manter o brilho.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -207,7 +210,7 @@
     "fonte": "curadoria",
     "nota_chef": "Três tamanhos de tigela resolvem a mise en place: separe tudo antes de ligar o fogo, como numa cozinha profissional.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -229,7 +232,7 @@
     "fonte": "curadoria",
     "nota_chef": "Vidro não pega cheiro nem mancha. Dá para guardar, esquentar e servir no mesmo pote.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -251,7 +254,7 @@
     "fonte": "curadoria",
     "nota_chef": "Talher bom muda a mesa. Lave e seque logo depois do uso para o inox manter o brilho.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -273,7 +276,7 @@
     "fonte": "curadoria",
     "nota_chef": "Torneira alta com jato flexível facilita encher panelas e lavar a pia. Confira a rosca e a pressão da sua instalação antes de comprar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -295,7 +298,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pano de prato de algodão seca louça sem deixar fiapo. Tenha um para a louça e outro só para as mãos.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -317,7 +320,7 @@
     "fonte": "curadoria",
     "nota_chef": "Copo grande com tampa e canudo para a água do dia inteiro. Quem trabalha em cozinha sabe: hidratar faz parte do serviço.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -339,7 +342,7 @@
     "fonte": "curadoria",
     "nota_chef": "Vidro com 4 travas é ótimo para molhos e sobras. Deixe esfriar antes de fechar e levar à geladeira.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -361,7 +364,7 @@
     "fonte": "curadoria",
     "nota_chef": "Padronize os potes e etiquete com a data. Na cozinha profissional é assim que se evita desperdício.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -383,7 +386,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pano atoalhado absorve bem e poupa papel toalha no dia a dia. Lave separado do resto da roupa.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -405,7 +408,7 @@
     "fonte": "curadoria",
     "nota_chef": "Lixeira com pedal é higiene na prática: você abre sem encostar a mão suja. O balde removível facilita a limpeza.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -427,7 +430,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pano de copa serve de apoio para secar louça e tirar o excesso de líquido.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -449,7 +452,7 @@
     "fonte": "curadoria",
     "nota_chef": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -471,7 +474,7 @@
     "fonte": "curadoria",
     "nota_chef": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -493,7 +496,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pote com tampa de bambu deixa a bancada organizada e guarda massas e grãos longe da umidade.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -515,7 +518,7 @@
     "fonte": "curadoria",
     "nota_chef": "Taça de vidro grosso serve para sobremesa ou para a mesa posta.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -537,7 +540,7 @@
     "fonte": "curadoria",
     "nota_chef": "Giratório deixa todos os temperos ao alcance de uma mão. Mantenha longe do fogo para o sal e as ervas não pegarem umidade.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -559,7 +562,7 @@
     "fonte": "curadoria",
     "nota_chef": "Potes pequenos mantêm o tempero fresco e à mão.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -581,7 +584,7 @@
     "fonte": "curadoria",
     "nota_chef": "Antiaderente dura mais com fogo médio e utensílio de silicone ou madeira. Evite esponja de aço.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {
       "telegram": "https://meli.la/2Y9cBfF",
       "vitrine": "https://meli.la/2Y9cBfF"
@@ -606,7 +609,7 @@
     "fonte": "curadoria",
     "nota_chef": "Taça individual transforma sobremesa simples em prato de restaurante. Gele a taça antes de montar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -628,7 +631,7 @@
     "fonte": "curadoria",
     "nota_chef": "Separar frutas e verduras em potes com tampa ajuda a ver o que tem e a usar tudo antes de estragar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -650,7 +653,7 @@
     "fonte": "curadoria",
     "nota_chef": "Corte uniforme é cozimento uniforme. Use sempre o protetor de mão: a lâmina é muito afiada.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -672,7 +675,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pote com trava e transparente: você vê o conteúdo sem abrir. Etiquete com a data de preparo.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -694,7 +697,7 @@
     "fonte": "curadoria",
     "nota_chef": "Colher, concha e escumadeira resolvem a maior parte das panelas. Inox risca antiaderente, então confira antes de usar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -716,7 +719,7 @@
     "fonte": "curadoria",
     "nota_chef": "Evite choque térmico: não leve panela quente direto para a água fria. Fogo médio e tampa fazem a comida cozinhar por igual.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -738,7 +741,7 @@
     "fonte": "curadoria",
     "nota_chef": "Forma de alumínio distribui bem o calor. Unte e polvilhe para desenformar sem quebrar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -760,7 +763,7 @@
     "fonte": "curadoria",
     "nota_chef": "Panela de pressão reduz o tempo de cozimento de feijão e carnes. Nunca force a abertura e mantenha a válvula limpa.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -782,7 +785,7 @@
     "fonte": "curadoria",
     "nota_chef": "Escorredor suspenso libera a bancada. Deixe a louça pingar antes de guardar para não molhar o armário.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   },
@@ -805,8 +808,8 @@
     "loja": "Loja parceira",
     "fonte": "curadoria",
     "nota_chef": "",
-    "keyword": "espremedor de alho",
-    "coletado_em": "2026-10-08T12:34:22.285627-03:00",
+    "keyword": "dispenser de detergente",
+    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
     "links": {},
     "numero": null
   }
