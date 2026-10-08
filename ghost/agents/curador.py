@@ -26,8 +26,8 @@ def _passa_filtros(o: dict) -> bool:
     p = o.get("preco") or 0
     return (
         f["preco_min"] <= p <= f["preco_max"]
-        and o.get("nota", 0) >= f["nota_min"]
-        and o.get("vendas", 0) >= f["vendas_min"]
+        and (o.get("nota") or 0) >= f["nota_min"]
+        and (o.get("vendas") or 0) >= f["vendas_min"]
         and o.get("comissao_pct", 0) >= f["comissao_pct_min"]
     )
 
@@ -41,7 +41,7 @@ def nota(o: dict) -> float:
         w["comissao_valor"] * min(o.get("comissao_valor", 0), 20) / 20
         + w["desconto"] * min(o.get("desconto_pct", 0), 60) / 60
         + w["vendas"] * min(math.log10(o.get("vendas", 0) + 1), 4.5) / 4.5
-        + w["nota"] * max(o.get("nota", 0) - 4.0, 0)
+        + w["nota"] * max(o.get("nota") or 0) - 4.0
         + w["tema_do_dia"] * bonus_tema
     )
     if o["fonte"] == "curadoria":
