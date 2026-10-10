@@ -47,5 +47,21 @@
     "numero": 6,
     "titulo": "Jogo 6 copos baixos Diamond 300 ml de vidro",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur2:3558990979",
+    "canal": "telegram",
+    "quando": "2026-10-10T15:57:05.632023-03:00",
+    "numero": 2,
+    "titulo": "Processador triturador elétrico de alimentos inox 2 L (220V)",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur30:2384686910",
+    "canal": "telegram",
+    "quando": "2026-10-10T15:57:17.520845-03:00",
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderentes 10 peças Baunilha",
+    "plataforma": "mercadolivre"
   }
 ]

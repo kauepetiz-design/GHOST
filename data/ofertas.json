@@ -1,5 +1,29 @@
 [
   {
+    "id": "lomadee:2914",
+    "plataforma": "lomadee",
+    "item_id": "2914",
+    "titulo": "Assadeira para Pão de Semolina 40x60cm Vermelha com 3 Tiras em Silicone - Linha Pró Chef Silpró",
+    "preco": 265.17,
+    "preco_de": null,
+    "desconto_pct": 0,
+    "comissao_pct": 5.0,
+    "comissao_valor": 13.26,
+    "vendas": null,
+    "nota": null,
+    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
+    "link": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p",
+    "link_produto": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p",
+    "organization_id": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
+    "loja": "Loja parceira",
+    "fonte": "curadoria",
+    "nota_chef": "",
+    "keyword": "moedor de pimenta",
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {},
+    "numero": null
+  },
+  {
     "id": "mercadolivre:cur0:2561553285",
     "plataforma": "mercadolivre",
     "item_id": "cur0",
@@ -17,9 +41,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pote transparente com trava deixa você ver o que sobrou sem abrir. Na cozinha profissional tudo é guardado assim, etiquetado e com data.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur1:2420699312",
@@ -39,10 +62,34 @@
     "fonte": "curadoria",
     "nota_chef": "Filtro permanente é menos papel no lixo e menos gasto no mês. Café coado na hora tem muito mais aroma do que o que ficou parado na garrafa.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
     "links": {
-      "telegram": "https://meli.la/1yERjVW",
+      "threads": "https://meli.la/1yERjVW",
       "vitrine": "https://meli.la/1yERjVW"
+    },
+    "copy": {
+      "titulo_curto": "cafeteira eletrica inox",
+      "gancho": "cafe frio ou sem aroma estraga a concentracao no servico.",
+      "dica_chef": "o filtro permanente elimina o custo com papel e reduz residuos. fazer o cafe na hora garante o aroma fresco que a garrafa termica perde com o tempo.",
+      "beneficios": [
+        "filtro permanente economico",
+        "acabamento em inox resistente",
+        "cafe fresco a qualquer hora"
+      ],
+      "roteiro": [
+        "precisa de cafe fresco rapido no meio do turno?",
+        "esta cafeteira eletrica inox custa noventa e tres reais.",
+        "o filtro permanente reduz custos e melhora o aroma.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "acheinacozinha",
+        "cafeteiraeletrica",
+        "cozinhaprofissional",
+        "achadosdodia",
+        "utilidadesdomesticas"
+      ],
+      "origem": "ia"
     },
     "numero": 3
   },
@@ -64,10 +111,34 @@
     "fonte": "curadoria",
     "nota_chef": "Cebola, alho e tempero picados em segundos. Corte em pedaços grandes antes, para não passar do ponto e virar purê.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
     "links": {
-      "threads": "https://meli.la/2TXS1nT",
+      "telegram": "https://meli.la/2TXS1nT",
       "vitrine": "https://meli.la/2TXS1nT"
+    },
+    "copy": {
+      "titulo_curto": "Processador triturador inox 2 L (220V)",
+      "gancho": "Picar cebola e alho na faca todo dia cansa e toma tempo.",
+      "dica_chef": "Corte os vegetais em pedaços grandes antes de bater. Dê pulsos curtos para controlar o corte e não virar purê.",
+      "beneficios": [
+        "Capacidade prática de 2 litros",
+        "Tritura alho e temperos em segundos",
+        "Estrutura resistente em inox"
+      ],
+      "roteiro": [
+        "Perder tempo picando tempero na faca atrasa qualquer preparo.",
+        "Esse triturador elétrico de inox de 2 litros agiliza a base da comida.",
+        "Corte em pedaços grandes e pulse para controlar a textura certa.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "cozinha",
+        "processadordealimentos",
+        "dicasdecozinha",
+        "utensiliosdecozinha",
+        "prepreparo"
+      ],
+      "origem": "ia"
     },
     "numero": 2
   },
@@ -89,12 +160,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {
-      "telegram": "https://meli.la/1UtKSFu",
-      "vitrine": "https://meli.la/1UtKSFu"
-    },
-    "numero": 1
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur4:4127098731",
@@ -114,12 +181,8 @@
     "fonte": "curadoria",
     "nota_chef": "Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {
-      "telegram": "https://meli.la/1NTGSPw",
-      "vitrine": "https://meli.la/1NTGSPw"
-    },
-    "numero": 5
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur5:1103780966",
@@ -139,36 +202,8 @@
     "fonte": "curadoria",
     "nota_chef": "Copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {
-      "telegram": "https://meli.la/2uCZfLN",
-      "vitrine": "https://meli.la/2uCZfLN"
-    },
-    "numero": 6,
-    "copy": {
-      "titulo_curto": "Jogo 6 copos baixos Diamond 300 ml",
-      "gancho": "Achado que vale cada centavo",
-      "dica_chef": "Copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",
-      "beneficios": [
-        "Nota 4,9 de quem comprou",
-        "5.000 vendidos",
-        "38% abaixo do preço cheio"
-      ],
-      "roteiro": [
-        "Cozinha de chef gastando pouco.",
-        "Jogo 6 copos baixos Diamond 300 ml.",
-        "Copo baixo serve água, suco e até sobremesa em porção pequena.",
-        "Procura Achei na Cozinha no Telegram. O link tá lá."
-      ],
-      "hashtags": [
-        "achadinhos",
-        "cozinha",
-        "dicasdecozinha",
-        "utilidadesdomesticas",
-        "achadinhosshopee"
-      ],
-      "origem": "template"
-    }
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur6:71794851",
@@ -188,9 +223,8 @@
     "fonte": "curadoria",
     "nota_chef": "Talher bom muda a mesa. Lave e seque logo depois do uso para o inox manter o brilho.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur7:3768554742",
@@ -210,9 +244,8 @@
     "fonte": "curadoria",
     "nota_chef": "Três tamanhos de tigela resolvem a mise en place: separe tudo antes de ligar o fogo, como numa cozinha profissional.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur8:1568281691",
@@ -232,9 +265,8 @@
     "fonte": "curadoria",
     "nota_chef": "Vidro não pega cheiro nem mancha. Dá para guardar, esquentar e servir no mesmo pote.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur9:469022862",
@@ -254,9 +286,8 @@
     "fonte": "curadoria",
     "nota_chef": "Talher bom muda a mesa. Lave e seque logo depois do uso para o inox manter o brilho.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur10:4020084223",
@@ -276,9 +307,8 @@
     "fonte": "curadoria",
     "nota_chef": "Torneira alta com jato flexível facilita encher panelas e lavar a pia. Confira a rosca e a pressão da sua instalação antes de comprar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur11:2823022655",
@@ -298,9 +328,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pano de prato de algodão seca louça sem deixar fiapo. Tenha um para a louça e outro só para as mãos.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur12:481249355",
@@ -320,9 +349,8 @@
     "fonte": "curadoria",
     "nota_chef": "Copo grande com tampa e canudo para a água do dia inteiro. Quem trabalha em cozinha sabe: hidratar faz parte do serviço.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur13:2173701442",
@@ -342,9 +370,8 @@
     "fonte": "curadoria",
     "nota_chef": "Vidro com 4 travas é ótimo para molhos e sobras. Deixe esfriar antes de fechar e levar à geladeira.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur14:2202310318",
@@ -364,9 +391,8 @@
     "fonte": "curadoria",
     "nota_chef": "Padronize os potes e etiquete com a data. Na cozinha profissional é assim que se evita desperdício.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur15:2032128686",
@@ -386,9 +412,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pano atoalhado absorve bem e poupa papel toalha no dia a dia. Lave separado do resto da roupa.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur16:1048184719",
@@ -408,9 +433,8 @@
     "fonte": "curadoria",
     "nota_chef": "Lixeira com pedal é higiene na prática: você abre sem encostar a mão suja. O balde removível facilita a limpeza.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur17:2591903435",
@@ -430,9 +454,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pano de copa serve de apoio para secar louça e tirar o excesso de líquido.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur18:4060829100",
@@ -452,9 +475,8 @@
     "fonte": "curadoria",
     "nota_chef": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur19:3788327414",
@@ -474,9 +496,8 @@
     "fonte": "curadoria",
     "nota_chef": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur20:715089928",
@@ -496,9 +517,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pote com tampa de bambu deixa a bancada organizada e guarda massas e grãos longe da umidade.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur21:2201461541",
@@ -518,9 +538,8 @@
     "fonte": "curadoria",
     "nota_chef": "Taça de vidro grosso serve para sobremesa ou para a mesa posta.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur22:330437759",
@@ -540,9 +559,8 @@
     "fonte": "curadoria",
     "nota_chef": "Giratório deixa todos os temperos ao alcance de uma mão. Mantenha longe do fogo para o sal e as ervas não pegarem umidade.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur23:3825772000",
@@ -562,9 +580,8 @@
     "fonte": "curadoria",
     "nota_chef": "Potes pequenos mantêm o tempero fresco e à mão.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur24:1360100424",
@@ -584,12 +601,8 @@
     "fonte": "curadoria",
     "nota_chef": "Antiaderente dura mais com fogo médio e utensílio de silicone ou madeira. Evite esponja de aço.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {
-      "telegram": "https://meli.la/2Y9cBfF",
-      "vitrine": "https://meli.la/2Y9cBfF"
-    },
-    "numero": 4
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur25:4057462633",
@@ -609,9 +622,8 @@
     "fonte": "curadoria",
     "nota_chef": "Taça individual transforma sobremesa simples em prato de restaurante. Gele a taça antes de montar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur26:2954431803",
@@ -631,9 +643,8 @@
     "fonte": "curadoria",
     "nota_chef": "Separar frutas e verduras em potes com tampa ajuda a ver o que tem e a usar tudo antes de estragar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur27:3585428942",
@@ -653,9 +664,8 @@
     "fonte": "curadoria",
     "nota_chef": "Corte uniforme é cozimento uniforme. Use sempre o protetor de mão: a lâmina é muito afiada.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur28:98223228",
@@ -675,9 +685,8 @@
     "fonte": "curadoria",
     "nota_chef": "Pote com trava e transparente: você vê o conteúdo sem abrir. Etiquete com a data de preparo.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur29:3208275664",
@@ -697,9 +706,8 @@
     "fonte": "curadoria",
     "nota_chef": "Colher, concha e escumadeira resolvem a maior parte das panelas. Inox risca antiaderente, então confira antes de usar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur30:2384686910",
@@ -719,9 +727,36 @@
     "fonte": "curadoria",
     "nota_chef": "Evite choque térmico: não leve panela quente direto para a água fria. Fogo médio e tampa fazem a comida cozinhar por igual.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {
+      "telegram": "https://meli.la/1U1iWdD",
+      "vitrine": "https://meli.la/1U1iWdD"
+    },
+    "copy": {
+      "titulo_curto": "Jogo de panelas antiaderente 10 peças",
+      "gancho": "Cansou de panela que perde o antiaderente rápido?",
+      "dica_chef": "Nunca lave a panela quente na água fria para não estragar o fundo. Use fogo médio e tampa para cozinhar o alimento por igual.",
+      "beneficios": [
+        "Kit completo com 10 peças para a rotina",
+        "Revestimento antiaderente fácil de limpar",
+        "Acabamento neutro na cor baunilha"
+      ],
+      "roteiro": [
+        "Cansou de panela que perde o antiaderente rápido?",
+        "Esse jogo baunilha vem com 10 peças práticas para qualquer preparo.",
+        "Dica de chef: use fogo médio com tampa e nunca jogue água fria na panela quente.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "jogodepanelas",
+        "panelaantiaderente",
+        "cozinhapratica",
+        "achadosdecozinha",
+        "acheinacozinha"
+      ],
+      "origem": "ia"
+    },
+    "numero": 7
   },
   {
     "id": "mercadolivre:cur31:1603500789",
@@ -741,9 +776,8 @@
     "fonte": "curadoria",
     "nota_chef": "Forma de alumínio distribui bem o calor. Unte e polvilhe para desenformar sem quebrar.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur32:3636549427",
@@ -763,9 +797,8 @@
     "fonte": "curadoria",
     "nota_chef": "Panela de pressão reduz o tempo de cozimento de feijão e carnes. Nunca force a abertura e mantenha a válvula limpa.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   },
   {
     "id": "mercadolivre:cur33:2072850384",
@@ -785,32 +818,7 @@
     "fonte": "curadoria",
     "nota_chef": "Escorredor suspenso libera a bancada. Deixe a louça pingar antes de guardar para não molhar o armário.",
     "keyword": "",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
-  },
-  {
-    "id": "lomadee:2914",
-    "plataforma": "lomadee",
-    "item_id": "2914",
-    "titulo": "Assadeira para Pão de Semolina 40x60cm Vermelha com 3 Tiras em Silicone - Linha Pró Chef Silpró",
-    "preco": 265.17,
-    "preco_de": null,
-    "desconto_pct": 0,
-    "comissao_pct": 5.0,
-    "comissao_valor": 13.26,
-    "vendas": null,
-    "nota": null,
-    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
-    "link": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p",
-    "link_produto": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p",
-    "organization_id": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-    "loja": "Loja parceira",
-    "fonte": "curadoria",
-    "nota_chef": "",
-    "keyword": "dispenser de detergente",
-    "coletado_em": "2026-10-08T12:42:16.641244-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T15:56:41.152712-03:00",
+    "links": {}
   }
 ]

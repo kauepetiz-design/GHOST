@@ -1,5 +1,35 @@
 [
   {
+    "numero": 3,
+    "titulo": "cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "10/10/2026 15:58"
+  },
+  {
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderente 10 peças",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "10/10/2026 15:57"
+  },
+  {
+    "numero": 2,
+    "titulo": "Processador triturador inox 2 L (220V)",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "10/10/2026 15:57"
+  },
+  {
     "numero": 6,
     "titulo": "Jogo 6 copos baixos Diamond 300 ml",
     "preco": 24.9,
@@ -28,26 +58,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
     "link": "https://meli.la/2Y9cBfF",
     "atualizado": "08/10/2026 12:23"
-  },
-  {
-    "numero": 3,
-    "titulo": "Cafeteira elétrica Electrolux inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "08/10/2026 11:35"
-  },
-  {
-    "numero": 2,
-    "titulo": "Processador triturador elÃ©trico",
-    "preco": 7590.0,
-    "preco_de": 12990.0,
-    "plataforma": "mercadolivre",
-    "imagem": "placeholder.jpg",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "08/10/2026 10:24"
   },
   {
     "numero": 1,
