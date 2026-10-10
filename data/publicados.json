@@ -72,5 +72,21 @@
     "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
     "plataforma": "mercadolivre",
     "post_id": "18366679192246584"
+  },
+  {
+    "id": "mercadolivre:cur8:1568281691",
+    "canal": "telegram",
+    "quando": "2026-10-10T17:33:42.698086-03:00",
+    "numero": 8,
+    "titulo": "Kit 10 potes de vidro 370 ml herméticos",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur13:2173701442",
+    "canal": "telegram",
+    "quando": "2026-10-10T17:33:55.111331-03:00",
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640 ml com 4 travas",
+    "plataforma": "mercadolivre"
   }
 ]
