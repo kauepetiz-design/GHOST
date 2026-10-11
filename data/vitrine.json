@@ -1,5 +1,15 @@
 [
   {
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640 ml",
+    "preco": 52.09,
+    "preco_de": 149.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
+    "link": "https://meli.la/13G1iVU",
+    "atualizado": "11/10/2026 20:56"
+  },
+  {
     "numero": 8,
     "titulo": "kit 10 potes vidro hermeticos 370ml",
     "preco": 75.77,
@@ -178,15 +188,5 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
     "link": "https://lmdee.link/50iA1sr5uf7h",
     "atualizado": "10/10/2026 17:40"
-  },
-  {
-    "numero": 9,
-    "titulo": "Kit 6 potes de vidro 640 ml 4 travas",
-    "preco": 52.09,
-    "preco_de": 149.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
-    "link": "https://meli.la/13G1iVU",
-    "atualizado": "10/10/2026 17:33"
   }
 ]
