@@ -1,5 +1,25 @@
 [
   {
+    "numero": 6,
+    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "11/10/2026 11:51"
+  },
+  {
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "11/10/2026 11:51"
+  },
+  {
     "numero": 5,
     "titulo": "jogo 6 tacas bowls vidro sobremesa",
     "preco": 23.9,
@@ -128,15 +148,5 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
     "link": "https://meli.la/2TXS1nT",
     "atualizado": "10/10/2026 15:57"
-  },
-  {
-    "numero": 6,
-    "titulo": "Jogo 6 copos baixos Diamond 300 ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "08/10/2026 12:42"
   }
 ]
