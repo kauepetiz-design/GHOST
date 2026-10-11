@@ -216,6 +216,39 @@ def fila() -> None:
     log.info("fila: %d publicados", n)
 
 
+NOMES_CANAL = {"telegram": "Telegram", "threads": "Threads", "instagram": "Instagram (posts)", "instagram_reel": "Reels"}
+
+
+def _estoque(pool: list[dict], agora: dt.datetime | None = None) -> dict[str, tuple[int, float]]:
+    """Por canal: quantos produtos ainda podem sair (fora da regra de dias sem repetir) e para quantos dias dá.
+
+    O ritmo diário vem da configuração: Telegram ~8 rodadas/dia, Threads ~4, Instagram pelos horários da agenda.
+    """
+    canais = cfg("canais")
+    ig = canais["instagram"]
+    ritmo = {
+        "telegram": 8 * canais["telegram"].get("ofertas_por_execucao", 1),
+        "threads": 4,
+        "instagram": len(ig.get("horas_post", [])) or 1,
+        "instagram_reel": len(ig.get("horas_reel", [])) if ig.get("reel_diario", True) else 0,
+    }
+    ativo = {"telegram": canais["telegram"]["ativo"], "threads": canais["threads"]["ativo"],
+             "instagram": ig["ativo"], "instagram_reel": ig["ativo"]}
+    out: dict[str, tuple[int, float]] = {}
+    for canal, por_dia in ritmo.items():
+        if not por_dia or not ativo[canal]:
+            continue
+        ja = curador._recentes(canal)
+        livres = sum(1 for o in pool if curador._passa_filtros(o) and o["id"] not in ja)
+        out[canal] = (livres, livres / por_dia)
+    return out
+
+
+def _texto_estoque(est: dict[str, tuple[int, float]], total: int) -> str:
+    linhas = [f"• {NOMES_CANAL[c]}: {livres} produtos novos (~{dias:.0f} dias)" for c, (livres, dias) in est.items()]
+    return f"{total} produtos no CSV. Ainda podem sair, pela regra de dias sem repetir:\n" + "\n".join(linhas)
+
+
 def resumo() -> None:
     hoje = now().date()
     hist = [h for h in curador.historico() if dt.datetime.fromisoformat(h["quando"]).date() == hoje]
@@ -236,10 +269,19 @@ def resumo() -> None:
     telegram.para_dono(msg if top else msg.split("\n\n👇")[0] + "\n\nSem ofertas novas para o WhatsApp hoje.")
     if top:
         telegram.para_dono(wa)
+    limite = cfg("canais").get("estoque", {}).get("alerta_dias", 3)
+    est = _estoque(pool)
+    if any(dias < limite for _, dias in est.values()):
+        telegram.para_dono(f"📦 Estoque de ofertas baixo (alerta abaixo de {limite} dias).\n"
+                           + _texto_estoque(est, len(pool))
+                           + "\n\nHora de reabastecer o data/curadoria.csv: os produtos atuais + os novos.")
 
 
 def semanal() -> None:
     telegram.para_dono(analista.relatorio(), html=True)
+    pool = load_json("ofertas.json", [])
+    telegram.para_dono("📦 Estoque de ofertas\n" + _texto_estoque(_estoque(pool), len(pool))
+                       + "\n\nSe algum canal estiver abaixo de 5 dias, hoje à noite é dia de reabastecer o CSV.")
     removidas = meta.limpar_midia_antiga()
     log.info("pastas de mídia antigas removidas: %d", removidas)
 
