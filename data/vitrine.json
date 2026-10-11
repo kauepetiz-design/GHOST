@@ -1,5 +1,25 @@
 [
   {
+    "numero": 8,
+    "titulo": "kit 10 potes vidro hermeticos 370ml",
+    "preco": 75.77,
+    "preco_de": 159.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
+    "link": "https://meli.la/1SJy8Mj",
+    "atualizado": "11/10/2026 17:56"
+  },
+  {
+    "numero": 24,
+    "titulo": "Panela de arroz elétrica 4 L",
+    "preco": 160.89,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
+    "link": "https://meli.la/171CqHo",
+    "atualizado": "11/10/2026 17:56"
+  },
+  {
     "numero": 23,
     "titulo": "jogo de panelas com utensilios",
     "preco": 179.91,
@@ -167,16 +187,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
     "link": "https://meli.la/13G1iVU",
-    "atualizado": "10/10/2026 17:33"
-  },
-  {
-    "numero": 8,
-    "titulo": "Kit 10 potes de vidro herméticos",
-    "preco": 75.77,
-    "preco_de": 159.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
-    "link": "https://meli.la/1SJy8Mj",
     "atualizado": "10/10/2026 17:33"
   }
 ]
