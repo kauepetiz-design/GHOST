@@ -12,9 +12,16 @@ threads:
 
 instagram:
   ativo: true
-  # post único de manhã, reel à tarde, carrossel "top 5" aos domingos
-  reel_diario: true
-  carrossel_dia_semana: 6        # 0=segunda ... 6=domingo
+  # AGENDA DO INSTAGRAM. Horários de Brasília (de 9 a 21) em que sai cada publicação.
+  # Para subir o ritmo é só acrescentar horários nas listas (e salvar). Degraus sugeridos,
+  # olhando as métricas entre um e outro:
+  #   2 por dia (agora): horas_post [12, 19]        horas_reel [13, 20]
+  #   3 por dia:         horas_post [9, 12, 19]     horas_reel [10, 13, 20]
+  #   4 por dia:         horas_post [9, 12, 15, 19] horas_reel [10, 13, 17, 20]
+  horas_post: [12, 19]
+  horas_reel: [13, 20]
+  reel_diario: true              # false = não publica Reels
+  carrossel_dia_semana: 6        # 0=segunda ... 6=domingo: o 1º post desse dia vira o carrossel "Top 5"
 
 whatsapp:
   # Não há API oficial para postar em Canais do WhatsApp. O Gerente manda para você,
