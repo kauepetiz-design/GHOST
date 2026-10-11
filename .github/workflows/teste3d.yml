@@ -1,0 +1,57 @@
+# Teste 3D: gera ângulos (Nano Banana) e/ou um giro (Veo) de UM produto e manda ao Telegram do dono.
+# Não publica nada nos canais e não altera data/ nem docs/.  Rode em: Actions > Teste 3D > Run workflow.
+name: Teste 3D
+on:
+  workflow_dispatch:
+    inputs:
+      produto:
+        description: "Número do produto ativo no curadoria.csv (0 = primeiro)"
+        default: "0"
+      imagem:
+        description: "Testar imagens (Nano Banana, 3 chamadas)"
+        type: boolean
+        default: true
+      video:
+        description: "Testar vídeo (Veo, 1 chamada) - PODE COBRAR"
+        type: boolean
+        default: false
+      modelo_imagem:
+        description: "Opcional: nome exato do modelo de imagem (vazio = o mais barato)"
+        default: ""
+      modelo_video:
+        description: "Opcional: nome exato do modelo de vídeo (vazio = o mais barato)"
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      PYTHONUNBUFFERED: "1"
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+      T3D_INDICE: ${{ inputs.produto }}
+      T3D_IMAGEM: ${{ inputs.imagem }}
+      T3D_VIDEO: ${{ inputs.video }}
+      T3D_MODELO_IMAGEM: ${{ inputs.modelo_imagem }}
+      T3D_MODELO_VIDEO: ${{ inputs.modelo_video }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - name: Rodar o teste 3D
+        run: python -m ghost.teste3d
+      - name: Guardar os arquivos gerados
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: teste3d
+          path: out/teste3d
+          if-no-files-found: ignore
