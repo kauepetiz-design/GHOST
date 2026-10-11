@@ -104,5 +104,21 @@
     "numero": 11,
     "titulo": "Torneira gourmet flexível de parede com 2 jatos",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur15:2032128686",
+    "canal": "telegram",
+    "quando": "2026-10-10T21:12:56.633957-03:00",
+    "numero": 12,
+    "titulo": "Panos de prato atoalhados Laune Gourmet",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur33:2072850384",
+    "canal": "telegram",
+    "quando": "2026-10-10T21:13:08.398148-03:00",
+    "numero": 13,
+    "titulo": "Escorredor de louça suspenso 65 cm preto",
+    "plataforma": "mercadolivre"
   }
 ]

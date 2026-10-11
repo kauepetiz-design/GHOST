@@ -17,7 +17,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pote transparente com trava deixa você ver o que sobrou sem abrir. Na cozinha profissional tudo é guardado assim, etiquetado e com data.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -39,7 +39,7 @@
     "fonte": "curadoria",
     "nota_chef": "Filtro permanente é menos papel no lixo e menos gasto no mês. Café coado na hora tem muito mais aroma do que o que ficou parado na garrafa.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {
       "threads": "https://meli.la/1yERjVW",
       "vitrine": "https://meli.la/1yERjVW"
@@ -64,7 +64,7 @@
     "fonte": "curadoria",
     "nota_chef": "Cebola, alho e tempero picados em segundos. Corte em pedaços grandes antes, para não passar do ponto e virar purê.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {
       "telegram": "https://meli.la/2TXS1nT",
       "vitrine": "https://meli.la/2TXS1nT"
@@ -89,9 +89,36 @@
     "fonte": "curadoria",
     "nota_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
+    "links": {
+      "threads": "https://meli.la/1UtKSFu",
+      "vitrine": "https://meli.la/1UtKSFu"
+    },
+    "numero": 1,
+    "copy": {
+      "titulo_curto": "Sanduicheira Grill 750W",
+      "gancho": "Lanche rápido na correria sem esfriar no meio.",
+      "dica_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
+      "beneficios": [
+        "750W de potência",
+        "Chapas antiaderentes",
+        "Preço de ocasião"
+      ],
+      "roteiro": [
+        "Lanche rápido na correria sem esfriar no meio.",
+        "Sanduicheira multilaser grill gourmet por cinquenta e quatro reais.",
+        "Passe um fio fino de manteiga por fora para dourar por igual.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "cozinha",
+        "achados",
+        "utilidades",
+        "gastronomia",
+        "cozinheiros"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur4:4127098731",
@@ -111,7 +138,7 @@
     "fonte": "curadoria",
     "nota_chef": "Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -133,7 +160,7 @@
     "fonte": "curadoria",
     "nota_chef": "Copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -155,7 +182,7 @@
     "fonte": "curadoria",
     "nota_chef": "Talher bom muda a mesa. Lave e seque logo depois do uso para o inox manter o brilho.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -177,7 +204,7 @@
     "fonte": "curadoria",
     "nota_chef": "Três tamanhos de tigela resolvem a mise en place: separe tudo antes de ligar o fogo, como numa cozinha profissional.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -199,7 +226,7 @@
     "fonte": "curadoria",
     "nota_chef": "Vidro não pega cheiro nem mancha. Dá para guardar, esquentar e servir no mesmo pote.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {
       "telegram": "https://meli.la/1SJy8Mj",
       "vitrine": "https://meli.la/1SJy8Mj"
@@ -224,7 +251,7 @@
     "fonte": "curadoria",
     "nota_chef": "Talher bom muda a mesa. Lave e seque logo depois do uso para o inox manter o brilho.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -246,36 +273,12 @@
     "fonte": "curadoria",
     "nota_chef": "Torneira alta com jato flexível facilita encher panelas e lavar a pia. Confira a rosca e a pressão da sua instalação antes de comprar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {
       "telegram": "https://meli.la/1i99JjY",
       "vitrine": "https://meli.la/1i99JjY"
     },
-    "numero": 11,
-    "copy": {
-      "titulo_curto": "Torneira flexível de parede 2 jatos",
-      "gancho": "Encher panela grande em pia apertada é um sofrimento.",
-      "dica_chef": "Torneira alta e flexível agiliza a limpeza e evita malabarismo na pia. Só confira a rosca e a pressão da água antes de instalar.",
-      "beneficios": [
-        "Tubo flexível que alcança toda a cuba",
-        "2 tipos de jato para controlar o fluxo",
-        "Instalação prática direto na parede"
-      ],
-      "roteiro": [
-        "Encher panela funda numa torneira baixa atrasa o serviço.",
-        "Essa torneira de parede flexível vem com dois jatos d'água.",
-        "Facilita lavar a pia, mas cheque a pressão antes de comprar.",
-        "Procura Achei na Cozinha no Telegram. O link tá lá."
-      ],
-      "hashtags": [
-        "#cozinha",
-        "#cozinhapratica",
-        "#torneiragourmet",
-        "#achadinhos",
-        "#utensiliosdecozinha"
-      ],
-      "origem": "ia"
-    }
+    "numero": 11
   },
   {
     "id": "mercadolivre:cur11:2823022655",
@@ -295,7 +298,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pano de prato de algodão seca louça sem deixar fiapo. Tenha um para a louça e outro só para as mãos.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -317,7 +320,7 @@
     "fonte": "curadoria",
     "nota_chef": "Copo grande com tampa e canudo para a água do dia inteiro. Quem trabalha em cozinha sabe: hidratar faz parte do serviço.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -339,7 +342,7 @@
     "fonte": "curadoria",
     "nota_chef": "Vidro com 4 travas é ótimo para molhos e sobras. Deixe esfriar antes de fechar e levar à geladeira.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {
       "telegram": "https://meli.la/13G1iVU",
       "vitrine": "https://meli.la/13G1iVU"
@@ -364,7 +367,7 @@
     "fonte": "curadoria",
     "nota_chef": "Padronize os potes e etiquete com a data. Na cozinha profissional é assim que se evita desperdício.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -386,9 +389,36 @@
     "fonte": "curadoria",
     "nota_chef": "Pano atoalhado absorve bem e poupa papel toalha no dia a dia. Lave separado do resto da roupa.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
+    "links": {
+      "telegram": "https://meli.la/1rwWsEG",
+      "vitrine": "https://meli.la/1rwWsEG"
+    },
+    "numero": 12,
+    "copy": {
+      "titulo_curto": "Panos de prato atoalhados",
+      "gancho": "Pano de prato que não seca só espalha água na bancada.",
+      "dica_chef": "O tecido atoalhado absorve líquidos de verdade e reduz o uso de papel toalha. Dica de praça: lave sempre separado do resto da roupa para manter a fibra limpa.",
+      "beneficios": [
+        "Alta absorção para secar louça rápido",
+        "Tecido atoalhado resistente",
+        "Ajuda a poupar papel toalha no dia a dia"
+      ],
+      "roteiro": [
+        "Pano de prato fino só espalha água e atrasa o serviço.",
+        "Esse jogo de panos atoalhados entrou nos achados do 10.10.",
+        "Eles absorvem muito mais líquido e poupam rolos de papel toalha.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "#panodeprato",
+        "#cozinha",
+        "#cozinhapratica",
+        "#dicasdecozinha",
+        "#acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur16:1048184719",
@@ -408,7 +438,7 @@
     "fonte": "curadoria",
     "nota_chef": "Lixeira com pedal é higiene na prática: você abre sem encostar a mão suja. O balde removível facilita a limpeza.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -430,7 +460,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pano de copa serve de apoio para secar louça e tirar o excesso de líquido.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -452,7 +482,7 @@
     "fonte": "curadoria",
     "nota_chef": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -474,7 +504,7 @@
     "fonte": "curadoria",
     "nota_chef": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -496,7 +526,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pote com tampa de bambu deixa a bancada organizada e guarda massas e grãos longe da umidade.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -518,7 +548,7 @@
     "fonte": "curadoria",
     "nota_chef": "Taça de vidro grosso serve para sobremesa ou para a mesa posta.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -540,7 +570,7 @@
     "fonte": "curadoria",
     "nota_chef": "Giratório deixa todos os temperos ao alcance de uma mão. Mantenha longe do fogo para o sal e as ervas não pegarem umidade.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -562,7 +592,7 @@
     "fonte": "curadoria",
     "nota_chef": "Potes pequenos mantêm o tempero fresco e à mão.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -584,7 +614,7 @@
     "fonte": "curadoria",
     "nota_chef": "Antiaderente dura mais com fogo médio e utensílio de silicone ou madeira. Evite esponja de aço.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -606,7 +636,7 @@
     "fonte": "curadoria",
     "nota_chef": "Taça individual transforma sobremesa simples em prato de restaurante. Gele a taça antes de montar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -628,7 +658,7 @@
     "fonte": "curadoria",
     "nota_chef": "Separar frutas e verduras em potes com tampa ajuda a ver o que tem e a usar tudo antes de estragar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -650,7 +680,7 @@
     "fonte": "curadoria",
     "nota_chef": "Corte uniforme é cozimento uniforme. Use sempre o protetor de mão: a lâmina é muito afiada.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -672,7 +702,7 @@
     "fonte": "curadoria",
     "nota_chef": "Pote com trava e transparente: você vê o conteúdo sem abrir. Etiquete com a data de preparo.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -694,7 +724,7 @@
     "fonte": "curadoria",
     "nota_chef": "Colher, concha e escumadeira resolvem a maior parte das panelas. Inox risca antiaderente, então confira antes de usar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -716,7 +746,7 @@
     "fonte": "curadoria",
     "nota_chef": "Evite choque térmico: não leve panela quente direto para a água fria. Fogo médio e tampa fazem a comida cozinhar por igual.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {
       "telegram": "https://meli.la/1U1iWdD",
       "vitrine": "https://meli.la/1U1iWdD"
@@ -741,7 +771,7 @@
     "fonte": "curadoria",
     "nota_chef": "Forma de alumínio distribui bem o calor. Unte e polvilhe para desenformar sem quebrar.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -763,7 +793,7 @@
     "fonte": "curadoria",
     "nota_chef": "Panela de pressão reduz o tempo de cozimento de feijão e carnes. Nunca force a abertura e mantenha a válvula limpa.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {},
     "numero": null
   },
@@ -785,9 +815,36 @@
     "fonte": "curadoria",
     "nota_chef": "Escorredor suspenso libera a bancada. Deixe a louça pingar antes de guardar para não molhar o armário.",
     "keyword": "",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
-    "links": {},
-    "numero": null
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
+    "links": {
+      "telegram": "https://meli.la/2Jw735t",
+      "vitrine": "https://meli.la/2Jw735t"
+    },
+    "numero": 13,
+    "copy": {
+      "titulo_curto": "Escorredor suspenso 65 cm preto",
+      "gancho": "Bancada cheia de louça acaba com o seu espaço útil.",
+      "dica_chef": "Escorredor suspenso libera a bancada. Deixe a louça pingar direto na pia antes de guardar para não acumular umidade no armário.",
+      "beneficios": [
+        "Libera espaço útil na bancada",
+        "Estrutura suspensa de 65 cm",
+        "A água pinga direto na cuba"
+      ],
+      "roteiro": [
+        "Falta de espaço na bancada atrasa qualquer preparo.",
+        "Esse escorredor suspenso de 65 cm resolve o problema.",
+        "A louça pinga direto na pia e não molha o armário.",
+        "Procura Achei na Cozinha no Telegram. O link tá lá."
+      ],
+      "hashtags": [
+        "#cozinhaorganizada",
+        "#escorredordelouca",
+        "#organizacaodacozinha",
+        "#dicasdecozinha",
+        "#acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "lomadee:2914",
@@ -808,105 +865,55 @@
     "loja": "Loja parceira",
     "fonte": "curadoria",
     "nota_chef": "",
-    "keyword": "luva térmica silicone",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
-    "links": {
-      "telegram": "https://lmdee.link/50iA1sr5uf7h",
-      "vitrine": "https://lmdee.link/50iA1sr5uf7h"
-    },
-    "numero": 10,
-    "copy": {
-      "titulo_curto": "Assadeira profissional 40x60cm",
-      "gancho": "pao gruda na assadeira e estraga a fornada?",
-      "dica_chef": "as tiras em silicone ajudam a desenformar sem rasgar a massa e mantêm o fundo do pão uniforme. essencial na producao diaria.",
-      "beneficios": [
-        "tamanho industrial 40x60cm",
-        "tiras em silicone antiaderentes",
-        "estrutura resistente linha pro"
-      ],
-      "roteiro": [
-        "pao gruda na assadeira e estraga a fornada?",
-        "essa assadeira com tiras em silicone resolve o problema.",
-        "o silicone evita que o pao de semolina grude no fundo.",
-        "Procura Achei na Cozinha no Telegram. O link tá lá."
-      ],
-      "hashtags": [
-        "cozinha",
-        "padaria",
-        "paocaseiro",
-        "gastronomia",
-        "acheinacozinha"
-      ],
-      "origem": "ia"
-    }
+    "keyword": "saco de confeitar",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
+    "links": {},
+    "numero": null
   },
   {
-    "id": "lomadee:1335",
+    "id": "lomadee:1735",
     "plataforma": "lomadee",
-    "item_id": "1335",
-    "titulo": "Jarra Fresc 2,5L Natural em Policarbonato – Linha Profissional Cook VEM",
-    "preco": 147.05,
+    "item_id": "1735",
+    "titulo": "Travessa Cheff Quadrada 250ml Branca em Polipropileno – Linha Tropical VEM",
+    "preco": 14.09,
     "preco_de": null,
     "desconto_pct": 0,
     "comissao_pct": 5.0,
-    "comissao_valor": 7.35,
+    "comissao_valor": 0.7,
     "vendas": null,
     "nota": null,
-    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/178188/921_1.jpg.jpg?v=638983828431400000",
-    "link": "https://www.mundovem.com.br/jarra-fresc-2-5l-natural-policarbonato-vem/p",
-    "link_produto": "https://www.mundovem.com.br/jarra-fresc-2-5l-natural-policarbonato-vem/p",
+    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/181004/649_01.jpg?v=638997674521830000",
+    "link": "https://www.mundovem.com.br/travessa-cheff-quadrada-250ml-branca-polipropileno-vem/p",
+    "link_produto": "https://www.mundovem.com.br/travessa-cheff-quadrada-250ml-branca-polipropileno-vem/p",
     "organization_id": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
     "loja": "Loja parceira",
     "fonte": "curadoria",
     "nota_chef": "",
-    "keyword": "jarra",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "keyword": "travessa",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {}
   },
   {
-    "id": "lomadee:2849",
+    "id": "lomadee:1817",
     "plataforma": "lomadee",
-    "item_id": "2849",
-    "titulo": "Pote Batch Cooking Hermético 2L com Vedação Vermelha em Tritan - Linha Home VEM",
-    "preco": 88.63,
-    "preco_de": 126.62,
+    "item_id": "1817",
+    "titulo": "Travessa Stillo Retangular 4 Litros Vermelha em Polipropileno – Linha Tropical VEM",
+    "preco": 59.35,
+    "preco_de": 84.78,
     "desconto_pct": 30,
     "comissao_pct": 5.0,
-    "comissao_valor": 4.43,
+    "comissao_valor": 2.97,
     "vendas": null,
     "nota": null,
-    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/183237/104423_1.jpg?v=639173816360130000",
-    "link": "https://www.mundovem.com.br/pote-batch%E2%80%93cooking-hermetico-2l-com-vedacao-vermelha-tritan-vem/p",
-    "link_produto": "https://www.mundovem.com.br/pote-batch%E2%80%93cooking-hermetico-2l-com-vedacao-vermelha-tritan-vem/p",
+    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/175006/374_1.jpg?v=638943189044970000",
+    "link": "https://www.mundovem.com.br/travessa-stillo-retangular-4-litros-vermelha-polipropileno-vem/p",
+    "link_produto": "https://www.mundovem.com.br/travessa-stillo-retangular-4-litros-vermelha-polipropileno-vem/p",
     "organization_id": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
     "loja": "Loja parceira",
     "fonte": "curadoria",
     "nota_chef": "",
-    "keyword": "pote",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
-    "links": {}
-  },
-  {
-    "id": "lomadee:2844",
-    "plataforma": "lomadee",
-    "item_id": "2844",
-    "titulo": "Pote Batch Cooking Hermético 2L com Vedação Verde em Polipropileno - Linha Home VEM",
-    "preco": 40.48,
-    "preco_de": null,
-    "desconto_pct": 0,
-    "comissao_pct": 5.0,
-    "comissao_valor": 2.02,
-    "vendas": null,
-    "nota": null,
-    "imagem_url": "https://vemplast.vteximg.com.br/arquivos/ids/183217/104405_1.jpg?v=639173808771500000",
-    "link": "https://www.mundovem.com.br/pote-batch%E2%80%93cooking-hermetico-2l-com-vedacao-verde-polipropileno-vem/p",
-    "link_produto": "https://www.mundovem.com.br/pote-batch%E2%80%93cooking-hermetico-2l-com-vedacao-verde-polipropileno-vem/p",
-    "organization_id": "4395b3b8-8d26-4bd3-ab4f-554e39a40ac1",
-    "loja": "Loja parceira",
-    "fonte": "curadoria",
-    "nota_chef": "",
-    "keyword": "pote",
-    "coletado_em": "2026-10-10T17:39:44.696002-03:00",
+    "keyword": "travessa",
+    "coletado_em": "2026-10-10T21:12:20.154274-03:00",
     "links": {}
   }
 ]

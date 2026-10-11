@@ -1,5 +1,35 @@
 [
   {
+    "numero": 1,
+    "titulo": "Sanduicheira Grill 750W",
+    "preco": 54.99,
+    "preco_de": 199.0,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
+    "link": "https://meli.la/1UtKSFu",
+    "atualizado": "10/10/2026 21:13"
+  },
+  {
+    "numero": 13,
+    "titulo": "Escorredor suspenso 65 cm preto",
+    "preco": 119.9,
+    "preco_de": 126.5,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811192-MLA95941429659_102025-AB.webp",
+    "link": "https://meli.la/2Jw735t",
+    "atualizado": "10/10/2026 21:13"
+  },
+  {
+    "numero": 12,
+    "titulo": "Panos de prato atoalhados",
+    "preco": 41.98,
+    "preco_de": 76.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
+    "link": "https://meli.la/1rwWsEG",
+    "atualizado": "10/10/2026 21:12"
+  },
+  {
     "numero": 11,
     "titulo": "Torneira flexível de parede 2 jatos",
     "preco": 27.98,
@@ -98,15 +128,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
     "link": "https://meli.la/2Y9cBfF",
     "atualizado": "08/10/2026 12:23"
-  },
-  {
-    "numero": 1,
-    "titulo": "Sanduicheira multilaser grill gourmet",
-    "preco": 5499.0,
-    "preco_de": 19900.0,
-    "plataforma": "mercadolivre",
-    "imagem": "placeholder.jpg",
-    "link": "https://meli.la/1UtKSFu",
-    "atualizado": "08/10/2026 10:24"
   }
 ]
