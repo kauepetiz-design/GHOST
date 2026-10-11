@@ -29,7 +29,7 @@ Responda SOMENTE um JSON com as chaves:
 "gancho": frase de abertura de até 60 caracteres que fala de um problema real na cozinha;
 "dica_chef": 1 ou 2 frases (até 200 caracteres) com uma dica prática de cozinha profissional sobre usar esse tipo de produto;
 "beneficios": lista com 3 benefícios curtos (até 45 caracteres cada), coerentes com o título;
-"roteiro": lista com 4 frases curtas para narrar um vídeo de 15 segundos (gancho, produto, dica e, por último, exatamente: "Procura Achei na Cozinha no Telegram. O link tá lá.");
+"video": objeto com 3 falas para narrar um Reels de 15 segundos. Escreva para serem FALADAS em voz alta, em tom de conversa de bastidor de cozinha (pode usar "tá", "pra", "olha"), frases curtas, sem siglas: {{"gancho": até 55 caracteres, uma pergunta ou frase que prende nos 2 primeiros segundos sobre um problema real da cozinha, terminando com ? ou . (pode fechar com "Olha isso."); "produto": até 70 caracteres, diz o que é o produto e UMA vantagem que esteja no título; "dica": até 14 palavras, a dica de chef mais útil, direto ao ponto, sem repetir o gancho}};
 "hashtags": lista com 5 hashtags em português sem acento, relevantes.
 Proibido: CAPS LOCK, "corre", urgência falsa, promessas de saúde, citar concorrentes."""
 
@@ -63,6 +63,33 @@ def _dica(titulo: str) -> str:
     return "Na cozinha profissional, ferramenta certa economiza tempo todo dia. Esse é daqueles que você usa mais do que imagina."
 
 
+GANCHOS_VIDEO = [
+    "Isso resolve um problema chato da cozinha.",
+    "Parece bobo, mas muda a rotina na cozinha.",
+    "Olha esse achado de cozinha.",
+    "Cozinha de chef gastando pouco? Olha isso.",
+    "Achado que vale cada centavo.",
+]
+
+
+def _dica_curta(texto: str, max_palavras: int = 18) -> str:
+    """Trecho da dica enxuto para ser falado em ~6 segundos (junta frases curtas, cortando na pontuação)."""
+    frases = [f.strip() for f in texto.strip().split(". ") if f.strip()]
+    frase = frases[0] if frases else ""
+    if len(frase.split()) < 8 and len(frases) > 1:
+        segunda = frases[1]
+        if len(frase.split()) + len(segunda.split()) <= 18:
+            frase = f"{frase.rstrip('.')}. {segunda}"
+        elif len(segunda.split()) <= max_palavras:
+            frase = segunda
+    palavras = frase.split()
+    if len(palavras) > 22:
+        corte = " ".join(palavras[:max_palavras])
+        pos = max(corte.rfind(","), corte.rfind(":"), corte.rfind(";"))
+        frase = (corte[:pos] if pos > len(corte) * 0.5 else corte).rstrip(",;:")
+    return frase if frase.endswith((".", "!", "?")) else frase + "."
+
+
 def _template(o: dict) -> dict:
     rnd = random.Random(zlib.crc32(o["id"].encode()))
     curto = clean_title(o["titulo"], 38)
@@ -75,12 +102,11 @@ def _template(o: dict) -> dict:
             f"{o['vendas']:,} vendidos".replace(",", ".") if o.get("vendas") else "Muito procurado",
             f"{o['desconto_pct']}% abaixo do preço cheio" if o.get("desconto_pct") else "Preço justo pelo que entrega",
         ],
-        "roteiro": [
-            rnd.choice(GANCHOS) + ".",
-            f"{curto}.",
-            (o.get("nota_chef") or _dica(o["titulo"])).split(".")[0] + ".",
-            "Procura Achei na Cozinha no Telegram. O link tá lá.",
-        ],
+        "video": {
+            "gancho": rnd.choice(GANCHOS_VIDEO),
+            "produto": f"{curto}.",
+            "dica": _dica_curta(o.get("nota_chef") or _dica(o["titulo"])),
+        },
         "hashtags": ["achadinhos", "cozinha", "dicasdecozinha", "utilidadesdomesticas", "achadinhosshopee"],
     }
 
@@ -104,6 +130,12 @@ def copy(o: dict) -> dict:
             if not c.get(k):
                 c[k] = base[k]
         c["titulo_curto"] = c["titulo_curto"][:40]
+        if not isinstance(c.get("video"), dict):
+            c["video"] = dict(base["video"])
+        for k, v in base["video"].items():  # completa falas que a IA esqueceu
+            if not str(c["video"].get(k) or "").strip():
+                c["video"][k] = v
+            c["video"][k] = str(c["video"][k])
         c["origem"] = "ia"
     else:
         c = base
