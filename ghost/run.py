@@ -1,7 +1,8 @@
 """Gerente (CEO) da Ghost — orquestra os agentes. Cada comando é uma rotina chamada pelo GitHub Actions.
 
     python -m ghost.run ofertas          # Telegram (+ fila do Threads) — a cada 2h
-    python -m ghost.run instagram auto   # post, reel ou carrossel conforme hora/dia
+    python -m ghost.run instagram auto   # post, reel ou carrossel conforme a agenda de horários
+    python -m ghost.run decidir          # diz se o Instagram tem algo a publicar agora (post/reel/carrossel/nada)
     python -m ghost.run fila             # publica no Instagram/Threads o que está na fila
     python -m ghost.run resumo           # resumo diário + texto pronto para o WhatsApp
     python -m ghost.run semanal          # relatório do Analista + limpeza
@@ -63,6 +64,56 @@ def ofertas() -> None:
     vitrine.gerar()
 
 
+def _publicacoes_hoje(agora: dt.datetime) -> tuple[int, int]:
+    """Quantos posts (feed/carrossel) e Reels do Instagram já saíram, ou estão na fila, hoje."""
+    hoje = agora.date()
+    posts: set[str] = set()
+    reels: set[str] = set()
+    for h in curador.historico():
+        if dt.datetime.fromisoformat(h["quando"]).date() != hoje:
+            continue
+        chave = str(h.get("post_id") or h["id"])  # carrossel: várias ofertas, um único post_id
+        if h["canal"] in ("instagram", "instagram_carrossel"):
+            posts.add(chave)
+        elif h["canal"] == "instagram_reel":
+            reels.add(chave)
+    for i in load_json("fila.json", []):
+        if i.get("canal") == "instagram" and dt.datetime.fromisoformat(i["criado"]).date() == hoje:
+            (reels if i.get("tipo") == "reel" else posts).add("fila:" + i["criado"])
+    return len(posts), len(reels)
+
+
+def proximo_instagram(ig: dict, agora: dt.datetime | None = None) -> str:
+    """O que o Instagram deve publicar AGORA, pela agenda de horários (config/canais.yaml).
+
+    Os horários (horas_post / horas_reel, fuso de Brasília) são metas do dia. A cada rodada o robô
+    confere se algum horário já passou sem a publicação correspondente e, se sim, publica uma.
+    Se uma rodada atrasar ou falhar, a seguinte compensa; nunca publica duas vezes o mesmo horário.
+    Retorna "post", "reel", "carrossel" ou "nada".
+    """
+    agora = agora or now()
+    horas_post = sorted(ig.get("horas_post", [11]))
+    horas_reel = sorted(ig.get("horas_reel", [18])) if ig.get("reel_diario", True) else []
+    posts, reels = _publicacoes_hoje(agora)
+    pendentes = []
+    if posts < len(horas_post) and horas_post[posts] <= agora.hour:
+        pendentes.append((horas_post[posts], "post"))
+    if reels < len(horas_reel) and horas_reel[reels] <= agora.hour:
+        pendentes.append((horas_reel[reels], "reel"))
+    if not pendentes:
+        return "nada"
+    tipo = min(pendentes)[1]  # atende primeiro o horário mais antigo
+    if tipo == "post" and posts == 0 and agora.weekday() == ig.get("carrossel_dia_semana", 6):
+        return "carrossel"  # no dia do carrossel, o primeiro post do dia é o "Top 5"
+    return tipo
+
+
+def decidir() -> None:
+    """Usada pelo workflow do Instagram: imprime post, reel, carrossel ou nada."""
+    ig = cfg("canais")["instagram"]
+    print(proximo_instagram(ig) if ig.get("ativo") else "nada")
+
+
 def instagram(tipo: str = "auto") -> None:
     ig = cfg("canais")["instagram"]
     if not ig["ativo"]:
@@ -76,12 +127,10 @@ def instagram(tipo: str = "auto") -> None:
         return teste()
     agora = now()
     if tipo == "auto":
-        if agora.weekday() == ig.get("carrossel_dia_semana", 6) and agora.hour < 14:
-            tipo = "carrossel"
-        elif agora.hour >= 14 and ig.get("reel_diario", True):
-            tipo = "reel"
-        else:
-            tipo = "post"
+        tipo = proximo_instagram(ig, agora)
+        if tipo == "nada":
+            log.info("instagram: nada pendente na agenda neste horário")
+            return
     pool = cacador.run()
 
     if tipo == "carrossel":
@@ -219,7 +268,7 @@ def demo() -> None:
 
 
 ROTINAS = {
-    "ofertas": ofertas, "instagram": instagram, "fila": fila, "resumo": resumo, "semanal": semanal,
+    "ofertas": ofertas, "instagram": instagram, "decidir": decidir, "fila": fila, "resumo": resumo, "semanal": semanal,
     "renovar-tokens": renovar_tokens, "vitrine": vitrine.gerar, "demo": demo,
 }
 
