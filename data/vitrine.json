@@ -1,5 +1,55 @@
 [
   {
+    "numero": 23,
+    "titulo": "jogo de panelas com utensilios",
+    "preco": 179.91,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
+    "link": "https://meli.la/25t4T2m",
+    "atualizado": "11/10/2026 16:42"
+  },
+  {
+    "numero": 22,
+    "titulo": "panela de pressao 4,5 litros",
+    "preco": 182.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
+    "link": "https://meli.la/161SNZG",
+    "atualizado": "11/10/2026 16:42"
+  },
+  {
+    "numero": 7,
+    "titulo": "Jogo de panelas baunilha 10 peças",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "11/10/2026 16:42"
+  },
+  {
+    "numero": 2,
+    "titulo": "Processador elétrico inox 2L",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "11/10/2026 16:42"
+  },
+  {
+    "numero": 3,
+    "titulo": "cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "11/10/2026 16:42"
+  },
+  {
     "numero": 16,
     "titulo": "Jogo de panelas ceramica",
     "preco": 295.0,
@@ -128,35 +178,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
     "link": "https://meli.la/1SJy8Mj",
     "atualizado": "10/10/2026 17:33"
-  },
-  {
-    "numero": 3,
-    "titulo": "cafeteira eletrica inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "10/10/2026 15:58"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas antiaderente 10 peças",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "10/10/2026 15:57"
-  },
-  {
-    "numero": 2,
-    "titulo": "Processador triturador inox 2 L (220V)",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "10/10/2026 15:57"
   }
 ]
