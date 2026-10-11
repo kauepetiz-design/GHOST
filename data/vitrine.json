@@ -1,5 +1,25 @@
 [
   {
+    "numero": 5,
+    "titulo": "jogo 6 tacas bowls vidro sobremesa",
+    "preco": 23.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
+    "link": "https://meli.la/1NTGSPw",
+    "atualizado": "11/10/2026 04:06"
+  },
+  {
+    "numero": 14,
+    "titulo": "kit 10 potes vidro tampa bambu",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "11/10/2026 04:06"
+  },
+  {
     "numero": 4,
     "titulo": "jogo de panelas ceramica 10 pecas",
     "preco": 479.99,
@@ -118,15 +138,5 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
     "link": "https://meli.la/2uCZfLN",
     "atualizado": "08/10/2026 12:42"
-  },
-  {
-    "numero": 5,
-    "titulo": "Jogo de taças bowls de vidro",
-    "preco": 23.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
-    "link": "https://meli.la/1NTGSPw",
-    "atualizado": "08/10/2026 12:34"
   }
 ]
