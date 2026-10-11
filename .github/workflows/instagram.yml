@@ -1,14 +1,16 @@
-# Instagram: post às 11h, Reel às 18h30 (e o vídeo vai para o seu Telegram para TikTok/Shorts).
-# Domingo de manhã sai o carrossel "Top 5 da semana".
+# Instagram: a cada hora (aos 35 min, das 9h35 às 21h35 de Brasília) o robô confere a agenda em
+# config/canais.yaml (horas_post / horas_reel). Se algum horário já passou sem a publicação dele,
+# publica uma (post, reel ou, no dia do carrossel, o "Top 5"). Se não há nada pendente, a rodada
+# termina em segundos. O vídeo de cada Reel também vai para o seu Telegram (TikTok/Shorts).
 name: Instagram
 on:
   schedule:
-    - cron: "0 14 * * *"    # 11:00 BRT -> post (ou carrossel no domingo)
-    - cron: "30 21 * * *"   # 18:30 BRT -> reel
+    - cron: "35 12-23 * * *"   # 09:35 ... 20:35 BRT
+    - cron: "35 0 * * *"       # 21:35 BRT
   workflow_dispatch:
     inputs:
       tipo:
-        description: "auto | post | reel | carrossel"
+        description: "auto | post | reel | carrossel | teste | verificar"
         default: auto
 
 permissions:
@@ -21,8 +23,34 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  decidir:
+    runs-on: ubuntu-latest
+    outputs:
+      tipo: ${{ steps.d.outputs.tipo }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - id: d
+        env:
+          TIPO_MANUAL: ${{ inputs.tipo }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+        run: |
+          if [ -n "$TIPO_MANUAL" ] && [ "$TIPO_MANUAL" != "auto" ]; then
+            TIPO="$TIPO_MANUAL"
+          else
+            TIPO="$(python -m ghost.run decidir)"
+          fi
+          echo "Tipo escolhido: ${TIPO:-nada}"
+          echo "tipo=${TIPO:-nada}" >> "$GITHUB_OUTPUT"
+
   instagram:
+    needs: decidir
+    if: needs.decidir.outputs.tipo != 'nada'
     uses: ./.github/workflows/_pipeline.yml
     with:
-      comando: instagram ${{ inputs.tipo || 'auto' }}
+      comando: instagram ${{ needs.decidir.outputs.tipo }}
     secrets: inherit
