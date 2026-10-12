@@ -734,6 +734,14 @@ def _montar_audio(tmp: Path, cenas: list[dict], vozes: list[dict] | None, total:
 
 # ------------------------------------------------------------------ principal
 def video(o: dict) -> Path:
+    # config/marca.yaml -> video_modelo: "faixas" (produto recortado na bancada, texto com contorno) | "classico" (este arquivo)
+    if str(cfg("marca").get("video_modelo", "classico")).lower() == "faixas":
+        try:
+            from . import videofaixas
+
+            return videofaixas.video(o)
+        except Exception as e:  # noqa: BLE001 - nunca perder o post: se o modelo novo falhar, sai o clássico
+            log.warning("modelo 'faixas' falhou (%s); usando o clássico", e)
     c = redator.copy(o)
     destino = designer._destino(o, "reel").with_suffix(".mp4")
     beats = _fala(o, c)
