@@ -6,6 +6,7 @@
     python -m ghost.run fila             # publica no Instagram/Threads o que está na fila
     python -m ghost.run resumo           # resumo diário + texto pronto para o WhatsApp
     python -m ghost.run semanal          # relatório do Analista + limpeza
+    python -m ghost.run voz              # teste de 10 s da voz do Reel (áudio + diagnóstico no seu Telegram)
     python -m ghost.run conferencia 10   # segunda: foto do anúncio x arte final dos próximos produtos (no seu Telegram)
     python -m ghost.run renovar-tokens   # renova tokens da Meta (60 dias)
     python -m ghost.run vitrine          # só regenera a página
@@ -279,6 +280,48 @@ def resumo() -> None:
                            + "\n\nHora de reabastecer o data/curadoria.csv: os produtos atuais + os novos.")
 
 
+def voz() -> None:
+    """Teste rápido da voz do Reel (uns 20 s, sem gerar vídeo): tenta a voz oficial de 3 jeitos e a lista de vozes do
+    serviço, e manda o resultado (e o áudio que funcionou) no seu Telegram."""
+    import asyncio
+    import importlib.metadata as md
+    import tempfile
+    import time
+    from pathlib import Path
+
+    voz_cfg = cfg("marca").get("voz_video", "pt-BR-AntonioNeural")
+    linhas = [f"🎙️ Teste de voz: {voz_cfg}",
+              f"edge-tts {md.version('edge-tts')} · python {sys.version.split()[0]} · aiohttp {md.version('aiohttp')}"]
+    try:
+        import edge_tts
+
+        vozes = asyncio.run(edge_tts.list_voices())
+        existe = any(v.get("ShortName") == voz_cfg for v in vozes)
+        linhas.append(f"✅ serviço de voz respondeu ({len(vozes)} vozes); '{voz_cfg}' {'existe' if existe else 'NÃO existe'}")
+    except Exception as e:  # noqa: BLE001
+        linhas.append(f"❌ o serviço de voz não respondeu à lista de vozes: {type(e).__name__}: {e}")
+    texto = "Achado que vale cada centavo."
+    rate, pitch = videomaker.PROSODIA["gancho"]
+    enviado = False
+    with tempfile.TemporaryDirectory() as tmp:
+        for modo in videomaker.MODOS_VOZ:
+            arq, t0 = Path(tmp) / f"{modo}.mp3", time.time()
+            try:
+                ev = asyncio.run(videomaker._sintetizar(texto, voz_cfg, rate, pitch, arq, modo=modo))
+                tam = arq.stat().st_size
+                linhas.append(f"{'✅' if tam else '❌'} modo '{modo}': {tam} bytes em {time.time() - t0:.1f}s, "
+                              f"{len(ev)} palavras marcadas" + ("" if tam else " (ÁUDIO VAZIO, sem erro)"))
+                if tam and not enviado:
+                    chat = os.environ.get("TELEGRAM_OWNER_CHAT_ID") or "dono"
+                    with open(arq, "rb") as f:
+                        telegram._api("sendAudio", {"chat_id": chat, "caption": f"🎙️ {voz_cfg}, modo '{modo}'"}, {"audio": f})
+                    enviado = True
+            except Exception as e:  # noqa: BLE001
+                linhas.append(f"❌ modo '{modo}': {type(e).__name__}: {e}")
+    linhas.append("\nResumo: " + ("a voz oficial funcionou." if enviado else "a voz oficial NÃO funcionou de nenhum jeito."))
+    telegram.para_dono("\n".join(linhas))
+
+
 def semanal() -> None:
     telegram.para_dono(analista.relatorio(), html=True)
     pool = load_json("ofertas.json", [])
@@ -313,7 +356,7 @@ def demo() -> None:
 
 ROTINAS = {
     "ofertas": ofertas, "instagram": instagram, "decidir": decidir, "fila": fila, "resumo": resumo, "semanal": semanal,
-    "renovar-tokens": renovar_tokens, "vitrine": vitrine.gerar, "demo": demo, "conferencia": conf.executar,
+    "renovar-tokens": renovar_tokens, "vitrine": vitrine.gerar, "demo": demo, "conferencia": conf.executar, "voz": voz,
 }
 
 
