@@ -160,13 +160,24 @@ def _fala(o: dict, c: dict) -> list[dict]:
 
 
 # ------------------------------------------------------------------ voz
-async def _sintetizar(texto: str, voz: str, rate: str, pitch: str, destino: Path) -> list[tuple[float, float, str]]:
+MODOS_VOZ = ("completo", "sem_palavras", "simples")   # tentativa 1, 2 e 3: SEMPRE a mesma voz, parâmetros cada vez mais simples
+
+
+async def _sintetizar(texto: str, voz: str, rate: str, pitch: str, destino: Path,
+                      modo: str = "completo") -> list[tuple[float, float, str]]:
+    """completo = tom/ritmo + tempo de cada palavra | sem_palavras = tom/ritmo | simples = só a voz."""
     import edge_tts
 
+    kw: dict = {}
+    if modo in ("completo", "sem_palavras"):
+        kw.update(rate=rate, pitch=pitch)
+    if modo == "completo":
+        kw["boundary"] = "WordBoundary"
     try:
-        com = edge_tts.Communicate(texto, voz, rate=rate, pitch=pitch, boundary="WordBoundary")
+        com = edge_tts.Communicate(texto, voz, **kw)
     except TypeError:  # versão antiga do edge-tts, sem o argumento boundary
-        com = edge_tts.Communicate(texto, voz, rate=rate, pitch=pitch)
+        kw.pop("boundary", None)
+        com = edge_tts.Communicate(texto, voz, **kw)
     eventos: list[tuple[float, float, str]] = []
     with open(destino, "wb") as f:
         async for ch in com.stream():
@@ -199,6 +210,7 @@ def _tts(beats: list[dict], pasta: Path) -> list[dict] | None:
     marca = cfg("marca")
     voz = marca.get("voz_video", "pt-BR-AntonioNeural")
     VOZ_USADA = ""
+    modos_usados: set[str] = set()
 
     async def go():
         res = []
@@ -206,17 +218,19 @@ def _tts(beats: list[dict], pasta: Path) -> list[dict] | None:
             rate, pitch = PROSODIA.get(b["kind"], ("+8%", "+0Hz"))
             p = pasta / f"voz{i}.mp3"
             erro: Exception | None = None
-            for tentativa in range(1, 4):
+            for tentativa, modo in enumerate(MODOS_VOZ, 1):
                 try:
-                    ev = await _sintetizar(b["texto"], voz, rate, pitch, p)
+                    ev = await _sintetizar(b["texto"], voz, rate, pitch, p, modo=modo)
                     if p.exists() and p.stat().st_size > 0:
                         res.append({"arquivo": p, "eventos": ev})
+                        if modo != "completo":
+                            modos_usados.add(modo)
                         break
                     erro = ValueError("a voz devolveu áudio vazio")
                 except Exception as e:  # noqa: BLE001
                     erro = e
-                log.warning("edge-tts: fala %d/%d (%s) falhou: %s [tentativa %d/3]", i + 1, len(beats), b["kind"], erro,
-                            tentativa)
+                log.warning("edge-tts: fala %d/%d (%s) falhou no modo '%s': %s: %s [tentativa %d/3]", i + 1, len(beats),
+                            b["kind"], modo, type(erro).__name__, erro, tentativa)
                 await asyncio.sleep(2 * tentativa)
             else:
                 raise erro or RuntimeError("sem áudio")
@@ -224,10 +238,10 @@ def _tts(beats: list[dict], pasta: Path) -> list[dict] | None:
 
     try:
         res = asyncio.run(go())
-        VOZ_USADA = voz
+        VOZ_USADA = voz + (" (parâmetros simplificados: " + ", ".join(sorted(modos_usados)) + ")" if modos_usados else "")
         return res
     except Exception as e:  # noqa: BLE001
-        log.warning("edge-tts falhou (%s)", e)
+        log.warning("edge-tts falhou (%s: %s)", type(e).__name__, e)
     if not marca.get("video_voz_reserva", False) and not dry_run():
         raise VozIndisponivel(f"a voz oficial ({voz}) não respondeu direito depois de 3 tentativas por fala; não uso a "
                               "voz reserva (video_voz_reserva: false). A rotina tenta de novo na próxima hora.")
