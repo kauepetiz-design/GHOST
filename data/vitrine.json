@@ -1,5 +1,15 @@
 [
   {
+    "numero": 15,
+    "titulo": "Jogo de panelas cerâmica 5 peças",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "12/10/2026 18:24"
+  },
+  {
     "numero": 7,
     "titulo": "Jogo de panelas antiaderente 10 peças",
     "preco": 229.52,
@@ -147,16 +157,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
     "link": "https://meli.la/2uCZfLN",
-    "atualizado": "11/10/2026 11:51"
-  },
-  {
-    "numero": 15,
-    "titulo": "Jogo de panelas de cerâmica 5 peças",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
     "atualizado": "11/10/2026 11:51"
   },
   {
