@@ -25,3 +25,9 @@ fontes:
   texto: "Poppins-Regular.ttf"
 
 voz_video: "pt-BR-AntonioNeural"   # outras: pt-BR-FranciscaNeural, pt-BR-ThalitaMultilingualNeural
+
+# Modelo do Reel / TikTok / Shorts:
+#   "faixas"  = produto recortado em pé numa bancada de cozinha (assets/fundos), texto grande com contorno, um bloco por vez
+#   "classico" = modelo anterior (5 cenas fixas)
+video_modelo: "faixas"
+# Opcionais: video_fundo: inox_3 (força um fundo)  |  video_recorte: auto | forcar | branco | off
