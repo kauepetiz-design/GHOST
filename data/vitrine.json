@@ -1,5 +1,25 @@
 [
   {
+    "numero": 4,
+    "titulo": "Jogo de panelas cerâmica 10 peças",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "11/10/2026 21:28"
+  },
+  {
+    "numero": 25,
+    "titulo": "Liquidificador 1400W com Jarra 3,2L",
+    "preco": 150.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
+    "link": "https://meli.la/15PwCBs",
+    "atualizado": "11/10/2026 21:28"
+  },
+  {
     "numero": 9,
     "titulo": "Kit 6 potes de vidro 640 ml",
     "preco": 52.09,
@@ -128,16 +148,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
     "link": "https://meli.la/1dF6658",
     "atualizado": "11/10/2026 04:06"
-  },
-  {
-    "numero": 4,
-    "titulo": "jogo de panelas ceramica 10 pecas",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "10/10/2026 21:24"
   },
   {
     "numero": 1,
