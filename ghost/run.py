@@ -6,6 +6,7 @@
     python -m ghost.run fila             # publica no Instagram/Threads o que está na fila
     python -m ghost.run resumo           # resumo diário + texto pronto para o WhatsApp
     python -m ghost.run semanal          # relatório do Analista + limpeza
+    python -m ghost.run conferencia 10   # segunda: foto do anúncio x arte final dos próximos produtos (no seu Telegram)
     python -m ghost.run renovar-tokens   # renova tokens da Meta (60 dias)
     python -m ghost.run vitrine          # só regenera a página
     python -m ghost.run demo             # roda tudo em modo simulado e salva em out/
@@ -17,7 +18,7 @@ import os
 import sys
 import traceback
 
-from .agents import analista, cacador, curador, designer, meta, redator, telegram, videomaker, vitrine
+from .agents import analista, cacador, conferencia as conf, curador, designer, meta, redator, telegram, videomaker, vitrine
 from .core import MEDIA_DIR, OUT_DIR, cfg, dry_run, get_logger, load_json, now, tema_atual
 from .links import link
 
@@ -156,7 +157,7 @@ def instagram(tipo: str = "auto") -> None:
         if tipo == "reel":
             arq = videomaker.video(o)
             # o mesmo vídeo vai para você postar no TikTok e no YouTube Shorts (1 minuto no celular)
-            telegram.video_para_dono(arq, "🎬 Vídeo do dia pronto para TikTok e Shorts.\n\nLegenda:\n"
+            telegram.video_para_dono(arq, "🎬 Vídeo do dia pronto para TikTok e Shorts. " + videomaker.rotulo_voz() + "\n\nLegenda:\n"
                                      + redator.tiktok(o)[:700]
                                      + "\n\n📌 Comentário para fixar:\n" + redator.comentario_fixado(o))
         else:
@@ -191,7 +192,8 @@ def teste() -> None:
     foto(designer.post(o), "<b>📲 Assim sai no canal do Telegram:</b>\n\n" + redator.telegram(o), html=True)
     foto(designer.post(o, "ig"), "📸 INSTAGRAM\n\n" + redator.instagram(o))
     foto(designer.post(o, "th"), "🧵 THREADS\n\n" + redator.threads(o, o["link"]))
-    telegram.video_para_dono(videomaker.video(o), "🎬 REEL / TikTok / Shorts\n\n" + redator.tiktok(o)[:700])
+    arq_reel = videomaker.video(o)
+    telegram.video_para_dono(arq_reel, "🎬 REEL / TikTok / Shorts " + videomaker.rotulo_voz() + "\n\n" + redator.tiktok(o)[:700])
     r = meta.verificar()
     telegram.para_dono(f"✅ Teste concluído (texto feito por: {o['copy'].get('origem', '?')}).\n"
                        + "\n".join(f"{k}: {v}" for k, v in r.items()))
@@ -311,7 +313,7 @@ def demo() -> None:
 
 ROTINAS = {
     "ofertas": ofertas, "instagram": instagram, "decidir": decidir, "fila": fila, "resumo": resumo, "semanal": semanal,
-    "renovar-tokens": renovar_tokens, "vitrine": vitrine.gerar, "demo": demo,
+    "renovar-tokens": renovar_tokens, "vitrine": vitrine.gerar, "demo": demo, "conferencia": conf.executar,
 }
 
 
