@@ -27,7 +27,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter, ImageOps
 
-from ..core import ROOT, brl, cfg, get_logger
+from ..core import ROOT, brl, cfg, dry_run, get_logger
 from . import designer, logo, redator
 
 log = get_logger("videomaker")
@@ -177,24 +177,60 @@ async def _sintetizar(texto: str, voz: str, rate: str, pitch: str, destino: Path
     return eventos
 
 
-def _tts(beats: list[dict], pasta: Path) -> list[dict] | None:
-    """Narração grátis: edge-tts (voz neural, com tom/ritmo por batida) -> gTTS (reserva) -> None."""
-    voz = cfg("marca").get("voz_video", "pt-BR-AntonioNeural")
-    try:
-        async def go():
-            res = []
-            for i, b in enumerate(beats):
-                rate, pitch = PROSODIA.get(b["kind"], ("+8%", "+0Hz"))
-                p = pasta / f"voz{i}.mp3"
-                ev = await _sintetizar(b["texto"], voz, rate, pitch, p)
-                res.append({"arquivo": p, "eventos": ev})
-            return res
+class VozIndisponivel(RuntimeError):
+    """A voz oficial (edge-tts) não respondeu e a voz reserva está desligada: melhor não gerar do que sair outra voz."""
 
+
+VOZ_USADA = ""   # qual voz saiu no último vídeo; aparece na legenda que chega no seu Telegram
+
+
+def rotulo_voz() -> str:
+    return f"🎙️ Voz: {VOZ_USADA}" if VOZ_USADA else ""
+
+
+def _tts(beats: list[dict], pasta: Path) -> list[dict] | None:
+    """Narração grátis: edge-tts (voz neural, com tom/ritmo por batida) -> gTTS (reserva) -> None.
+
+    Cada fala tem 3 tentativas (inclusive quando a voz devolve áudio vazio SEM dar erro, que antes passava batido e
+    trocava de voz sem avisar). A voz reserva é OUTRA voz (a do Google): por padrão NÃO é usada. Se a oficial falhar,
+    o vídeo não é gerado e a rotina tenta de novo na próxima hora. Para aceitar a reserva: video_voz_reserva: true.
+    """
+    global VOZ_USADA
+    marca = cfg("marca")
+    voz = marca.get("voz_video", "pt-BR-AntonioNeural")
+    VOZ_USADA = ""
+
+    async def go():
+        res = []
+        for i, b in enumerate(beats):
+            rate, pitch = PROSODIA.get(b["kind"], ("+8%", "+0Hz"))
+            p = pasta / f"voz{i}.mp3"
+            erro: Exception | None = None
+            for tentativa in range(1, 4):
+                try:
+                    ev = await _sintetizar(b["texto"], voz, rate, pitch, p)
+                    if p.exists() and p.stat().st_size > 0:
+                        res.append({"arquivo": p, "eventos": ev})
+                        break
+                    erro = ValueError("a voz devolveu áudio vazio")
+                except Exception as e:  # noqa: BLE001
+                    erro = e
+                log.warning("edge-tts: fala %d/%d (%s) falhou: %s [tentativa %d/3]", i + 1, len(beats), b["kind"], erro,
+                            tentativa)
+                await asyncio.sleep(2 * tentativa)
+            else:
+                raise erro or RuntimeError("sem áudio")
+        return res
+
+    try:
         res = asyncio.run(go())
-        if all(r["arquivo"].stat().st_size > 0 for r in res):
-            return res
+        VOZ_USADA = voz
+        return res
     except Exception as e:  # noqa: BLE001
-        log.warning("edge-tts falhou (%s); tentando gTTS", e)
+        log.warning("edge-tts falhou (%s)", e)
+    if not marca.get("video_voz_reserva", False) and not dry_run():
+        raise VozIndisponivel(f"a voz oficial ({voz}) não respondeu direito depois de 3 tentativas por fala; não uso a "
+                              "voz reserva (video_voz_reserva: false). A rotina tenta de novo na próxima hora.")
     try:
         from gtts import gTTS
 
@@ -203,9 +239,11 @@ def _tts(beats: list[dict], pasta: Path) -> list[dict] | None:
             p = pasta / f"voz{i}.mp3"
             gTTS(b["texto"], lang="pt", tld="com.br").save(str(p))
             res.append({"arquivo": p, "eventos": []})
+        VOZ_USADA = "RESERVA (gTTS), não é a voz oficial"
         return res
     except Exception as e:  # noqa: BLE001
         log.warning("gTTS falhou (%s); vídeo sem narração", e)
+    VOZ_USADA = "sem narração"
     return None
 
 
@@ -740,6 +778,8 @@ def video(o: dict) -> Path:
             from . import videofaixas
 
             return videofaixas.video(o)
+        except VozIndisponivel:
+            raise  # o clássico usaria a mesma voz: não adianta trocar de modelo
         except Exception as e:  # noqa: BLE001 - nunca perder o post: se o modelo novo falhar, sai o clássico
             log.warning("modelo 'faixas' falhou (%s); usando o clássico", e)
     c = redator.copy(o)
