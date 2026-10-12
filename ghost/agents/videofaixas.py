@@ -36,7 +36,8 @@ W, H, FPS = vm.W, vm.H, vm.FPS
 FADE = 0.30            # duração do fade de cada peça (s): rápido, mas gradual
 ATRASO_TEXTO = 0.10    # o texto entra um pouquinho depois da faixa
 ZOOM_CENA = 1.08       # zoom lento de câmera na cena toda (início -> fim do vídeo)
-FUNDOS_DIR = ROOT / "assets" / "fundos"
+# onde ficam os fundos de cozinha; a 2ª pasta cobre o caso de a pasta ter sido criada dentro de assets/fonts por engano
+FUNDOS_DIRS = [ROOT / "assets" / "fundos", ROOT / "assets" / "fonts" / "assets" / "fundos"]
 # por fundo: base = y onde o produto "pisa" na bancada (em 1080x1920); reflexo = força do reflexo (0 a 1);
 # reflexo_blur = quão fosco é o reflexo; base_frac = só para fotos HORIZONTAIS: altura da foto (0 a 1) onde o produto pisa.
 # Os valores vêm do prefixo do nome do arquivo (inox_*, madeira_*); exceções por nome ficam em FUNDOS.
@@ -205,16 +206,24 @@ def _estender(foto: Image.Image, base_frac: float, base_y: int) -> Image.Image:
     return tela
 
 
+def fundos_disponiveis() -> list[Path]:
+    for pasta in FUNDOS_DIRS:
+        achados = sorted(p for p in pasta.glob("*") if p.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")) \
+            if pasta.is_dir() else []
+        if achados:
+            return achados
+    return []
+
+
 def _fundo_padrao(o: dict) -> tuple[Image.Image | None, dict]:
-    arquivos = sorted(p for p in FUNDOS_DIR.glob("*") if p.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")) \
-        if FUNDOS_DIR.is_dir() else []
+    arquivos = fundos_disponiveis()
     if not arquivos:
         return None, FUNDO_PADRAO
     forcado = str(cfg("marca").get("video_fundo") or "")
     escolhido = next((p for p in arquivos if p.stem == forcado), None) \
         or arquivos[zlib.crc32(str(o.get("id", "")).encode()) % len(arquivos)]
     prefixo = next((v for k, v in PREFIXOS.items() if escolhido.stem.lower().startswith(k)), {})
-    par = {**FUNDO_PADRAO, **prefixo, **FUNDOS.get(escolhido.stem, {})}
+    par = {**FUNDO_PADRAO, **prefixo, **FUNDOS.get(escolhido.stem, {}), "nome": escolhido.stem}
     foto = Image.open(escolhido).convert("RGB")
     if foto.width / foto.height > 0.75:  # horizontal: encaixa na cena vertical
         return _estender(foto, par["base_frac"], par["base"]), par
@@ -222,13 +231,6 @@ def _fundo_padrao(o: dict) -> tuple[Image.Image | None, dict]:
     if W / foto.width > 1.2:  # foto menor que o vídeo: devolve um pouco da nitidez perdida na ampliação
         img = img.filter(ImageFilter.UnsharpMask(radius=1.6, percent=55, threshold=2))
     return img, par
-
-
-def _fundo_da_foto(foto: Image.Image) -> Image.Image:
-    """Reserva (sem fundos em assets/fundos): a foto do produto desfocada e escurecida."""
-    base = ImageOps.fit(foto.convert("RGB"), (W, H), Image.LANCZOS)
-    base = base.resize((W // 4, H // 4), Image.BILINEAR).filter(ImageFilter.GaussianBlur(14)).resize((W, H), Image.BILINEAR)
-    return Image.blend(base, Image.new("RGB", (W, H), (58, 24, 14)), 0.62)
 
 
 def _montar_cena(fundo: Image.Image, prod: Image.Image, base_y: int, reflexo: float, cx: int,
@@ -337,10 +339,13 @@ class _Faixas:
         # ---- cena: fundo de cozinha + produto recortado em pé na bancada
         foto = designer.imagem_produto(o)
         fundo, par = _fundo_padrao(o)
-        if fundo is None:
-            fundo = _fundo_da_foto(foto)
+        if fundo is None:  # sem fundos de cozinha o resultado fica feio: melhor deixar o modelo clássico assumir
+            raise RuntimeError("sem imagens em assets/fundos")
         fundo = _escurecer_topo(fundo)
         prod = recorte.recortar(foto, o.get("id"))
+        self.recorte_ok = prod is not None          # False = foto com cenário/selo: vai num cartão branco
+        self.fundo_nome = par.get("nome", "")
+        self.foto_tam = foto.size
         max_h = min(max(par["base"] - (base_cre + 24), 380), MAX_ALTURA_PRODUTO)
         if prod is not None:
             k = min(MAX_LARG_PRODUTO / prod.width, max_h / prod.height, 2.2)
@@ -448,6 +453,21 @@ class _Faixas:
         if "cta" in self.t:
             ev.append((self.t["cta"] + 0.10, "pop"))
         return ev
+
+
+# ------------------------------------------------------------------ prévia (conferência semanal)
+def previa(o: dict) -> tuple[Image.Image, dict]:
+    """Quadro final do Reel, sem renderizar o vídeo (uns 5 s), + dados para o resumo de conferência."""
+    c = redator.copy(o)
+    beats = vm._fala(o, c)
+    t0 = 0.0
+    for b in beats:
+        b["dur"], b["t0"] = vm.MINIMO[b["kind"]], t0
+        t0 += b["dur"]
+    fx = _Faixas(o, beats)
+    t = fx.t.get("preco", fx.total * 0.7) + 1.0       # dica e preço já visíveis
+    info = {"recorte": fx.recorte_ok, "fundo": fx.fundo_nome, "foto_px": fx.foto_tam}
+    return fx.frame(t), info
 
 
 # ------------------------------------------------------------------ principal
