@@ -31,3 +31,8 @@ voz_video: "pt-BR-AntonioNeural"   # outras: pt-BR-FranciscaNeural, pt-BR-Thalit
 #   "classico" = modelo anterior (5 cenas fixas)
 video_modelo: "faixas"
 # Opcionais: video_fundo: inox_3 (força um fundo)  |  video_recorte: auto | forcar | branco | off
+
+# Voz reserva: se a voz oficial (voz_video) falhar, o robô tenta 3 vezes. Depois disso:
+#   false = NÃO gera o vídeo (a rotina tenta de novo na próxima hora)  <- padrão: a voz da marca nunca muda sozinha
+#   true  = usa a voz do Google (gTTS), que é outra voz
+video_voz_reserva: false
