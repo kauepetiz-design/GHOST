@@ -4,5 +4,17 @@
     "comissao_total": 0,
     "vendas": 0,
     "posts": {}
+  },
+  {
+    "semana_fim": "2026-10-12",
+    "comissao_total": 0,
+    "vendas": 0,
+    "posts": {
+      "telegram": 20,
+      "threads": 9,
+      "instagram_reel": 2,
+      "whatsapp": 10,
+      "instagram_carrossel": 5
+    }
   }
 ]
