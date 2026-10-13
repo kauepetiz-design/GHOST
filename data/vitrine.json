@@ -1,5 +1,15 @@
 [
   {
+    "numero": 3,
+    "titulo": "cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "13/10/2026 16:29"
+  },
+  {
     "numero": 21,
     "titulo": "Air Fryer Compacta 3,5 Litros",
     "preco": 194.74,
@@ -177,16 +187,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
     "link": "https://meli.la/2TXS1nT",
-    "atualizado": "11/10/2026 16:42"
-  },
-  {
-    "numero": 3,
-    "titulo": "cafeteira eletrica inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
     "atualizado": "11/10/2026 16:42"
   },
   {
