@@ -1,5 +1,25 @@
 [
   {
+    "numero": 17,
+    "titulo": "air fryer 5,6 litros",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "13/10/2026 20:17"
+  },
+  {
+    "numero": 27,
+    "titulo": "Air fryer de 4,2 litros",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "13/10/2026 20:16"
+  },
+  {
     "numero": 3,
     "titulo": "cafeteira eletrica inox",
     "preco": 93.5,
@@ -87,16 +107,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
     "link": "https://meli.la/1U1iWdD",
-    "atualizado": "12/10/2026 17:15"
-  },
-  {
-    "numero": 17,
-    "titulo": "Air fryer 5,6 litros",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
     "atualizado": "12/10/2026 17:15"
   },
   {
