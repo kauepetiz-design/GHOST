@@ -1,5 +1,25 @@
 [
   {
+    "numero": 21,
+    "titulo": "Air Fryer Compacta 3,5 Litros",
+    "preco": 194.74,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
+    "link": "https://meli.la/28wfEyW",
+    "atualizado": "13/10/2026 15:12"
+  },
+  {
+    "numero": 20,
+    "titulo": "Panela de pressão Brinox Ceramic Life",
+    "preco": 199.99,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
+    "link": "https://meli.la/285BAka",
+    "atualizado": "13/10/2026 15:11"
+  },
+  {
     "numero": 15,
     "titulo": "Jogo panelas ceramica inducao 5 pecas",
     "preco": 257.23,
