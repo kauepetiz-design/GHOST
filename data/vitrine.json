@@ -1,5 +1,25 @@
 [
   {
+    "numero": 16,
+    "titulo": "Conjunto de 5 Panelas de Cerâmica",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "12/10/2026 23:33"
+  },
+  {
+    "numero": 18,
+    "titulo": "Batedeira planetária 700 W",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "12/10/2026 23:33"
+  },
+  {
     "numero": 15,
     "titulo": "Jogo de panelas cerâmica 5 peças",
     "preco": 257.23,
@@ -138,16 +158,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
     "link": "https://meli.la/1yERjVW",
     "atualizado": "11/10/2026 16:42"
-  },
-  {
-    "numero": 16,
-    "titulo": "Jogo de panelas ceramica",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "11/10/2026 13:39"
   },
   {
     "numero": 6,
