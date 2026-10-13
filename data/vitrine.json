@@ -1,5 +1,15 @@
 [
   {
+    "numero": 1,
+    "titulo": "Sanduicheira Grill Gourmet 750W",
+    "preco": 54.99,
+    "preco_de": 199.0,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
+    "link": "https://meli.la/1UtKSFu",
+    "atualizado": "13/10/2026 20:28"
+  },
+  {
     "numero": 17,
     "titulo": "air fryer 5,6 litros",
     "preco": 277.96,
@@ -228,16 +238,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
     "link": "https://meli.la/1dF6658",
     "atualizado": "11/10/2026 04:06"
-  },
-  {
-    "numero": 1,
-    "titulo": "Sanduicheira Grill 750W",
-    "preco": 54.99,
-    "preco_de": 199.0,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
-    "link": "https://meli.la/1UtKSFu",
-    "atualizado": "10/10/2026 21:13"
   },
   {
     "numero": 13,
