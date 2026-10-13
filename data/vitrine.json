@@ -1,5 +1,15 @@
 [
   {
+    "numero": 4,
+    "titulo": "Jogo de panelas cerâmica 10 peças",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "12/10/2026 23:42"
+  },
+  {
     "numero": 16,
     "titulo": "Conjunto de 5 Panelas de Cerâmica",
     "preco": 295.0,
@@ -68,16 +78,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
     "link": "https://meli.la/2PPnb6K",
     "atualizado": "12/10/2026 04:18"
-  },
-  {
-    "numero": 4,
-    "titulo": "Jogo de panelas cerâmica 10 peças",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "11/10/2026 21:28"
   },
   {
     "numero": 25,
