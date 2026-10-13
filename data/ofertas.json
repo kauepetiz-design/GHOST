@@ -217,9 +217,33 @@
     "links": {
       "telegram": "https://meli.la/1SJy8Mj",
       "vitrine": "https://meli.la/1SJy8Mj",
-      "threads": "https://meli.la/1SJy8Mj"
+      "threads": "https://meli.la/1SJy8Mj",
+      "whatsapp": "https://meli.la/1SJy8Mj"
     },
-    "numero": 8
+    "numero": 8,
+    "copy": {
+      "titulo_curto": "Kit 10 potes de vidro 370 ml",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Vidro não pega cheiro nem mancha. Dá para guardar, esquentar e servir no mesmo pote.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "53% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Kit 10 potes de vidro 370 ml.",
+        "dica": "Vidro não pega cheiro nem mancha. Dá para guardar, esquentar e servir no mesmo pote."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur9:469022862",
@@ -333,9 +357,33 @@
     "coletado_em": "2026-10-13T15:10:06.241960-03:00",
     "links": {
       "telegram": "https://meli.la/13G1iVU",
-      "vitrine": "https://meli.la/13G1iVU"
+      "vitrine": "https://meli.la/13G1iVU",
+      "whatsapp": "https://meli.la/13G1iVU"
     },
-    "numero": 9
+    "numero": 9,
+    "copy": {
+      "titulo_curto": "Kit 6 Potes de Vidro 640ml com travas",
+      "gancho": "Sobra de molho que vaza na geladeira nunca mais.",
+      "dica_chef": "Vidro com quatro travas é ótimo para molhos e sobras. Deixe esfriar antes de fechar e levar à geladeira para não estragar a borracha.",
+      "beneficios": [
+        "Vidro borossilicato resistente",
+        "Tampa com quatro travas firmes",
+        "Capacidade ideal de 640ml"
+      ],
+      "video": {
+        "gancho": "Cansado de pote que vaza na sua geladeira? Olha isso.",
+        "produto": "Kit com seis potes de vidro de seiscentos e quarenta mililitros.",
+        "dica": "Deixe esfriar antes de fechar e guardar na geladeira."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "potesdevidro",
+        "cozinhaprofissional",
+        "organização",
+        "gastandopouco"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur14:2202310318",
@@ -901,9 +949,33 @@
     "keyword": "",
     "coletado_em": "2026-10-13T15:10:06.241960-03:00",
     "links": {
-      "vitrine": "https://meli.la/161SNZG"
+      "vitrine": "https://meli.la/161SNZG",
+      "whatsapp": "https://meli.la/161SNZG"
     },
-    "numero": 22
+    "numero": 22,
+    "copy": {
+      "titulo_curto": "Panela de pressão 4,5 litros",
+      "gancho": "Cozinha profissional não pode parar por falta de pressão.",
+      "dica_chef": "Troque a borracha de vedação uma vez por ano. É assim que você garante que ela vai segurar pressão sempre e durar anos.",
+      "beneficios": [
+        "Capacidade ideal de 4,5 litros",
+        "Peças de reposição fáceis",
+        "Estrutura firme e segura"
+      ],
+      "video": {
+        "gancho": "Panela de pressão que falha no meio do serviço? Olha isso.",
+        "produto": "A Tramontina Vancouver de quatro litros e meio resolve o básico bem.",
+        "dica": "Troque a borracha anualmente e ela nunca te deixa na mão."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "cozinhaprofissional",
+        "paneladepressao",
+        "tramontina",
+        "utilidadesdomesticas"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur39:1562767506",
@@ -974,9 +1046,33 @@
     "keyword": "",
     "coletado_em": "2026-10-13T15:10:06.241960-03:00",
     "links": {
-      "vitrine": "https://meli.la/25t4T2m"
+      "vitrine": "https://meli.la/25t4T2m",
+      "whatsapp": "https://meli.la/25t4T2m"
     },
-    "numero": 23
+    "numero": 23,
+    "copy": {
+      "titulo_curto": "jogo de 5 panelas com utensilios",
+      "gancho": "precisa renovar as panelas sem gastar uma fortuna?",
+      "dica_chef": "a tampa de vidro deixa ver o ponto sem perder calor. cozinhe em fogo medio e o antiaderente dura bem mais.",
+      "beneficios": [
+        "cinco caçarolas essenciais",
+        "inclui tres utensilios",
+        "tampa de vidro temperado"
+      ],
+      "video": {
+        "gancho": "panela ruim gruda tudo e atrasa o serviço. olha isso.",
+        "produto": "esse jogo de cinco caçarolas com utensílios custa cento e setenta e nove reais.",
+        "dica": "use fogo médio para o antiaderente durar muito mais."
+      },
+      "hashtags": [
+        "cozinha",
+        "panelas",
+        "gastronomia",
+        "donadecasa",
+        "utensilios"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur41:1516267908",
@@ -1913,8 +2009,33 @@
     "nota_chef": "",
     "keyword": "dispenser de detergente",
     "coletado_em": "2026-10-13T15:10:06.241960-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p"
+    },
+    "numero": 10,
+    "copy": {
+      "titulo_curto": "Assadeira para Pão de Semolina",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Olha esse achado de cozinha.",
+        "produto": "Assadeira para Pão de Semolina.",
+        "dica": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "lomadee:1335",
