@@ -1,5 +1,25 @@
 [
   {
+    "numero": 15,
+    "titulo": "Jogo panelas ceramica inducao 5 pecas",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "13/10/2026 04:40"
+  },
+  {
+    "numero": 19,
+    "titulo": "Air fryer 4 litros 1500 W",
+    "preco": 249.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
+    "link": "https://meli.la/2D8XfNY",
+    "atualizado": "13/10/2026 04:40"
+  },
+  {
     "numero": 4,
     "titulo": "Jogo de panelas cerâmica 10 peças",
     "preco": 479.99,
@@ -28,16 +48,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
     "link": "https://meli.la/1H1Mogs",
     "atualizado": "12/10/2026 23:33"
-  },
-  {
-    "numero": 15,
-    "titulo": "Jogo de panelas cerâmica 5 peças",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
-    "atualizado": "12/10/2026 18:24"
   },
   {
     "numero": 7,
