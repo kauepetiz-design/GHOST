@@ -1,5 +1,15 @@
 [
   {
+    "numero": 5,
+    "titulo": "Jogo 6 Taças Bowls de Vidro",
+    "preco": 23.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
+    "link": "https://meli.la/1NTGSPw",
+    "atualizado": "14/10/2026 14:32"
+  },
+  {
     "numero": 19,
     "titulo": "Air fryer 4 litros 1500w",
     "preco": 249.9,
@@ -238,16 +248,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
     "link": "https://meli.la/2uCZfLN",
     "atualizado": "11/10/2026 11:51"
-  },
-  {
-    "numero": 5,
-    "titulo": "jogo 6 tacas bowls vidro sobremesa",
-    "preco": 23.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
-    "link": "https://meli.la/1NTGSPw",
-    "atualizado": "11/10/2026 04:06"
   },
   {
     "numero": 14,
