@@ -534,5 +534,14 @@
     "numero": 28,
     "titulo": "Liquidificador Electrolux 1000 W 2,7 L com TriForce",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur51:2815624438",
+    "canal": "threads",
+    "quando": "2026-10-14T03:08:31.071736-03:00",
+    "numero": 18,
+    "titulo": "Batedeira planetária Mondial 700 W",
+    "plataforma": "mercadolivre",
+    "post_id": "18091885277660576"
   }
 ]
