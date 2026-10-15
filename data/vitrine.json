@@ -1,5 +1,25 @@
 [
   {
+    "numero": 25,
+    "titulo": "Liquidificador 1400w jarra 3,2l",
+    "preco": 150.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
+    "link": "https://meli.la/15PwCBs",
+    "atualizado": "15/10/2026 12:34"
+  },
+  {
+    "numero": 30,
+    "titulo": "Kit 10 potes 750ml com trava",
+    "preco": 33.9,
+    "preco_de": 59.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770265-MLA117214172384_102026-AB.webp",
+    "link": "https://meli.la/2Unj9Km",
+    "atualizado": "15/10/2026 12:34"
+  },
+  {
     "numero": 9,
     "titulo": "Kit 6 Potes de Vidro 640ml com travas",
     "preco": 52.09,
@@ -208,16 +228,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
     "link": "https://meli.la/2PPnb6K",
     "atualizado": "12/10/2026 04:18"
-  },
-  {
-    "numero": 25,
-    "titulo": "Liquidificador 1400W com Jarra 3,2L",
-    "preco": 150.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
-    "link": "https://meli.la/15PwCBs",
-    "atualizado": "11/10/2026 21:28"
   },
   {
     "numero": 8,
