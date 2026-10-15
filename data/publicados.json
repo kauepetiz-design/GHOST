@@ -677,5 +677,14 @@
     "numero": 30,
     "titulo": "Kit 10 potes 750 ml com tampa e trava",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur48:4061082546",
+    "canal": "threads",
+    "quando": "2026-10-15T12:35:52.719228-03:00",
+    "numero": 25,
+    "titulo": "Liquidificador Oster 1400 W com jarra de 3,2 L",
+    "plataforma": "mercadolivre",
+    "post_id": "18195120376403480"
   }
 ]
