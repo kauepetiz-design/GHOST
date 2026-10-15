@@ -1,5 +1,15 @@
 [
   {
+    "numero": 6,
+    "titulo": "jogo 6 copos baixos diamond 300 ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "15/10/2026 14:18"
+  },
+  {
     "numero": 25,
     "titulo": "Liquidificador 1400w jarra 3,2l",
     "preco": 150.7,
@@ -248,16 +258,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
     "link": "https://meli.la/171CqHo",
     "atualizado": "11/10/2026 17:56"
-  },
-  {
-    "numero": 6,
-    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "11/10/2026 11:51"
   },
   {
     "numero": 14,
