@@ -1,5 +1,25 @@
 [
   {
+    "numero": 9,
+    "titulo": "Kit 6 Potes de Vidro 640ml com travas",
+    "preco": 52.09,
+    "preco_de": 149.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
+    "link": "https://meli.la/13G1iVU",
+    "atualizado": "15/10/2026 02:51"
+  },
+  {
+    "numero": 23,
+    "titulo": "jogo de panelas com caçarolas e tampas",
+    "preco": 179.91,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
+    "link": "https://meli.la/25t4T2m",
+    "atualizado": "15/10/2026 02:51"
+  },
+  {
     "numero": 1,
     "titulo": "sanduicheira grill 750w",
     "preco": 54.99,
@@ -200,16 +220,6 @@
     "atualizado": "11/10/2026 21:28"
   },
   {
-    "numero": 9,
-    "titulo": "Kit 6 potes de vidro 640 ml",
-    "preco": 52.09,
-    "preco_de": 149.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
-    "link": "https://meli.la/13G1iVU",
-    "atualizado": "11/10/2026 20:56"
-  },
-  {
     "numero": 8,
     "titulo": "kit 10 potes vidro hermeticos 370ml",
     "preco": 75.77,
@@ -228,16 +238,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
     "link": "https://meli.la/171CqHo",
     "atualizado": "11/10/2026 17:56"
-  },
-  {
-    "numero": 23,
-    "titulo": "jogo de panelas com utensilios",
-    "preco": 179.91,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
-    "link": "https://meli.la/25t4T2m",
-    "atualizado": "11/10/2026 16:42"
   },
   {
     "numero": 6,
