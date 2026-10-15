@@ -1,5 +1,15 @@
 [
   {
+    "numero": 7,
+    "titulo": "Jogo de panelas 10 peças baunilha",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "15/10/2026 20:13"
+  },
+  {
     "numero": 2,
     "titulo": "Processador triturador inox 2 L",
     "preco": 75.9,
@@ -228,16 +238,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "12/10/2026 23:33"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas antiaderente 10 peças",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "12/10/2026 17:15"
   },
   {
     "numero": 10,
