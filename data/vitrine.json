@@ -1,5 +1,15 @@
 [
   {
+    "numero": 2,
+    "titulo": "Processador triturador inox 2 L",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "15/10/2026 17:33"
+  },
+  {
     "numero": 24,
     "titulo": "Panela de arroz elétrica 4 litros",
     "preco": 160.89,
@@ -168,16 +178,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
     "link": "https://meli.la/2X9MJQi",
     "atualizado": "14/10/2026 03:06"
-  },
-  {
-    "numero": 2,
-    "titulo": "Processador triturador elétrico",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "13/10/2026 23:09"
   },
   {
     "numero": 17,
