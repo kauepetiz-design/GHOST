@@ -686,5 +686,45 @@
     "titulo": "Liquidificador Oster 1400 W com jarra de 3,2 L",
     "plataforma": "mercadolivre",
     "post_id": "18195120376403480"
+  },
+  {
+    "id": "mercadolivre:cur52:3960571752",
+    "canal": "whatsapp",
+    "quando": "2026-10-15T12:41:12.196045-03:00",
+    "numero": 26,
+    "titulo": "Batedeira Mondial Bella Massa 500 W",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur47:2856069585",
+    "canal": "whatsapp",
+    "quando": "2026-10-15T12:41:12.197000-03:00",
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur10:4020084223",
+    "canal": "whatsapp",
+    "quando": "2026-10-15T12:41:12.198095-03:00",
+    "numero": 11,
+    "titulo": "Torneira gourmet flexível de parede com 2 jatos",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur15:2032128686",
+    "canal": "whatsapp",
+    "quando": "2026-10-15T12:41:12.199002-03:00",
+    "numero": 12,
+    "titulo": "Panos de prato atoalhados Laune Gourmet",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur50:4016421685",
+    "canal": "whatsapp",
+    "quando": "2026-10-15T12:41:12.199908-03:00",
+    "numero": 28,
+    "titulo": "Liquidificador Electrolux 1000 W 2,7 L com TriForce",
+    "plataforma": "mercadolivre"
   }
 ]
