@@ -660,5 +660,14 @@
     "numero": 23,
     "titulo": "Conjunto de 5 panelas caçarola com 3 utensílios e tampa de vidro",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur13:2173701442",
+    "canal": "threads",
+    "quando": "2026-10-15T02:52:18.056413-03:00",
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640 ml com 4 travas",
+    "plataforma": "mercadolivre",
+    "post_id": "18458403985184765"
   }
 ]
