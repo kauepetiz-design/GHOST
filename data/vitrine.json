@@ -1,5 +1,25 @@
 [
   {
+    "numero": 27,
+    "titulo": "Air fryer de 4,2 litros",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "16/10/2026 20:35"
+  },
+  {
+    "numero": 38,
+    "titulo": "Grill e sanduicheira",
+    "preco": 96.84,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789268-MLA114452573263_072026-AB.webp",
+    "link": "https://meli.la/2YKN8Vp",
+    "atualizado": "16/10/2026 20:35"
+  },
+  {
     "numero": 6,
     "titulo": "Jogo 6 copos baixos de vidro 300 ml",
     "preco": 24.9,
@@ -258,16 +278,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
     "link": "https://meli.la/2yioGJE",
     "atualizado": "13/10/2026 20:17"
-  },
-  {
-    "numero": 27,
-    "titulo": "Air fryer de 4,2 litros",
-    "preco": 145.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
-    "link": "https://meli.la/1bd2Fef",
-    "atualizado": "13/10/2026 20:16"
   },
   {
     "numero": 4,
