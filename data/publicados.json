@@ -904,5 +904,14 @@
     "numero": 38,
     "titulo": "Grill sanduicheira Cadence SAN400",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur47:2856069585",
+    "canal": "threads",
+    "quando": "2026-10-16T20:36:28.430859-03:00",
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "plataforma": "mercadolivre",
+    "post_id": "17957694513250591"
   }
 ]
