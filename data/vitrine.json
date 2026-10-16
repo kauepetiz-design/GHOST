@@ -1,5 +1,15 @@
 [
   {
+    "numero": 15,
+    "titulo": "jogo de panelas ceramica 5 pecas",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "16/10/2026 13:53"
+  },
+  {
     "numero": 23,
     "titulo": "Conjunto de 5 panelas caçarola com 3",
     "preco": 179.91,
@@ -238,16 +248,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
     "link": "https://meli.la/1bd2Fef",
     "atualizado": "13/10/2026 20:16"
-  },
-  {
-    "numero": 15,
-    "titulo": "Jogo panelas ceramica inducao 5 pecas",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
-    "atualizado": "13/10/2026 04:40"
   },
   {
     "numero": 4,
