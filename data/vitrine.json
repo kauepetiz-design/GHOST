@@ -1,5 +1,15 @@
 [
   {
+    "numero": 6,
+    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "16/10/2026 20:05"
+  },
+  {
     "numero": 26,
     "titulo": "Batedeira 500w bella massa",
     "preco": 146.73,
@@ -128,16 +138,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990225-MLA116049570700_092026-AB.webp",
     "link": "https://meli.la/1BFE1Be",
     "atualizado": "15/10/2026 17:18"
-  },
-  {
-    "numero": 6,
-    "titulo": "jogo 6 copos baixos diamond 300 ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "15/10/2026 14:18"
   },
   {
     "numero": 25,
