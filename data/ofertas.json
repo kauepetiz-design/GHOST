@@ -313,9 +313,33 @@
     "coletado_em": "2026-10-16T12:21:13.219228-03:00",
     "links": {
       "telegram": "https://meli.la/1oD9W6i",
-      "vitrine": "https://meli.la/1oD9W6i"
+      "vitrine": "https://meli.la/1oD9W6i",
+      "whatsapp": "https://meli.la/1oD9W6i"
     },
-    "numero": 29
+    "numero": 29,
+    "copy": {
+      "titulo_curto": "Copo térmico gigante 1,2 L inox",
+      "gancho": "Isso aqui resolve um problema chato da cozinha",
+      "dica_chef": "Copo grande com tampa e canudo para a água do dia inteiro. Quem trabalha em cozinha sabe: hidratar faz parte do serviço.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "36% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Cozinha de chef gastando pouco? Olha isso.",
+        "produto": "Copo térmico gigante 1,2 L inox.",
+        "dica": "Copo grande com tampa e canudo para a água do dia inteiro."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur13:2173701442",
@@ -411,8 +435,33 @@
     "nota_chef": "Lixeira com pedal é higiene na prática: você abre sem encostar a mão suja. O balde removível facilita a limpeza.",
     "keyword": "",
     "coletado_em": "2026-10-16T12:21:13.219228-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://meli.la/19QD6GV"
+    },
+    "numero": 35,
+    "copy": {
+      "titulo_curto": "Lixeira inox 5 L com pedal e balde",
+      "gancho": "Achado que vale cada centavo",
+      "dica_chef": "Lixeira com pedal é higiene na prática: você abre sem encostar a mão suja. O balde removível facilita a limpeza.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "27% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Olha esse achado de cozinha.",
+        "produto": "Lixeira inox 5 L com pedal e balde.",
+        "dica": "Lixeira com pedal é higiene na prática: você abre sem encostar a mão suja."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur17:2591903435",
@@ -504,9 +553,33 @@
     "coletado_em": "2026-10-16T12:21:13.219228-03:00",
     "links": {
       "telegram": "https://meli.la/1dF6658",
-      "vitrine": "https://meli.la/1dF6658"
+      "vitrine": "https://meli.la/1dF6658",
+      "whatsapp": "https://meli.la/1dF6658"
     },
-    "numero": 14
+    "numero": 14,
+    "copy": {
+      "titulo_curto": "Kit 10 potes de vidro com tampa",
+      "gancho": "Achado que vale cada centavo",
+      "dica_chef": "Pote com tampa de bambu deixa a bancada organizada e guarda massas e grãos longe da umidade.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Cozinha de chef gastando pouco? Olha isso.",
+        "produto": "Kit 10 potes de vidro com tampa.",
+        "dica": "Pote com tampa de bambu deixa a bancada organizada e guarda massas e grãos longe da umidade."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur21:2201461541",
@@ -837,9 +910,33 @@
     "coletado_em": "2026-10-16T12:21:13.219228-03:00",
     "links": {
       "telegram": "https://meli.la/2Jw735t",
-      "vitrine": "https://meli.la/2Jw735t"
+      "vitrine": "https://meli.la/2Jw735t",
+      "whatsapp": "https://meli.la/2Jw735t"
     },
-    "numero": 13
+    "numero": 13,
+    "copy": {
+      "titulo_curto": "Escorredor de louça suspenso 65 cm",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Escorredor suspenso libera a bancada. Deixe a louça pingar antes de guardar para não molhar o armário.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "5% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Olha esse achado de cozinha.",
+        "produto": "Escorredor de louça suspenso 65 cm.",
+        "dica": "Escorredor suspenso libera a bancada. Deixe a louça pingar antes de guardar para não molhar o armário."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur34:1886367992",
@@ -1052,8 +1149,33 @@
     "nota_chef": "Kit enxuto para o dia a dia de quem mora sozinho ou em casal. Panela do tamanho da boca do fogão economiza gás.",
     "keyword": "",
     "coletado_em": "2026-10-16T12:21:13.219228-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://meli.la/1FLBssT"
+    },
+    "numero": 36,
+    "copy": {
+      "titulo_curto": "Jogo de panelas antiaderente 4 peças",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Kit enxuto para o dia a dia de quem mora sozinho ou em casal. Panela do tamanho da boca do fogão economiza gás.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Jogo de panelas antiaderente 4 peças.",
+        "dica": "Kit enxuto para o dia a dia de quem mora sozinho ou em casal."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur42:822263710",
