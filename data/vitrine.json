@@ -1,5 +1,25 @@
 [
   {
+    "numero": 26,
+    "titulo": "Batedeira 500w bella massa",
+    "preco": 146.73,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
+    "link": "https://meli.la/2PPnb6K",
+    "atualizado": "16/10/2026 17:01"
+  },
+  {
+    "numero": 37,
+    "titulo": "tabua rustica de madeira macica",
+    "preco": 99.52,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627811-MLA118520917409_092026-AB.webp",
+    "link": "https://meli.la/2BhXLaZ",
+    "atualizado": "16/10/2026 17:00"
+  },
+  {
     "numero": 15,
     "titulo": "jogo de panelas ceramica 5 pecas",
     "preco": 257.23,
@@ -277,16 +297,6 @@
     "plataforma": "lomadee",
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
     "link": "https://lmdee.link/50iA1sr5uf7h",
-    "atualizado": "12/10/2026 04:18"
-  },
-  {
-    "numero": 26,
-    "titulo": "Batedeira Bella Massa 500 W",
-    "preco": 146.73,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
-    "link": "https://meli.la/2PPnb6K",
     "atualizado": "12/10/2026 04:18"
   },
   {
