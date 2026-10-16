@@ -1,5 +1,25 @@
 [
   {
+    "numero": 23,
+    "titulo": "Conjunto de 5 panelas caçarola com 3",
+    "preco": 179.91,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
+    "link": "https://meli.la/25t4T2m",
+    "atualizado": "16/10/2026 12:22"
+  },
+  {
+    "numero": 34,
+    "titulo": "Mandolin Inox Fatiador de Legumes",
+    "preco": 39.77,
+    "preco_de": 59.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
+    "link": "https://meli.la/2iAN7g6",
+    "atualizado": "16/10/2026 12:22"
+  },
+  {
     "numero": 22,
     "titulo": "panela de pressao 4,5 litros",
     "preco": 182.7,
@@ -117,16 +137,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
     "link": "https://meli.la/13G1iVU",
-    "atualizado": "15/10/2026 02:51"
-  },
-  {
-    "numero": 23,
-    "titulo": "jogo de panelas com caçarolas e tampas",
-    "preco": 179.91,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
-    "link": "https://meli.la/25t4T2m",
     "atualizado": "15/10/2026 02:51"
   },
   {
