@@ -1,5 +1,15 @@
 [
   {
+    "numero": 7,
+    "titulo": "Jogo de Panelas Antiaderente 10 Peças",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "17/10/2026 15:47"
+  },
+  {
     "numero": 28,
     "titulo": "Liquidificador 1000W 2,7L",
     "preco": 135.79,
@@ -198,16 +208,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620484-MLB83922857128_042025-AB.webp",
     "link": "https://meli.la/2qxTMW9",
     "atualizado": "15/10/2026 20:40"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas 10 peças baunilha",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "15/10/2026 20:13"
   },
   {
     "numero": 2,
