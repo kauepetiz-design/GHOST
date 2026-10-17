@@ -1,5 +1,25 @@
 [
   {
+    "numero": 28,
+    "titulo": "Liquidificador 1000W 2,7L",
+    "preco": 135.79,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
+    "link": "https://meli.la/2X9MJQi",
+    "atualizado": "17/10/2026 14:53"
+  },
+  {
+    "numero": 35,
+    "titulo": "Lixeira Inox 5 Litros com Pedal",
+    "preco": 51.9,
+    "preco_de": 71.13,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
+    "link": "https://meli.la/19QD6GV",
+    "atualizado": "17/10/2026 14:52"
+  },
+  {
     "numero": 17,
     "titulo": "Air fryer de 5,6 litros",
     "preco": 277.96,
@@ -318,16 +338,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
     "link": "https://meli.la/1H1Mogs",
     "atualizado": "14/10/2026 03:07"
-  },
-  {
-    "numero": 28,
-    "titulo": "liquidificador 1000w 2.7l",
-    "preco": 135.79,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
-    "link": "https://meli.la/2X9MJQi",
-    "atualizado": "14/10/2026 03:06"
   },
   {
     "numero": 4,
