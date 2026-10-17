@@ -1,5 +1,25 @@
 [
   {
+    "numero": 12,
+    "titulo": "Panos de prato atoalhados",
+    "preco": 41.98,
+    "preco_de": 76.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
+    "link": "https://meli.la/1rwWsEG",
+    "atualizado": "17/10/2026 11:11"
+  },
+  {
+    "numero": 40,
+    "titulo": "Faca Butcher 8 polegadas",
+    "preco": 87.98,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807234-MLA99923232439_112025-AB.webp",
+    "link": "https://meli.la/2UMViV5",
+    "atualizado": "17/10/2026 11:11"
+  },
+  {
     "numero": 11,
     "titulo": "Torneira gourmet flexível de parede",
     "preco": 27.98,
@@ -358,15 +378,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811192-MLA95941429659_102025-AB.webp",
     "link": "https://meli.la/2Jw735t",
     "atualizado": "10/10/2026 21:13"
-  },
-  {
-    "numero": 12,
-    "titulo": "Panos de prato atoalhados",
-    "preco": 41.98,
-    "preco_de": 76.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
-    "link": "https://meli.la/1rwWsEG",
-    "atualizado": "10/10/2026 21:12"
   }
 ]
