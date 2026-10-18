@@ -1,5 +1,25 @@
 [
   {
+    "numero": 14,
+    "titulo": "Kit 10 potes de vidro com bambu",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "18/10/2026 02:49"
+  },
+  {
+    "numero": 42,
+    "titulo": "Kit 3 organizadores com tampa",
+    "preco": 38.0,
+    "preco_de": 49.0,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849419-MLB116549588914_092026-AB.webp",
+    "link": "https://meli.la/2RkZDsG",
+    "atualizado": "18/10/2026 02:48"
+  },
+  {
     "numero": 41,
     "titulo": "Kit 6 utensílios de bambu com suporte",
     "preco": 84.45,
@@ -398,15 +418,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
     "link": "https://meli.la/1SJy8Mj",
     "atualizado": "11/10/2026 17:56"
-  },
-  {
-    "numero": 14,
-    "titulo": "kit 10 potes vidro tampa bambu",
-    "preco": 128.25,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
-    "link": "https://meli.la/1dF6658",
-    "atualizado": "11/10/2026 04:06"
   }
 ]

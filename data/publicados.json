@@ -1065,5 +1065,13 @@
     "numero": 41,
     "titulo": "Electrolux, kit com 6 utensílios de bambu com suporte",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur26:2954431803",
+    "canal": "telegram",
+    "quando": "2026-10-18T02:48:53.830820-03:00",
+    "numero": 42,
+    "titulo": "Kit 3 organizadores de geladeira com tampa",
+    "plataforma": "mercadolivre"
   }
 ]
