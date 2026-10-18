@@ -1,5 +1,15 @@
 [
   {
+    "numero": 18,
+    "titulo": "Batedeira planetária 700W",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "17/10/2026 21:12"
+  },
+  {
     "numero": 13,
     "titulo": "Escorredor suspenso 65 cm preto",
     "preco": 119.9,
@@ -348,16 +358,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
     "atualizado": "14/10/2026 12:48"
-  },
-  {
-    "numero": 18,
-    "titulo": "batedeira planetaria 700w",
-    "preco": 279.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
-    "link": "https://meli.la/1H1Mogs",
-    "atualizado": "14/10/2026 03:07"
   },
   {
     "numero": 4,
