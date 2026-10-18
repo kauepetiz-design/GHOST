@@ -1,5 +1,15 @@
 [
   {
+    "numero": 16,
+    "titulo": "Jogo de 5 panelas de cerâmica",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "18/10/2026 15:58"
+  },
+  {
     "numero": 1,
     "titulo": "sanduicheira grill 750w",
     "preco": 54.99,
@@ -208,16 +218,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789898-MLA115997479882_092026-AB.webp",
     "link": "https://meli.la/2peirrJ",
     "atualizado": "17/10/2026 02:33"
-  },
-  {
-    "numero": 16,
-    "titulo": "Conjunto de 5 panelas de ceramica",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "16/10/2026 22:34"
   },
   {
     "numero": 27,
