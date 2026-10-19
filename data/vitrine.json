@@ -1,5 +1,25 @@
 [
   {
+    "numero": 31,
+    "titulo": "Porta-temperos giratório com 9 potes",
+    "preco": 39.48,
+    "preco_de": 65.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990225-MLA116049570700_092026-AB.webp",
+    "link": "https://meli.la/1BFE1Be",
+    "atualizado": "19/10/2026 03:06"
+  },
+  {
+    "numero": 6,
+    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "19/10/2026 03:05"
+  },
+  {
     "numero": 30,
     "titulo": "Kit 10 potes 750 ml com trava",
     "preco": 33.9,
@@ -77,16 +97,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
     "link": "https://meli.la/1HLxed3",
-    "atualizado": "18/10/2026 13:12"
-  },
-  {
-    "numero": 6,
-    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
     "atualizado": "18/10/2026 13:12"
   },
   {
@@ -347,16 +357,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
     "link": "https://meli.la/171CqHo",
-    "atualizado": "15/10/2026 17:18"
-  },
-  {
-    "numero": 31,
-    "titulo": "porta-temperos giratorio vidro 9 potes",
-    "preco": 39.48,
-    "preco_de": 65.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990225-MLA116049570700_092026-AB.webp",
-    "link": "https://meli.la/1BFE1Be",
     "atualizado": "15/10/2026 17:18"
   },
   {
