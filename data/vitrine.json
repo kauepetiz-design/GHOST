@@ -1,5 +1,15 @@
 [
   {
+    "numero": 20,
+    "titulo": "panela de pressao ceramica 4,2 litros",
+    "preco": 199.99,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
+    "link": "https://meli.la/285BAka",
+    "atualizado": "19/10/2026 15:56"
+  },
+  {
     "numero": 32,
     "titulo": "Kit 4 Utensílios Inox",
     "preco": 29.0,
@@ -388,16 +398,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
     "link": "https://meli.la/13G1iVU",
     "atualizado": "15/10/2026 02:51"
-  },
-  {
-    "numero": 20,
-    "titulo": "Panela de pressão cerâmica 4,2 L",
-    "preco": 199.99,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
-    "link": "https://meli.la/285BAka",
-    "atualizado": "14/10/2026 17:37"
   },
   {
     "numero": 21,
