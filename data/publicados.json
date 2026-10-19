@@ -1269,5 +1269,14 @@
     "numero": 43,
     "titulo": "Cafeteira elétrica Elgin Coffee Break 15 xícaras",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur29:3208275664",
+    "canal": "threads",
+    "quando": "2026-10-19T14:27:52.637698-03:00",
+    "numero": 32,
+    "titulo": "Kit 4 utensílios inox: colher, concha e escumadeira",
+    "plataforma": "mercadolivre",
+    "post_id": "18012734288995026"
   }
 ]
