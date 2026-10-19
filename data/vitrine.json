@@ -1,5 +1,25 @@
 [
   {
+    "numero": 33,
+    "titulo": "Jogo de 6 taças de vidro 330 ml",
+    "preco": 32.88,
+    "preco_de": 54.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
+    "link": "https://meli.la/1MrpHgC",
+    "atualizado": "19/10/2026 19:54"
+  },
+  {
+    "numero": 47,
+    "titulo": "Batedeira Prática 400 W",
+    "preco": 76.06,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_877834-MLA99469550350_112025-AB.webp",
+    "link": "https://meli.la/2Q8kNbr",
+    "atualizado": "19/10/2026 19:53"
+  },
+  {
     "numero": 20,
     "titulo": "panela de pressao ceramica 4,2 litros",
     "preco": 199.99,
@@ -358,16 +378,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
     "link": "https://meli.la/161SNZG",
     "atualizado": "16/10/2026 02:48"
-  },
-  {
-    "numero": 33,
-    "titulo": "Jogo 6 Taças Diamond Vidro 330ml",
-    "preco": 32.88,
-    "preco_de": 54.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
-    "link": "https://meli.la/1MrpHgC",
-    "atualizado": "16/10/2026 02:47"
   },
   {
     "numero": 24,
