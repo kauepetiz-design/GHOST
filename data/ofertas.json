@@ -669,9 +669,33 @@
     "coletado_em": "2026-10-19T14:26:22.688851-03:00",
     "links": {
       "telegram": "https://meli.la/2RkZDsG",
-      "vitrine": "https://meli.la/2RkZDsG"
+      "vitrine": "https://meli.la/2RkZDsG",
+      "whatsapp": "https://meli.la/2RkZDsG"
     },
-    "numero": 42
+    "numero": 42,
+    "copy": {
+      "titulo_curto": "Kit 3 organizadores com tampa",
+      "gancho": "Comida esquecida no fundo da geladeira sempre estraga.",
+      "dica_chef": "Em restaurante, o que fica escondido estraga. Guardar verduras e frutas em potes com tampa mantém tudo visível e evita desperdício no dia a dia.",
+      "beneficios": [
+        "Kit com 3 organizadores para geladeira",
+        "Acompanha tampa para proteger o alimento",
+        "Facilita a visualização rápida dos itens"
+      ],
+      "video": {
+        "gancho": "Fruta estragando no fundo da geladeira? Olha isso.",
+        "produto": "Esse kit vem com 3 organizadores com tampa pra geladeira.",
+        "dica": "O que tá visível na geladeira não estraga. Organize pra gastar menos."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "organizacaocozinha",
+        "dicasdechef",
+        "geladeiraorganizada",
+        "cozinhapratica"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur27:3585428942",
@@ -937,8 +961,33 @@
     "nota_chef": "Tampa ajuda a terminar o cozimento por igual sem ressecar. Evite utensílio de metal para o antiaderente durar anos.",
     "keyword": "",
     "coletado_em": "2026-10-19T14:26:22.688851-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://meli.la/1GTRXTn"
+    },
+    "numero": 45,
+    "copy": {
+      "titulo_curto": "Jogo de frigideiras com tampa",
+      "gancho": "Cansado de carne seca por fora e crua por dentro?",
+      "dica_chef": "A tampa ajuda a terminar o cozimento por igual sem ressecar. Evite utensílio de metal para o antiaderente durar anos.",
+      "beneficios": [
+        "dois tamanhos versáteis",
+        "acompanha tampa de vidro",
+        "limpeza rápida e fácil"
+      ],
+      "video": {
+        "gancho": "A carne passa do ponto e resseca na frigideira? Olha isso.",
+        "produto": "O jogo de frigideiras Tramontina Turim vem com tampa e dois tamanhos.",
+        "dica": "Usa a tampa pra cozinhar por igual e não usa metal no antiaderente."
+      },
+      "hashtags": [
+        "cozinha",
+        "frigideira",
+        "gastronomia",
+        "utilidades",
+        "donadecasa"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur37:2745845031",
@@ -1277,8 +1326,33 @@
     "nota_chef": "Simples e barato para suco, vitamina e molho. Para quente, deixe esfriar um pouco e abra a tampinha para sair o vapor.",
     "keyword": "",
     "coletado_em": "2026-10-19T14:26:22.688851-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://meli.la/2SjH3zR"
+    },
+    "numero": 44,
+    "copy": {
+      "titulo_curto": "Liquidificador 550W",
+      "gancho": "Precisa bater molho e suco sem gastar quase nada?",
+      "dica_chef": "Para bater molhos quentes, deixe amornar um pouco e tire a sobretampa da jarra para o vapor sair sem criar pressão.",
+      "beneficios": [
+        "Potência de 550W pro dia a dia",
+        "Ideal para sucos, vitaminas e molhos",
+        "Custo baixo pra equipar a bancada"
+      ],
+      "video": {
+        "gancho": "Liquidificador caro pra fazer o básico? Olha isso.",
+        "produto": "Esse liquidificador de 550 watts resolve seus molhos e sucos.",
+        "dica": "Pra bater quente, tire a tampinha central pro vapor sair com segurança."
+      },
+      "hashtags": [
+        "#cozinha",
+        "#liquidificador",
+        "#cozinhapratica",
+        "#utensiliosdecozinha",
+        "#acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur50:4016421685",
@@ -1637,9 +1711,33 @@
     "coletado_em": "2026-10-19T14:26:22.688851-03:00",
     "links": {
       "telegram": "https://meli.la/1XhcCHi",
-      "vitrine": "https://meli.la/1XhcCHi"
+      "vitrine": "https://meli.la/1XhcCHi",
+      "whatsapp": "https://meli.la/1XhcCHi"
     },
-    "numero": 41
+    "numero": 41,
+    "copy": {
+      "titulo_curto": "Kit 6 utensílios de bambu com suporte",
+      "gancho": "Cansou de queimar a mão ou riscar panela cara?",
+      "dica_chef": "O bambu não esquenta a mão e não risca antiaderente. O segredo profissional: lave logo após usar e seque bem na hora, sem deixar de molho para não rachar.",
+      "beneficios": [
+        "Kit com 6 peças para sua rotina",
+        "Suporte incluso para bancada organizada",
+        "Material de bambu que não risca panelas"
+      ],
+      "video": {
+        "gancho": "Colher esquentando e riscando sua panela? Olha isso.",
+        "produto": "Esse kit com seis utensílios de bambu já vem com suporte.",
+        "dica": "Lave logo após o uso e seque bem pra não rachar a madeira."
+      },
+      "hashtags": [
+        "#cozinhapratica",
+        "#utensiliosdecozinha",
+        "#acheinacozinha",
+        "#bambu",
+        "#cozinhadechef"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur64:218875653",
@@ -1748,8 +1846,33 @@
     "nota_chef": "Suporte guarda a lâmina sem bater em outras. Nunca lave faca na máquina: o cabo e o corte sofrem.",
     "keyword": "",
     "coletado_em": "2026-10-19T14:26:22.688851-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://meli.la/2LCKMFq"
+    },
+    "numero": 46,
+    "copy": {
+      "titulo_curto": "Jogo com 6 facas e suporte de madeira",
+      "gancho": "Faca jogada na gaveta perde o fio rápido demais.",
+      "dica_chef": "O suporte protege o corte porque evita o atrito entre as lâminas. E regra de ouro: nunca lave faca na máquina, isso estraga o fio e o cabo.",
+      "beneficios": [
+        "Acompanha suporte de madeira",
+        "Conjunto completo com 6 facas",
+        "Protege o fio guardando separado"
+      ],
+      "video": {
+        "gancho": "Sua faca perde o corte rápido na gaveta? Olha isso.",
+        "produto": "Esse jogo vem com 6 facas e suporte de madeira pra bancada.",
+        "dica": "Guarde no suporte e nunca lave na máquina pra não estragar o fio."
+      },
+      "hashtags": [
+        "#facasdechef",
+        "#cozinhapratica",
+        "#utensiliosdecozinha",
+        "#dicasdecozinha",
+        "#acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur69:3475394011",
