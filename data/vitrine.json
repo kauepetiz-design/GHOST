@@ -1,5 +1,25 @@
 [
   {
+    "numero": 32,
+    "titulo": "Kit 4 Utensílios Inox",
+    "preco": 29.0,
+    "preco_de": 49.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620484-MLB83922857128_042025-AB.webp",
+    "link": "https://meli.la/2qxTMW9",
+    "atualizado": "19/10/2026 14:27"
+  },
+  {
+    "numero": 43,
+    "titulo": "Cafeteira eletrica 15 xicaras",
+    "preco": 78.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_737405-MLA114315517360_082026-AB.webp",
+    "link": "https://meli.la/1QWUyNu",
+    "atualizado": "19/10/2026 14:26"
+  },
+  {
     "numero": 31,
     "titulo": "Porta-temperos giratório com 9 potes",
     "preco": 39.48,
@@ -338,16 +358,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
     "link": "https://meli.la/1MrpHgC",
     "atualizado": "16/10/2026 02:47"
-  },
-  {
-    "numero": 32,
-    "titulo": "kit 4 utensilios em inox",
-    "preco": 29.0,
-    "preco_de": 49.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620484-MLB83922857128_042025-AB.webp",
-    "link": "https://meli.la/2qxTMW9",
-    "atualizado": "15/10/2026 20:40"
   },
   {
     "numero": 24,
