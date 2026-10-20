@@ -1,5 +1,25 @@
 [
   {
+    "numero": 3,
+    "titulo": "Cafeteira elétrica inox com filtro",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "20/10/2026 17:30"
+  },
+  {
+    "numero": 2,
+    "titulo": "Processador de Alimentos Inox 2L",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "20/10/2026 17:30"
+  },
+  {
     "numero": 8,
     "titulo": "kit 10 potes vidro hermeticos 370ml",
     "preco": 75.77,
@@ -218,26 +238,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
     "link": "https://meli.la/1UtKSFu",
     "atualizado": "18/10/2026 15:07"
-  },
-  {
-    "numero": 2,
-    "titulo": "Processador elétrico inox 2L",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "18/10/2026 11:37"
-  },
-  {
-    "numero": 3,
-    "titulo": "cafeteira eletrica inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "18/10/2026 11:37"
   },
   {
     "numero": 14,
