@@ -1,5 +1,15 @@
 [
   {
+    "numero": 8,
+    "titulo": "kit 10 potes vidro hermeticos 370ml",
+    "preco": 75.77,
+    "preco_de": 159.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
+    "link": "https://meli.la/1SJy8Mj",
+    "atualizado": "20/10/2026 14:28"
+  },
+  {
     "numero": 35,
     "titulo": "lixeira inox 5l com pedal",
     "preco": 51.9,
@@ -458,15 +468,5 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
     "link": "https://lmdee.link/50iA1sr5uf7h",
     "atualizado": "12/10/2026 04:18"
-  },
-  {
-    "numero": 8,
-    "titulo": "kit 10 potes vidro hermeticos 370ml",
-    "preco": 75.77,
-    "preco_de": 159.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
-    "link": "https://meli.la/1SJy8Mj",
-    "atualizado": "11/10/2026 17:56"
   }
 ]
