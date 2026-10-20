@@ -1,5 +1,15 @@
 [
   {
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderente 10 peças",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "20/10/2026 20:49"
+  },
+  {
     "numero": 17,
     "titulo": "Air fryer 5,6 L",
     "preco": 277.96,
@@ -308,16 +318,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606636-MLA96145806961_102025-AB.webp",
     "link": "https://meli.la/1FLBssT",
     "atualizado": "17/10/2026 18:25"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de Panelas Antiaderente 10 Peças",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "17/10/2026 15:47"
   },
   {
     "numero": 28,
