@@ -1,5 +1,5 @@
 {
-  "proximo_numero": 50,
+  "proximo_numero": 51,
   "numeros": {
     "mercadolivre:cur3:3849204084": 1,
     "mercadolivre:cur2:3558990979": 2,
@@ -49,6 +49,7 @@
     "mercadolivre:cur68:4069217871": 46,
     "mercadolivre:cur53:156514223": 47,
     "mercadolivre:cur31:1603500789": 48,
-    "mercadolivre:cur61:1310666899": 49
+    "mercadolivre:cur61:1310666899": 49,
+    "mercadolivre:cur34:1886367992": 50
   }
 }

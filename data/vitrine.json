@@ -1,5 +1,25 @@
 [
   {
+    "numero": 35,
+    "titulo": "lixeira inox 5l com pedal",
+    "preco": 51.9,
+    "preco_de": 71.13,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
+    "link": "https://meli.la/19QD6GV",
+    "atualizado": "20/10/2026 12:40"
+  },
+  {
+    "numero": 50,
+    "titulo": "Frigideira ceramica 28cm antiaderente",
+    "preco": 73.14,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677792-MLB104670146909_012026-AB.webp",
+    "link": "https://meli.la/2WqyiGP",
+    "atualizado": "20/10/2026 12:38"
+  },
+  {
     "numero": 34,
     "titulo": "Mandolin Inox Fatiador de Legumes",
     "preco": 39.77,
@@ -288,16 +308,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
     "link": "https://meli.la/2X9MJQi",
     "atualizado": "17/10/2026 14:53"
-  },
-  {
-    "numero": 35,
-    "titulo": "Lixeira Inox 5 Litros com Pedal",
-    "preco": 51.9,
-    "preco_de": 71.13,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
-    "link": "https://meli.la/19QD6GV",
-    "atualizado": "17/10/2026 14:52"
   },
   {
     "numero": 17,
