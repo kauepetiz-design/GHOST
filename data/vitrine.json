@@ -1,5 +1,25 @@
 [
   {
+    "numero": 34,
+    "titulo": "Mandolin Inox Fatiador de Legumes",
+    "preco": 39.77,
+    "preco_de": 59.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
+    "link": "https://meli.la/2iAN7g6",
+    "atualizado": "20/10/2026 03:03"
+  },
+  {
+    "numero": 49,
+    "titulo": "Kit 19 Utensílios Silicone Cozinha",
+    "preco": 75.16,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880770-MLB112427967742_062026-AB.webp",
+    "link": "https://meli.la/2opKUZM",
+    "atualizado": "20/10/2026 03:03"
+  },
+  {
     "numero": 21,
     "titulo": "Air fryer 3,5 litros",
     "preco": 194.74,
@@ -377,16 +397,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
     "link": "https://meli.la/25t4T2m",
-    "atualizado": "16/10/2026 12:22"
-  },
-  {
-    "numero": 34,
-    "titulo": "Mandolin Inox Fatiador de Legumes",
-    "preco": 39.77,
-    "preco_de": 59.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
-    "link": "https://meli.la/2iAN7g6",
     "atualizado": "16/10/2026 12:22"
   },
   {
