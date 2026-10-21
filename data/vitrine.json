@@ -1,5 +1,15 @@
 [
   {
+    "numero": 22,
+    "titulo": "Panela de pressão 4,5 litros",
+    "preco": 182.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
+    "link": "https://meli.la/161SNZG",
+    "atualizado": "20/10/2026 21:05"
+  },
+  {
     "numero": 7,
     "titulo": "Jogo de panelas antiaderente 10 peças",
     "preco": 229.52,
@@ -418,16 +428,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
     "link": "https://meli.la/25t4T2m",
     "atualizado": "16/10/2026 12:22"
-  },
-  {
-    "numero": 22,
-    "titulo": "panela de pressao 4,5 litros",
-    "preco": 182.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
-    "link": "https://meli.la/161SNZG",
-    "atualizado": "16/10/2026 02:48"
   },
   {
     "numero": 24,
