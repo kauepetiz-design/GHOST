@@ -1,5 +1,15 @@
 [
   {
+    "numero": 4,
+    "titulo": "jogo de panelas ceramica 10 pecas",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "21/10/2026 18:59"
+  },
+  {
     "numero": 6,
     "titulo": "jogo 6 copos baixos diamond 300ml",
     "preco": 24.9,
@@ -277,16 +287,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
-    "atualizado": "18/10/2026 18:28"
-  },
-  {
-    "numero": 4,
-    "titulo": "Jogo de panelas cerâmica 10 peças",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
     "atualizado": "18/10/2026 18:28"
   },
   {
