@@ -1,5 +1,25 @@
 [
   {
+    "numero": 6,
+    "titulo": "jogo 6 copos baixos diamond 300ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "21/10/2026 17:34"
+  },
+  {
+    "numero": 16,
+    "titulo": "Conjunto de Panelas de Cerâmica 5 Peças",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "21/10/2026 17:34"
+  },
+  {
     "numero": 23,
     "titulo": "jogo de 5 panelas com utensilios",
     "preco": 179.91,
@@ -230,16 +250,6 @@
     "atualizado": "19/10/2026 03:06"
   },
   {
-    "numero": 6,
-    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "19/10/2026 03:05"
-  },
-  {
     "numero": 30,
     "titulo": "Kit 10 potes 750 ml com trava",
     "preco": 33.9,
@@ -278,16 +288,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
     "link": "https://meli.la/2Y9cBfF",
     "atualizado": "18/10/2026 18:28"
-  },
-  {
-    "numero": 16,
-    "titulo": "Jogo de 5 panelas de cerâmica",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "18/10/2026 15:58"
   },
   {
     "numero": 14,
