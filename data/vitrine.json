@@ -1,5 +1,25 @@
 [
   {
+    "numero": 5,
+    "titulo": "Jogo de taças bowls de vidro (6 un.)",
+    "preco": 23.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
+    "link": "https://meli.la/1NTGSPw",
+    "atualizado": "21/10/2026 12:56"
+  },
+  {
+    "numero": 15,
+    "titulo": "Jogo de panelas de ceramica 5 pecas",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "21/10/2026 12:55"
+  },
+  {
     "numero": 1,
     "titulo": "Sanduicheira Grill Gourmet 750W",
     "preco": 54.99,
@@ -140,16 +160,6 @@
     "atualizado": "19/10/2026 22:48"
   },
   {
-    "numero": 15,
-    "titulo": "Jogo de panelas cerâmica 5 peças",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
-    "atualizado": "19/10/2026 20:02"
-  },
-  {
     "numero": 33,
     "titulo": "Jogo de 6 taças de vidro 330 ml",
     "preco": 32.88,
@@ -227,16 +237,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770265-MLA117214172384_102026-AB.webp",
     "link": "https://meli.la/2Unj9Km",
-    "atualizado": "18/10/2026 22:13"
-  },
-  {
-    "numero": 5,
-    "titulo": "Jogo de taças bowls de vidro 6 un.",
-    "preco": 23.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
-    "link": "https://meli.la/1NTGSPw",
     "atualizado": "18/10/2026 22:13"
   },
   {
