@@ -1,5 +1,15 @@
 [
   {
+    "numero": 23,
+    "titulo": "jogo de 5 panelas com utensilios",
+    "preco": 179.91,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
+    "link": "https://meli.la/25t4T2m",
+    "atualizado": "21/10/2026 14:36"
+  },
+  {
     "numero": 5,
     "titulo": "Jogo de taças bowls de vidro (6 un.)",
     "preco": 23.9,
@@ -428,16 +438,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627811-MLA118520917409_092026-AB.webp",
     "link": "https://meli.la/2BhXLaZ",
     "atualizado": "16/10/2026 17:00"
-  },
-  {
-    "numero": 23,
-    "titulo": "Conjunto de 5 panelas caçarola com 3",
-    "preco": 179.91,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
-    "link": "https://meli.la/25t4T2m",
-    "atualizado": "16/10/2026 12:22"
   },
   {
     "numero": 24,
