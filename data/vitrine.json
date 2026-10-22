@@ -1,5 +1,25 @@
 [
   {
+    "numero": 7,
+    "titulo": "jogo de panelas antiaderentes 10 pecas",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "22/10/2026 17:32"
+  },
+  {
+    "numero": 26,
+    "titulo": "Batedeira 500w bella massa",
+    "preco": 146.73,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
+    "link": "https://meli.la/2PPnb6K",
+    "atualizado": "22/10/2026 17:31"
+  },
+  {
     "numero": 9,
     "titulo": "Kit 6 Potes de Vidro 640ml com travas",
     "preco": 52.09,
@@ -138,16 +158,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
     "link": "https://meli.la/161SNZG",
     "atualizado": "20/10/2026 21:05"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas antiaderente 10 peças",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "20/10/2026 20:49"
   },
   {
     "numero": 17,
@@ -448,16 +458,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789268-MLA114452573263_072026-AB.webp",
     "link": "https://meli.la/2YKN8Vp",
     "atualizado": "16/10/2026 20:35"
-  },
-  {
-    "numero": 26,
-    "titulo": "Batedeira 500w bella massa",
-    "preco": 146.73,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
-    "link": "https://meli.la/2PPnb6K",
-    "atualizado": "16/10/2026 17:01"
   },
   {
     "numero": 37,
