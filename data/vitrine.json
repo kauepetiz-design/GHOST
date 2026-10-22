@@ -1,5 +1,15 @@
 [
   {
+    "numero": 24,
+    "titulo": "panela de arroz eletrica 4 litros",
+    "preco": 160.89,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
+    "link": "https://meli.la/171CqHo",
+    "atualizado": "21/10/2026 21:51"
+  },
+  {
     "numero": 8,
     "titulo": "Kit 10 potes de vidro herméticos",
     "preco": 75.77,
@@ -438,16 +448,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627811-MLA118520917409_092026-AB.webp",
     "link": "https://meli.la/2BhXLaZ",
     "atualizado": "16/10/2026 17:00"
-  },
-  {
-    "numero": 24,
-    "titulo": "Panela de arroz elétrica 4 litros",
-    "preco": 160.89,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
-    "link": "https://meli.la/171CqHo",
-    "atualizado": "15/10/2026 17:18"
   },
   {
     "numero": 25,
