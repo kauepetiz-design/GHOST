@@ -1,5 +1,25 @@
 [
   {
+    "numero": 4,
+    "titulo": "Jogo de panelas antiaderente 10 peças",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "22/10/2026 03:04"
+  },
+  {
+    "numero": 10,
+    "titulo": "Assadeira para Pão 40x60cm Silicone",
+    "preco": 265.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
+    "link": "https://lmdee.link/50iA1sr5uf7h",
+    "atualizado": "22/10/2026 03:04"
+  },
+  {
     "numero": 24,
     "titulo": "panela de arroz eletrica 4 litros",
     "preco": 160.89,
@@ -18,16 +38,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
     "link": "https://meli.la/1SJy8Mj",
     "atualizado": "21/10/2026 20:59"
-  },
-  {
-    "numero": 4,
-    "titulo": "jogo de panelas ceramica 10 pecas",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "21/10/2026 18:59"
   },
   {
     "numero": 6,
@@ -458,15 +468,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
     "link": "https://meli.la/15PwCBs",
     "atualizado": "15/10/2026 12:34"
-  },
-  {
-    "numero": 10,
-    "titulo": "Assadeira para Pão 40x60cm Silicone",
-    "preco": 265.17,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
-    "link": "https://lmdee.link/50iA1sr5uf7h",
-    "atualizado": "12/10/2026 04:18"
   }
 ]
