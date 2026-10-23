@@ -1,5 +1,25 @@
 [
   {
+    "numero": 16,
+    "titulo": "jogo de panelas ceramica 5 pecas",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "23/10/2026 03:18"
+  },
+  {
+    "numero": 24,
+    "titulo": "panela eletrica de arroz 4 litros",
+    "preco": 160.89,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
+    "link": "https://meli.la/171CqHo",
+    "atualizado": "23/10/2026 03:17"
+  },
+  {
     "numero": 8,
     "titulo": "kit 10 potes vidro hermeticos 370ml",
     "preco": 75.77,
@@ -100,16 +120,6 @@
     "atualizado": "22/10/2026 03:04"
   },
   {
-    "numero": 24,
-    "titulo": "panela de arroz eletrica 4 litros",
-    "preco": 160.89,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
-    "link": "https://meli.la/171CqHo",
-    "atualizado": "21/10/2026 21:51"
-  },
-  {
     "numero": 6,
     "titulo": "jogo 6 copos baixos diamond 300ml",
     "preco": 24.9,
@@ -117,16 +127,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
     "link": "https://meli.la/2uCZfLN",
-    "atualizado": "21/10/2026 17:34"
-  },
-  {
-    "numero": 16,
-    "titulo": "Conjunto de Panelas de Cerâmica 5 Peças",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
     "atualizado": "21/10/2026 17:34"
   },
   {
