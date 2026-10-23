@@ -1,5 +1,15 @@
 [
   {
+    "numero": 3,
+    "titulo": "Cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "23/10/2026 20:59"
+  },
+  {
     "numero": 19,
     "titulo": "Air Fryer 4 Litros 1500W",
     "preco": 249.9,
@@ -218,16 +228,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
     "link": "https://meli.la/1UtKSFu",
     "atualizado": "21/10/2026 03:00"
-  },
-  {
-    "numero": 3,
-    "titulo": "Cafeteira elétrica inox com filtro",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "20/10/2026 17:30"
   },
   {
     "numero": 2,
