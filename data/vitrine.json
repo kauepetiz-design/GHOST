@@ -1,5 +1,15 @@
 [
   {
+    "numero": 19,
+    "titulo": "Air Fryer 4 Litros 1500W",
+    "preco": 249.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
+    "link": "https://meli.la/2D8XfNY",
+    "atualizado": "23/10/2026 20:51"
+  },
+  {
     "numero": 18,
     "titulo": "batedeira planetaria 700w",
     "preco": 279.9,
@@ -348,16 +358,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770265-MLA117214172384_102026-AB.webp",
     "link": "https://meli.la/2Unj9Km",
     "atualizado": "18/10/2026 22:13"
-  },
-  {
-    "numero": 19,
-    "titulo": "Air Fryer 4 Litros",
-    "preco": 249.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
-    "link": "https://meli.la/2D8XfNY",
-    "atualizado": "18/10/2026 21:31"
   },
   {
     "numero": 29,
