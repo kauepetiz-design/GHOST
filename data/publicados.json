@@ -1773,5 +1773,14 @@
     "numero": 12,
     "titulo": "Panos de prato atoalhados Laune Gourmet",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur42:822263710",
+    "canal": "threads",
+    "quando": "2026-10-23T12:50:50.080436-03:00",
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças, indução",
+    "plataforma": "mercadolivre",
+    "post_id": "18132409441836696"
   }
 ]
