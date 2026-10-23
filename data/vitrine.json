@@ -1,5 +1,15 @@
 [
   {
+    "numero": 18,
+    "titulo": "batedeira planetaria 700w",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "23/10/2026 17:40"
+  },
+  {
     "numero": 21,
     "titulo": "Air Fryer 3,5 Litros",
     "preco": 194.74,
@@ -388,16 +398,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_939854-MLA107830516972_032026-AB.webp",
     "link": "https://meli.la/1XhcCHi",
     "atualizado": "17/10/2026 21:55"
-  },
-  {
-    "numero": 18,
-    "titulo": "Batedeira planetária 700W",
-    "preco": 279.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
-    "link": "https://meli.la/1H1Mogs",
-    "atualizado": "17/10/2026 21:12"
   },
   {
     "numero": 13,
