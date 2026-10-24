@@ -1,5 +1,25 @@
 [
   {
+    "numero": 56,
+    "titulo": "Pote Batch Cooking Hermético 2L",
+    "preco": 88.63,
+    "preco_de": 126.62,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183237/104423_1.jpg?v=639173816360130000",
+    "link": "https://lmdee.link/o2NP4Fvy9M0Q",
+    "atualizado": "24/10/2026 11:29"
+  },
+  {
+    "numero": 27,
+    "titulo": "fritadeira eletrica 4,2 litros",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "24/10/2026 11:28"
+  },
+  {
     "numero": 10,
     "titulo": "Assadeira para pão 40x60cm com silicone",
     "preco": 265.17,
@@ -438,16 +458,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789898-MLA115997479882_092026-AB.webp",
     "link": "https://meli.la/2peirrJ",
     "atualizado": "17/10/2026 02:33"
-  },
-  {
-    "numero": 27,
-    "titulo": "Air fryer de 4,2 litros",
-    "preco": 145.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
-    "link": "https://meli.la/1bd2Fef",
-    "atualizado": "16/10/2026 20:35"
   },
   {
     "numero": 38,
