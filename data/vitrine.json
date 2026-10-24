@@ -1,5 +1,25 @@
 [
   {
+    "numero": 10,
+    "titulo": "Assadeira para pão 40x60cm com silicone",
+    "preco": 265.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
+    "link": "https://lmdee.link/50iA1sr5uf7h",
+    "atualizado": "24/10/2026 02:46"
+  },
+  {
+    "numero": 20,
+    "titulo": "panela de pressão cerâmica 4,2 litros",
+    "preco": 199.99,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
+    "link": "https://meli.la/285BAka",
+    "atualizado": "24/10/2026 02:45"
+  },
+  {
     "numero": 3,
     "titulo": "Cafeteira eletrica inox",
     "preco": 93.5,
@@ -180,16 +200,6 @@
     "atualizado": "22/10/2026 12:53"
   },
   {
-    "numero": 10,
-    "titulo": "Assadeira para Pão 40x60cm Silicone",
-    "preco": 265.17,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
-    "link": "https://lmdee.link/50iA1sr5uf7h",
-    "atualizado": "22/10/2026 03:04"
-  },
-  {
     "numero": 6,
     "titulo": "jogo 6 copos baixos diamond 300ml",
     "preco": 24.9,
@@ -308,16 +318,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_877834-MLA99469550350_112025-AB.webp",
     "link": "https://meli.la/2Q8kNbr",
     "atualizado": "19/10/2026 19:53"
-  },
-  {
-    "numero": 20,
-    "titulo": "panela de pressao ceramica 4,2 litros",
-    "preco": 199.99,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
-    "link": "https://meli.la/285BAka",
-    "atualizado": "19/10/2026 15:56"
   },
   {
     "numero": 32,
