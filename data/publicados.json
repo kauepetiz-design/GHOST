@@ -1917,5 +1917,13 @@
     "titulo": "Processador triturador elétrico de alimentos inox 2 L (220V)",
     "plataforma": "mercadolivre",
     "post_id": "18128714200851892"
+  },
+  {
+    "id": "mercadolivre:cur50:4016421685",
+    "canal": "telegram",
+    "quando": "2026-10-24T15:04:40.348798-03:00",
+    "numero": 28,
+    "titulo": "Liquidificador Electrolux 1000 W 2,7 L com TriForce",
+    "plataforma": "mercadolivre"
   }
 ]
