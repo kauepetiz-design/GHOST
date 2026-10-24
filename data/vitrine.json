@@ -1,5 +1,25 @@
 [
   {
+    "numero": 17,
+    "titulo": "Fritadeira a ar 5,6 L",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "24/10/2026 18:39"
+  },
+  {
+    "numero": 18,
+    "titulo": "Batedeira planetária 700 W",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "24/10/2026 18:38"
+  },
+  {
     "numero": 23,
     "titulo": "Conjunto de 5 caçarolas com utensílios",
     "preco": 179.91,
@@ -100,16 +120,6 @@
     "atualizado": "23/10/2026 20:51"
   },
   {
-    "numero": 18,
-    "titulo": "batedeira planetaria 700w",
-    "preco": 279.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
-    "link": "https://meli.la/1H1Mogs",
-    "atualizado": "23/10/2026 17:40"
-  },
-  {
     "numero": 21,
     "titulo": "Air Fryer 3,5 Litros",
     "preco": 194.74,
@@ -117,16 +127,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
     "link": "https://meli.la/28wfEyW",
-    "atualizado": "23/10/2026 17:21"
-  },
-  {
-    "numero": 17,
-    "titulo": "air fryer 5,6 litros",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
     "atualizado": "23/10/2026 17:21"
   },
   {
