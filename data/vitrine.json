@@ -1,5 +1,15 @@
 [
   {
+    "numero": 21,
+    "titulo": "Air Fryer 3,5 Litros 1500W",
+    "preco": 194.74,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
+    "link": "https://meli.la/28wfEyW",
+    "atualizado": "24/10/2026 22:09"
+  },
+  {
     "numero": 1,
     "titulo": "sanduicheira grill 750w",
     "preco": 54.99,
@@ -128,16 +138,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
     "link": "https://meli.la/2D8XfNY",
     "atualizado": "23/10/2026 20:51"
-  },
-  {
-    "numero": 21,
-    "titulo": "Air Fryer 3,5 Litros",
-    "preco": 194.74,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
-    "link": "https://meli.la/28wfEyW",
-    "atualizado": "23/10/2026 17:21"
   },
   {
     "numero": 4,
