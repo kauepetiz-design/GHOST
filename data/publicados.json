@@ -2002,5 +2002,45 @@
     "titulo": "Panela de pressão Brinox Ceramic Life 4,2 L",
     "plataforma": "mercadolivre",
     "post_id": "18042386864832822"
+  },
+  {
+    "id": "mercadolivre:cur1:2420699312",
+    "canal": "whatsapp",
+    "quando": "2026-10-25T12:01:10.563437-03:00",
+    "numero": 3,
+    "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur24:1360100424",
+    "canal": "whatsapp",
+    "quando": "2026-10-25T12:01:10.565676-03:00",
+    "numero": 4,
+    "titulo": "Jogo de panelas antiaderente cerâmica Mimo 10 peças",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur30:2384686910",
+    "canal": "whatsapp",
+    "quando": "2026-10-25T12:01:10.567882-03:00",
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderentes 10 peças Baunilha",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur42:822263710",
+    "canal": "whatsapp",
+    "quando": "2026-10-25T12:01:10.570087-03:00",
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças, indução",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur43:940256003",
+    "canal": "whatsapp",
+    "quando": "2026-10-25T12:01:10.572279-03:00",
+    "numero": 16,
+    "titulo": "Conjunto de 5 panelas Brinox Ceramic Life Easy",
+    "plataforma": "mercadolivre"
   }
 ]

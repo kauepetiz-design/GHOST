@@ -46,7 +46,30 @@
       "whatsapp": "https://meli.la/1yERjVW",
       "telegram": "https://meli.la/1yERjVW"
     },
-    "numero": 3
+    "numero": 3,
+    "copy": {
+      "titulo_curto": "cafeteira eletrica inox",
+      "gancho": "café frio e sem gosto na sua pia?",
+      "dica_chef": "filtro permanente é menos papel no lixo e menos gasto no mês. café coado na hora tem muito mais aroma do que o que ficou parado na garrafa.",
+      "beneficios": [
+        "filtro permanente reutilizável",
+        "acabamento em inox resistente",
+        "café fresco a qualquer hora"
+      ],
+      "video": {
+        "gancho": "cansado de café frio na cozinha? Olha isso.",
+        "produto": "cafeteira elétrica inox com filtro permanente por noventa e três reais.",
+        "dica": "menos papel no lixo e café coado na hora muito mais aromático."
+      },
+      "hashtags": [
+        "acheinacozinhaprofissional",
+        "cafeteiraeletrica",
+        "cozinhapratica",
+        "gastandopouco",
+        "cafedamanha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur2:3558990979",
@@ -623,7 +646,30 @@
       "whatsapp": "https://meli.la/2Y9cBfF",
       "telegram": "https://meli.la/2Y9cBfF"
     },
-    "numero": 4
+    "numero": 4,
+    "copy": {
+      "titulo_curto": "jogo de panelas ceramica 10 pecas",
+      "gancho": "sua comida gruda na panela velha todo santo dia?",
+      "dica_chef": "o antiaderente ceramico distribui melhor o calor e economiza gas. use sempre fogo medio para baixo e colher de silicone para a panela durar anos.",
+      "beneficios": [
+        "nao gruda com menos oleo",
+        "dez pecas para sua rotina",
+        "limpeza rapida na pia"
+      ],
+      "video": {
+        "gancho": "cansado de comida grudada no fundo da panela?",
+        "produto": "esse jogo de panelas ceramica com dez pecas resolve.",
+        "dica": "fogo baixo e silicone fazem o antiaderente durar muito mais."
+      },
+      "hashtags": [
+        "cozinha",
+        "panelas",
+        "gastronomia",
+        "dicas",
+        "utilidades"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur25:4057462633",
@@ -784,7 +830,30 @@
       "threads": "https://meli.la/1U1iWdD",
       "whatsapp": "https://meli.la/1U1iWdD"
     },
-    "numero": 7
+    "numero": 7,
+    "copy": {
+      "titulo_curto": "jogo de panelas antiaderentes 10 pecas",
+      "gancho": "precisa renovar o jogo de panelas sem gastar muito?",
+      "dica_chef": "fogo medio e tampa fechada fazem a comida cozinhar por igual. evite choque termico e nao leve a panela quente direto pra agua fria.",
+      "beneficios": [
+        "antiaderente de verdade",
+        "dez pecas para o dia a dia",
+        "cozinha por igual"
+      ],
+      "video": {
+        "gancho": "precisa equipar a cozinha sem gastar uma fortuna?",
+        "produto": "esse jogo de panelas antiaderentes com dez pecas ta num preco otimo.",
+        "dica": "fogo medio e tampa fechada economizam gas e cozinham melhor."
+      },
+      "hashtags": [
+        "cozinhapro",
+        "achadosdacozinha",
+        "panelas",
+        "gastandopouco",
+        "cozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur31:1603500789",
@@ -1136,7 +1205,30 @@
       "threads": "https://meli.la/1HLxed3",
       "whatsapp": "https://meli.la/1HLxed3"
     },
-    "numero": 15
+    "numero": 15,
+    "copy": {
+      "titulo_curto": "jogo de panelas ceramica 5 pecas",
+      "gancho": "mudar pra inducao sem gastar o salario todo",
+      "dica_chef": "esquente devagar e lave so depois de esfriar. isso evita o empenamento do fundo e garante durabilidade para o jogo de panelas.",
+      "beneficios": [
+        "compativel com inducao",
+        "fundo compativel com gas",
+        "revestimento ceramico"
+      ],
+      "video": {
+        "gancho": "quer atualizar o fogao sem gastar uma fortuna?",
+        "produto": "esse jogo de panelas de ceramica 5 pecas roda em inducao e gas.",
+        "dica": "esquente devagar e so lave frio pra nao estragar o fundo."
+      },
+      "hashtags": [
+        "cozinha",
+        "panelas",
+        "inducao",
+        "gastronomia",
+        "chef"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur43:940256003",
@@ -1163,7 +1255,30 @@
       "threads": "https://meli.la/1NVpsto",
       "whatsapp": "https://meli.la/1NVpsto"
     },
-    "numero": 16
+    "numero": 16,
+    "copy": {
+      "titulo_curto": "jogo de panelas ceramica 5 pecas",
+      "gancho": "sua comida gruda na panela velha todo dia?",
+      "dica_chef": "cerâmica pede fogo baixo a médio. use sempre colher de silicone ou madeira para preservar o revestimento antiaderente por muito mais tempo.",
+      "beneficios": [
+        "revestimento ceramico",
+        "limpeza muito facil",
+        "distribuicao de calor"
+      ],
+      "video": {
+        "gancho": "sua comida gruda na panela velha todo dia? Olha isso.",
+        "produto": "esse jogo de panelas ceramica resolve o problema sem gastar muito.",
+        "dica": "mantém o fogo baixo e usa espátula de silicone pra durar anos."
+      },
+      "hashtags": [
+        "cozinha",
+        "panelas",
+        "gastronomia",
+        "utilidades",
+        "donadecasa"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur44:453146238",
