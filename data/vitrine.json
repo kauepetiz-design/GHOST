@@ -1,5 +1,15 @@
 [
   {
+    "numero": 14,
+    "titulo": "Kit 10 Potes Vidro Tampa Bambu",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "25/10/2026 15:23"
+  },
+  {
     "numero": 10,
     "titulo": "Assadeira para pão 40x60cm com silicone",
     "preco": 265.17,
@@ -418,16 +428,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
     "atualizado": "18/10/2026 18:28"
-  },
-  {
-    "numero": 14,
-    "titulo": "Kit 10 potes de vidro com bambu",
-    "preco": 128.25,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
-    "link": "https://meli.la/1dF6658",
-    "atualizado": "18/10/2026 02:49"
   },
   {
     "numero": 42,
