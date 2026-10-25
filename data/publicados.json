@@ -2042,5 +2042,50 @@
     "numero": 16,
     "titulo": "Conjunto de 5 panelas Brinox Ceramic Life Easy",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur2:3558990979",
+    "canal": "instagram_carrossel",
+    "quando": "2026-10-25T13:44:30.703237-03:00",
+    "numero": 2,
+    "titulo": "Processador triturador elétrico de alimentos inox 2 L (220V)",
+    "plataforma": "mercadolivre",
+    "post_id": "18131750767748503"
+  },
+  {
+    "id": "mercadolivre:cur8:1568281691",
+    "canal": "instagram_carrossel",
+    "quando": "2026-10-25T13:44:30.704989-03:00",
+    "numero": 8,
+    "titulo": "Kit 10 potes de vidro 370 ml herméticos",
+    "plataforma": "mercadolivre",
+    "post_id": "18131750767748503"
+  },
+  {
+    "id": "mercadolivre:cur13:2173701442",
+    "canal": "instagram_carrossel",
+    "quando": "2026-10-25T13:44:30.706369-03:00",
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640 ml com 4 travas",
+    "plataforma": "mercadolivre",
+    "post_id": "18131750767748503"
+  },
+  {
+    "id": "mercadolivre:cur1:2420699312",
+    "canal": "instagram_carrossel",
+    "quando": "2026-10-25T13:44:30.707693-03:00",
+    "numero": 3,
+    "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
+    "plataforma": "mercadolivre",
+    "post_id": "18131750767748503"
+  },
+  {
+    "id": "lomadee:2914",
+    "canal": "instagram_carrossel",
+    "quando": "2026-10-25T13:44:30.709015-03:00",
+    "numero": 10,
+    "titulo": "Assadeira para Pão de Semolina 40x60cm Vermelha com 3 Tiras em Silicone - Linha Pró Chef S",
+    "plataforma": "lomadee",
+    "post_id": "18131750767748503"
   }
 ]
