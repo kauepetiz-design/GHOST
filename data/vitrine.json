@@ -1,5 +1,15 @@
 [
   {
+    "numero": 1,
+    "titulo": "Sanduicheira Grill 750W",
+    "preco": 54.99,
+    "preco_de": 199.0,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
+    "link": "https://meli.la/1UtKSFu",
+    "atualizado": "25/10/2026 16:57"
+  },
+  {
     "numero": 14,
     "titulo": "Kit 10 Potes Vidro Tampa Bambu",
     "preco": 128.25,
@@ -108,16 +118,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
     "link": "https://meli.la/28wfEyW",
     "atualizado": "24/10/2026 22:09"
-  },
-  {
-    "numero": 1,
-    "titulo": "sanduicheira grill 750w",
-    "preco": 54.99,
-    "preco_de": 199.0,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
-    "link": "https://meli.la/1UtKSFu",
-    "atualizado": "24/10/2026 21:34"
   },
   {
     "numero": 17,
