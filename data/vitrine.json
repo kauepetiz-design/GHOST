@@ -1,5 +1,25 @@
 [
   {
+    "numero": 19,
+    "titulo": "Air Fryer 4 Litros",
+    "preco": 249.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
+    "link": "https://meli.la/2D8XfNY",
+    "atualizado": "25/10/2026 03:02"
+  },
+  {
+    "numero": 22,
+    "titulo": "panela de pressao 4,5 litros",
+    "preco": 182.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
+    "link": "https://meli.la/161SNZG",
+    "atualizado": "25/10/2026 03:01"
+  },
+  {
     "numero": 21,
     "titulo": "Air Fryer 3,5 Litros 1500W",
     "preco": 194.74,
@@ -130,16 +150,6 @@
     "atualizado": "23/10/2026 20:59"
   },
   {
-    "numero": 19,
-    "titulo": "Air Fryer 4 Litros 1500W",
-    "preco": 249.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
-    "link": "https://meli.la/2D8XfNY",
-    "atualizado": "23/10/2026 20:51"
-  },
-  {
     "numero": 4,
     "titulo": "Jogo de panelas cerâmica 10 peças",
     "preco": 479.99,
@@ -208,16 +218,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
     "link": "https://meli.la/1i99JjY",
     "atualizado": "22/10/2026 21:19"
-  },
-  {
-    "numero": 22,
-    "titulo": "panela de pressao 4,5 litros",
-    "preco": 182.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
-    "link": "https://meli.la/161SNZG",
-    "atualizado": "22/10/2026 17:47"
   },
   {
     "numero": 7,

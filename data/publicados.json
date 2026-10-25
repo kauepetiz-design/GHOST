@@ -1968,5 +1968,13 @@
     "numero": 21,
     "titulo": "Air fryer 3,5 L Mondial 1500 W",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur38:1424939063",
+    "canal": "telegram",
+    "quando": "2026-10-25T03:01:15.044687-03:00",
+    "numero": 22,
+    "titulo": "Panela de pressão Tramontina Vancouver 4,5 L",
+    "plataforma": "mercadolivre"
   }
 ]
