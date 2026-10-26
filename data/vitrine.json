@@ -1,5 +1,15 @@
 [
   {
+    "numero": 6,
+    "titulo": "jogo 6 copos baixos diamond 300ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "26/10/2026 15:51"
+  },
+  {
     "numero": 9,
     "titulo": "Kit 6 Potes de Vidro 640ml com travas",
     "preco": 52.09,
@@ -328,16 +338,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
     "link": "https://meli.la/15PwCBs",
     "atualizado": "22/10/2026 12:53"
-  },
-  {
-    "numero": 6,
-    "titulo": "jogo 6 copos baixos diamond 300ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "21/10/2026 17:34"
   },
   {
     "numero": 35,
