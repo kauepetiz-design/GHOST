@@ -1,5 +1,25 @@
 [
   {
+    "numero": 9,
+    "titulo": "Kit 6 Potes de Vidro 640ml com travas",
+    "preco": 52.09,
+    "preco_de": 149.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
+    "link": "https://meli.la/13G1iVU",
+    "atualizado": "26/10/2026 14:19"
+  },
+  {
+    "numero": 31,
+    "titulo": "porta-temperos giratorio vidro 9 potes",
+    "preco": 39.48,
+    "preco_de": 65.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990225-MLA116049570700_092026-AB.webp",
+    "link": "https://meli.la/1BFE1Be",
+    "atualizado": "26/10/2026 14:18"
+  },
+  {
     "numero": 22,
     "titulo": "panela de pressao 4,5 litros",
     "preco": 182.7,
@@ -107,16 +127,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
     "link": "https://meli.la/1yERjVW",
-    "atualizado": "25/10/2026 13:43"
-  },
-  {
-    "numero": 9,
-    "titulo": "Kit 6 Potes de Vidro 640ml 4 Travas",
-    "preco": 52.09,
-    "preco_de": 149.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
-    "link": "https://meli.la/13G1iVU",
     "atualizado": "25/10/2026 13:43"
   },
   {
@@ -418,16 +428,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_737405-MLA114315517360_082026-AB.webp",
     "link": "https://meli.la/1QWUyNu",
     "atualizado": "19/10/2026 14:26"
-  },
-  {
-    "numero": 31,
-    "titulo": "Porta-temperos giratório com 9 potes",
-    "preco": 39.48,
-    "preco_de": 65.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990225-MLA116049570700_092026-AB.webp",
-    "link": "https://meli.la/1BFE1Be",
-    "atualizado": "19/10/2026 03:06"
   },
   {
     "numero": 42,
