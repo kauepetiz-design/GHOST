@@ -1,5 +1,15 @@
 [
   {
+    "numero": 21,
+    "titulo": "Air fryer 3,5 litros",
+    "preco": 194.74,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
+    "link": "https://meli.la/28wfEyW",
+    "atualizado": "25/10/2026 22:46"
+  },
+  {
     "numero": 29,
     "titulo": "copo termico 1.2l inox com canudo",
     "preco": 48.99,
@@ -148,16 +158,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
     "link": "https://meli.la/161SNZG",
     "atualizado": "25/10/2026 03:01"
-  },
-  {
-    "numero": 21,
-    "titulo": "Air Fryer 3,5 Litros 1500W",
-    "preco": 194.74,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
-    "link": "https://meli.la/28wfEyW",
-    "atualizado": "24/10/2026 22:09"
   },
   {
     "numero": 17,
