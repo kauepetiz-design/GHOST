@@ -1,5 +1,25 @@
 [
   {
+    "numero": 25,
+    "titulo": "Liquidificador Potente 3,2L",
+    "preco": 150.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
+    "link": "https://meli.la/15PwCBs",
+    "atualizado": "27/10/2026 03:15"
+  },
+  {
+    "numero": 33,
+    "titulo": "Jogo 6 Taças Diamond 330ml",
+    "preco": 32.88,
+    "preco_de": 54.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
+    "link": "https://meli.la/1MrpHgC",
+    "atualizado": "27/10/2026 03:14"
+  },
+  {
     "numero": 1,
     "titulo": "Sanduicheira Grill 750W",
     "preco": 54.99,
@@ -340,16 +360,6 @@
     "atualizado": "22/10/2026 12:53"
   },
   {
-    "numero": 25,
-    "titulo": "Liquidificador 1400W com jarra 3,2L",
-    "preco": 150.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
-    "link": "https://meli.la/15PwCBs",
-    "atualizado": "22/10/2026 12:53"
-  },
-  {
     "numero": 35,
     "titulo": "lixeira inox 5l com pedal",
     "preco": 51.9,
@@ -398,16 +408,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_861487-MLB74925208337_032024-AB.webp",
     "link": "https://meli.la/1HUHevi",
     "atualizado": "19/10/2026 22:48"
-  },
-  {
-    "numero": 33,
-    "titulo": "Jogo de 6 taças de vidro 330 ml",
-    "preco": 32.88,
-    "preco_de": 54.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
-    "link": "https://meli.la/1MrpHgC",
-    "atualizado": "19/10/2026 19:54"
   },
   {
     "numero": 47,
