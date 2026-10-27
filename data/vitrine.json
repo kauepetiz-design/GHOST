@@ -1,5 +1,15 @@
 [
   {
+    "numero": 7,
+    "titulo": "jogo de panelas antiaderentes 10 pecas",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "27/10/2026 15:12"
+  },
+  {
     "numero": 12,
     "titulo": "Pano de prato atoalhado",
     "preco": 41.98,
@@ -338,16 +348,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
     "link": "https://meli.la/1i99JjY",
     "atualizado": "22/10/2026 21:19"
-  },
-  {
-    "numero": 7,
-    "titulo": "jogo de panelas antiaderentes 10 pecas",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "22/10/2026 17:32"
   },
   {
     "numero": 26,
