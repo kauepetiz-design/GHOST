@@ -1,5 +1,25 @@
 [
   {
+    "numero": 12,
+    "titulo": "Pano de prato atoalhado",
+    "preco": 41.98,
+    "preco_de": 76.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
+    "link": "https://meli.la/1rwWsEG",
+    "atualizado": "27/10/2026 13:28"
+  },
+  {
+    "numero": 34,
+    "titulo": "Mandolin Inox Ralador e Fatiador",
+    "preco": 39.77,
+    "preco_de": 59.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
+    "link": "https://meli.la/2iAN7g6",
+    "atualizado": "27/10/2026 13:28"
+  },
+  {
     "numero": 25,
     "titulo": "Liquidificador Potente 3,2L",
     "preco": 150.7,
@@ -290,16 +310,6 @@
     "atualizado": "23/10/2026 12:49"
   },
   {
-    "numero": 12,
-    "titulo": "Pano de prato atoalhado",
-    "preco": 41.98,
-    "preco_de": 76.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
-    "link": "https://meli.la/1rwWsEG",
-    "atualizado": "23/10/2026 12:49"
-  },
-  {
     "numero": 16,
     "titulo": "jogo de panelas ceramica 5 pecas",
     "preco": 295.0,
@@ -378,16 +388,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_677792-MLB104670146909_012026-AB.webp",
     "link": "https://meli.la/2WqyiGP",
     "atualizado": "20/10/2026 12:38"
-  },
-  {
-    "numero": 34,
-    "titulo": "Mandolin Inox Fatiador de Legumes",
-    "preco": 39.77,
-    "preco_de": 59.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
-    "link": "https://meli.la/2iAN7g6",
-    "atualizado": "20/10/2026 03:03"
   },
   {
     "numero": 49,

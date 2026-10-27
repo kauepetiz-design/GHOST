@@ -2282,5 +2282,13 @@
     "titulo": "Liquidificador Oster 1400 W com jarra de 3,2 L",
     "plataforma": "mercadolivre",
     "post_id": "18065588612520177"
+  },
+  {
+    "id": "mercadolivre:cur27:3585428942",
+    "canal": "telegram",
+    "quando": "2026-10-27T13:28:21.691832-03:00",
+    "numero": 34,
+    "titulo": "Cortador fatiador ralador de legumes mandolin inox",
+    "plataforma": "mercadolivre"
   }
 ]
