@@ -1,5 +1,25 @@
 [
   {
+    "numero": 24,
+    "titulo": "panela de arroz eletrica 4 litros",
+    "preco": 160.89,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
+    "link": "https://meli.la/171CqHo",
+    "atualizado": "27/10/2026 18:16"
+  },
+  {
+    "numero": 35,
+    "titulo": "Lixeira inox 5 l com pedal e balde",
+    "preco": 51.9,
+    "preco_de": 71.13,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
+    "link": "https://meli.la/19QD6GV",
+    "atualizado": "27/10/2026 18:15"
+  },
+  {
     "numero": 7,
     "titulo": "jogo de panelas antiaderentes 10 pecas",
     "preco": 229.52,
@@ -330,16 +350,6 @@
     "atualizado": "23/10/2026 03:18"
   },
   {
-    "numero": 24,
-    "titulo": "panela eletrica de arroz 4 litros",
-    "preco": 160.89,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
-    "link": "https://meli.la/171CqHo",
-    "atualizado": "23/10/2026 03:17"
-  },
-  {
     "numero": 11,
     "titulo": "Torneira flexível de parede 2 jatos",
     "preco": 27.98,
@@ -368,16 +378,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606636-MLA96145806961_102025-AB.webp",
     "link": "https://meli.la/1FLBssT",
     "atualizado": "22/10/2026 12:53"
-  },
-  {
-    "numero": 35,
-    "titulo": "lixeira inox 5l com pedal",
-    "preco": 51.9,
-    "preco_de": 71.13,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
-    "link": "https://meli.la/19QD6GV",
-    "atualizado": "20/10/2026 12:40"
   },
   {
     "numero": 50,
