@@ -1,5 +1,25 @@
 [
   {
+    "numero": 26,
+    "titulo": "Batedeira planetaria 500w",
+    "preco": 146.73,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
+    "link": "https://meli.la/2PPnb6K",
+    "atualizado": "27/10/2026 23:08"
+  },
+  {
+    "numero": 36,
+    "titulo": "jogo de panelas 4 pecas",
+    "preco": 99.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606636-MLA96145806961_102025-AB.webp",
+    "link": "https://meli.la/1FLBssT",
+    "atualizado": "27/10/2026 23:08"
+  },
+  {
     "numero": 15,
     "titulo": "Jogo de Panelas Cerâmica 5 Peças",
     "preco": 257.23,
@@ -358,26 +378,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
     "link": "https://meli.la/1i99JjY",
     "atualizado": "22/10/2026 21:19"
-  },
-  {
-    "numero": 26,
-    "titulo": "Batedeira 500w bella massa",
-    "preco": 146.73,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
-    "link": "https://meli.la/2PPnb6K",
-    "atualizado": "22/10/2026 17:31"
-  },
-  {
-    "numero": 36,
-    "titulo": "jogo de panelas 4 pecas",
-    "preco": 99.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_606636-MLA96145806961_102025-AB.webp",
-    "link": "https://meli.la/1FLBssT",
-    "atualizado": "22/10/2026 12:53"
   },
   {
     "numero": 50,
