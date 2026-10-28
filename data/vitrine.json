@@ -1,5 +1,15 @@
 [
   {
+    "numero": 16,
+    "titulo": "jogo de panelas ceramica 5 pecas",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "28/10/2026 15:30"
+  },
+  {
     "numero": 2,
     "titulo": "processador triturador inox 2l",
     "preco": 75.9,
@@ -368,16 +378,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
     "link": "https://meli.la/2Y9cBfF",
     "atualizado": "23/10/2026 14:42"
-  },
-  {
-    "numero": 16,
-    "titulo": "jogo de panelas ceramica 5 pecas",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "23/10/2026 03:18"
   },
   {
     "numero": 11,
