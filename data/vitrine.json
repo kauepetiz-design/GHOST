@@ -1,5 +1,25 @@
 [
   {
+    "numero": 28,
+    "titulo": "Liquidificador 1000 W 2,7 L",
+    "preco": 135.79,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
+    "link": "https://meli.la/2X9MJQi",
+    "atualizado": "29/10/2026 04:01"
+  },
+  {
+    "numero": 4,
+    "titulo": "jogo de panelas ceramica 10 pecas",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "29/10/2026 04:00"
+  },
+  {
     "numero": 17,
     "titulo": "Air Fryer 5,6 Litros",
     "preco": 277.96,
@@ -360,16 +380,6 @@
     "atualizado": "24/10/2026 15:05"
   },
   {
-    "numero": 28,
-    "titulo": "liquidificador 1000w 2.7l",
-    "preco": 135.79,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
-    "link": "https://meli.la/2X9MJQi",
-    "atualizado": "24/10/2026 15:04"
-  },
-  {
     "numero": 56,
     "titulo": "Pote Batch Cooking Hermético 2L",
     "preco": 88.63,
@@ -378,16 +388,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183237/104423_1.jpg?v=639173816360130000",
     "link": "https://lmdee.link/o2NP4Fvy9M0Q",
     "atualizado": "24/10/2026 11:29"
-  },
-  {
-    "numero": 4,
-    "titulo": "Jogo de panelas cerâmica 10 peças",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "23/10/2026 14:42"
   },
   {
     "numero": 50,
