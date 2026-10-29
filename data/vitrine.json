@@ -1,5 +1,15 @@
 [
   {
+    "numero": 7,
+    "titulo": "jogo de panelas baunilha 10 pecas",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "29/10/2026 20:33"
+  },
+  {
     "numero": 14,
     "titulo": "Kit 10 potes de vidro tampa bambu",
     "preco": 128.25,
@@ -198,16 +208,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
     "link": "https://meli.la/19QD6GV",
     "atualizado": "27/10/2026 18:15"
-  },
-  {
-    "numero": 7,
-    "titulo": "jogo de panelas antiaderentes 10 pecas",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "27/10/2026 15:12"
   },
   {
     "numero": 12,
