@@ -1,5 +1,25 @@
 [
   {
+    "numero": 14,
+    "titulo": "Kit 10 potes de vidro tampa bambu",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "29/10/2026 20:16"
+  },
+  {
+    "numero": 5,
+    "titulo": "Jogo de taças bowls de vidro",
+    "preco": 23.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
+    "link": "https://meli.la/1NTGSPw",
+    "atualizado": "29/10/2026 20:15"
+  },
+  {
     "numero": 18,
     "titulo": "Batedeira planetaria 700w",
     "preco": 279.9,
@@ -78,16 +98,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
     "link": "https://meli.la/1UtKSFu",
     "atualizado": "28/10/2026 20:09"
-  },
-  {
-    "numero": 5,
-    "titulo": "Jogo 6 Taças Bowls para Sobremesa",
-    "preco": 23.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
-    "link": "https://meli.la/1NTGSPw",
-    "atualizado": "28/10/2026 19:50"
   },
   {
     "numero": 16,
@@ -318,16 +328,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
     "atualizado": "25/10/2026 22:07"
-  },
-  {
-    "numero": 14,
-    "titulo": "Kit 10 Potes Vidro Tampa Bambu",
-    "preco": 128.25,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
-    "link": "https://meli.la/1dF6658",
-    "atualizado": "25/10/2026 15:23"
   },
   {
     "numero": 10,
