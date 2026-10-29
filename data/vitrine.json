@@ -1,5 +1,15 @@
 [
   {
+    "numero": 17,
+    "titulo": "Air Fryer 5,6 Litros",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "28/10/2026 23:44"
+  },
+  {
     "numero": 11,
     "titulo": "Torneira gourmet flexivel parede",
     "preco": 27.98,
@@ -338,16 +348,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
     "link": "https://meli.la/2D8XfNY",
     "atualizado": "25/10/2026 03:02"
-  },
-  {
-    "numero": 17,
-    "titulo": "Fritadeira a ar 5,6 L",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
-    "atualizado": "24/10/2026 18:39"
   },
   {
     "numero": 57,
