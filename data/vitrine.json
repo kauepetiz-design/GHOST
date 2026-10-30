@@ -1,5 +1,25 @@
 [
   {
+    "numero": 29,
+    "titulo": "copo termico 1.2l com tampa e canudo",
+    "preco": 48.99,
+    "preco_de": 76.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
+    "link": "https://meli.la/1oD9W6i",
+    "atualizado": "30/10/2026 04:04"
+  },
+  {
+    "numero": 38,
+    "titulo": "Grill sanduicheira",
+    "preco": 96.84,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789268-MLA114452573263_072026-AB.webp",
+    "link": "https://meli.la/2YKN8Vp",
+    "atualizado": "30/10/2026 04:03"
+  },
+  {
     "numero": 19,
     "titulo": "Air Fryer 4 Litros",
     "preco": 249.9,
@@ -330,16 +350,6 @@
     "atualizado": "25/10/2026 22:46"
   },
   {
-    "numero": 29,
-    "titulo": "copo termico 1.2l inox com canudo",
-    "preco": 48.99,
-    "preco_de": 76.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
-    "link": "https://meli.la/1oD9W6i",
-    "atualizado": "25/10/2026 22:07"
-  },
-  {
     "numero": 10,
     "titulo": "Assadeira para pão 40x60cm com silicone",
     "preco": 265.17,
@@ -478,15 +488,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789898-MLA115997479882_092026-AB.webp",
     "link": "https://meli.la/2peirrJ",
     "atualizado": "17/10/2026 02:33"
-  },
-  {
-    "numero": 38,
-    "titulo": "Grill e sanduicheira",
-    "preco": 96.84,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789268-MLA114452573263_072026-AB.webp",
-    "link": "https://meli.la/2YKN8Vp",
-    "atualizado": "16/10/2026 20:35"
   }
 ]
