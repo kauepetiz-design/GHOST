@@ -1,5 +1,15 @@
 [
   {
+    "numero": 19,
+    "titulo": "Air Fryer 4 Litros",
+    "preco": 249.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
+    "link": "https://meli.la/2D8XfNY",
+    "atualizado": "29/10/2026 23:53"
+  },
+  {
     "numero": 7,
     "titulo": "jogo de panelas baunilha 10 pecas",
     "preco": 229.52,
@@ -358,16 +368,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
     "link": "https://meli.la/285BAka",
     "atualizado": "25/10/2026 11:56"
-  },
-  {
-    "numero": 19,
-    "titulo": "Air Fryer 4 Litros",
-    "preco": 249.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
-    "link": "https://meli.la/2D8XfNY",
-    "atualizado": "25/10/2026 03:02"
   },
   {
     "numero": 57,
