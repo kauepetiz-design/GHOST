@@ -1,5 +1,25 @@
 [
   {
+    "numero": 30,
+    "titulo": "Kit 10 potes 750ml com trava",
+    "preco": 33.9,
+    "preco_de": 59.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770265-MLA117214172384_102026-AB.webp",
+    "link": "https://meli.la/2Unj9Km",
+    "atualizado": "30/10/2026 14:00"
+  },
+  {
+    "numero": 39,
+    "titulo": "Kit 3 bowls de aço inox com tampa",
+    "preco": 94.06,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789898-MLA115997479882_092026-AB.webp",
+    "link": "https://meli.la/2peirrJ",
+    "atualizado": "30/10/2026 13:59"
+  },
+  {
     "numero": 29,
     "titulo": "copo termico 1.2l com tampa e canudo",
     "preco": 48.99,
@@ -330,16 +350,6 @@
     "atualizado": "26/10/2026 03:04"
   },
   {
-    "numero": 30,
-    "titulo": "Kit 10 potes 750ml com trava",
-    "preco": 33.9,
-    "preco_de": 59.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770265-MLA117214172384_102026-AB.webp",
-    "link": "https://meli.la/2Unj9Km",
-    "atualizado": "26/10/2026 03:04"
-  },
-  {
     "numero": 21,
     "titulo": "Air fryer 3,5 litros",
     "preco": 194.74,
@@ -478,15 +488,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807234-MLA99923232439_112025-AB.webp",
     "link": "https://meli.la/2UMViV5",
     "atualizado": "17/10/2026 11:11"
-  },
-  {
-    "numero": 39,
-    "titulo": "Kit 3 bowls de inox com tampa",
-    "preco": 94.06,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789898-MLA115997479882_092026-AB.webp",
-    "link": "https://meli.la/2peirrJ",
-    "atualizado": "17/10/2026 02:33"
   }
 ]
