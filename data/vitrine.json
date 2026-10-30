@@ -1,5 +1,25 @@
 [
   {
+    "numero": 3,
+    "titulo": "cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "30/10/2026 18:28"
+  },
+  {
+    "numero": 2,
+    "titulo": "Triturador Eletrico Inox 2L 220V",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "30/10/2026 18:27"
+  },
+  {
     "numero": 20,
     "titulo": "panela de pressao ceramica 4,2 litros",
     "preco": 199.99,
@@ -178,26 +198,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "28/10/2026 15:30"
-  },
-  {
-    "numero": 2,
-    "titulo": "processador triturador inox 2l",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "28/10/2026 14:10"
-  },
-  {
-    "numero": 3,
-    "titulo": "Cafeteira elétrica Electrolux inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "28/10/2026 14:09"
   },
   {
     "numero": 27,
