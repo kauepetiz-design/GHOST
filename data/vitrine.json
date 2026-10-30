@@ -1,5 +1,15 @@
 [
   {
+    "numero": 20,
+    "titulo": "panela de pressao ceramica 4,2 litros",
+    "preco": 199.99,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
+    "link": "https://meli.la/285BAka",
+    "atualizado": "30/10/2026 15:13"
+  },
+  {
     "numero": 30,
     "titulo": "Kit 10 potes 750ml com trava",
     "preco": 33.9,
@@ -378,16 +388,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
     "link": "https://meli.la/1SJy8Mj",
     "atualizado": "25/10/2026 13:43"
-  },
-  {
-    "numero": 20,
-    "titulo": "Panela pressao ceramica 4,2 litros",
-    "preco": 199.99,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
-    "link": "https://meli.la/285BAka",
-    "atualizado": "25/10/2026 11:56"
   },
   {
     "numero": 57,
