@@ -1,5 +1,25 @@
 [
   {
+    "numero": 32,
+    "titulo": "Kit 4 Utensílios Inox",
+    "preco": 29.0,
+    "preco_de": 49.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620484-MLB83922857128_042025-AB.webp",
+    "link": "https://meli.la/2qxTMW9",
+    "atualizado": "31/10/2026 17:28"
+  },
+  {
+    "numero": 57,
+    "titulo": "Travessa Retangular 4L",
+    "preco": 59.35,
+    "preco_de": 84.78,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/175006/374_1.jpg?v=638943189044970000",
+    "link": "https://lmdee.link/tHZhMt2RhM8y",
+    "atualizado": "31/10/2026 17:27"
+  },
+  {
     "numero": 8,
     "titulo": "Kit 10 potes de vidro herméticos",
     "preco": 75.77,
@@ -360,16 +380,6 @@
     "atualizado": "26/10/2026 20:07"
   },
   {
-    "numero": 32,
-    "titulo": "Kit 4 Utensílios Inox",
-    "preco": 29.0,
-    "preco_de": 49.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_620484-MLB83922857128_042025-AB.webp",
-    "link": "https://meli.la/2qxTMW9",
-    "atualizado": "26/10/2026 20:07"
-  },
-  {
     "numero": 22,
     "titulo": "panela de pressao 4,5 litros",
     "preco": 182.7,
@@ -388,16 +398,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
     "link": "https://lmdee.link/50iA1sr5uf7h",
     "atualizado": "25/10/2026 13:43"
-  },
-  {
-    "numero": 57,
-    "titulo": "travessa retangular 4 litros vermelha",
-    "preco": 59.35,
-    "preco_de": 84.78,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/175006/374_1.jpg?v=638943189044970000",
-    "link": "https://lmdee.link/tHZhMt2RhM8y",
-    "atualizado": "24/10/2026 15:05"
   },
   {
     "numero": 56,
