@@ -1,5 +1,15 @@
 [
   {
+    "numero": 16,
+    "titulo": "Jogo de 5 panelas de cerâmica",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "31/10/2026 17:40"
+  },
+  {
     "numero": 32,
     "titulo": "Kit 4 Utensílios Inox",
     "preco": 29.0,
@@ -258,16 +268,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
     "link": "https://meli.la/1i99JjY",
     "atualizado": "28/10/2026 20:10"
-  },
-  {
-    "numero": 16,
-    "titulo": "jogo de panelas ceramica 5 pecas",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "28/10/2026 15:30"
   },
   {
     "numero": 27,
