@@ -1322,7 +1322,30 @@
     "links": {
       "whatsapp": "https://meli.la/2SjH3zR"
     },
-    "numero": 44
+    "numero": 44,
+    "copy": {
+      "titulo_curto": "Liquidificador Mondial Easy Power 550",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Simples e barato para suco, vitamina e molho. Para quente, deixe esfriar um pouco e abra a tampinha para sair o vapor.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Cozinha de chef gastando pouco? Olha isso.",
+        "produto": "Liquidificador Mondial Easy Power 550.",
+        "dica": "Simples e barato para suco, vitamina e molho."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur50:4016421685",
@@ -1477,7 +1500,30 @@
       "vitrine": "https://meli.la/1QWUyNu",
       "whatsapp": "https://meli.la/1QWUyNu"
     },
-    "numero": 43
+    "numero": 43,
+    "copy": {
+      "titulo_curto": "Cafeteira eletrica 15 xicaras",
+      "gancho": "Café frio ou fraco quando a visita chega?",
+      "dica_chef": "Use uma colher de pó por xícara e tire a jarra da base logo após o preparo. Isso evita que o café passe do ponto e amargue na placa aquecida.",
+      "beneficios": [
+        "capacidade para 15 xicaras",
+        "mantem o cafe aquecido",
+        "ideal para casa cheia"
+      ],
+      "video": {
+        "gancho": "Visita em casa e o café acaba rápido? Olha isso.",
+        "produto": "Essa cafeteira elétrica faz quinze xícaras de uma vez só.",
+        "dica": "Tire a jarra da base logo pra o café não amargar."
+      },
+      "hashtags": [
+        "cafeteira",
+        "cafe",
+        "cozinha",
+        "achados",
+        "cozinhabrasil"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur56:3384932072",
@@ -1503,7 +1549,30 @@
       "vitrine": "https://meli.la/2YKN8Vp",
       "whatsapp": "https://meli.la/2YKN8Vp"
     },
-    "numero": 38
+    "numero": 38,
+    "copy": {
+      "titulo_curto": "grill sanduicheira eletrico",
+      "gancho": "precisa grelhar rapido e sem grudar na chapa?",
+      "dica_chef": "chapa antiaderente faz de sanduiche a legumes grelhados. passe um fio de manteiga por fora para dourar bem.",
+      "beneficios": [
+        "chapa antiaderente eficiente",
+        "prepara sanduiches e legumes",
+        "pratico para o dia a dia"
+      ],
+      "video": {
+        "gancho": "precisa grelhar rapido sem grudar na chapa?",
+        "produto": "esse grill sanduicheira da cadence resolve bem e custa noventa e seis reais.",
+        "dica": "passe um fio de manteiga por fora do pao para dourar de verdade."
+      },
+      "hashtags": [
+        "cozinha",
+        "achados",
+        "grelhado",
+        "sanduicheira",
+        "praticidade"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur57:4209798251",
@@ -2085,7 +2154,33 @@
     "nota_chef": "",
     "keyword": "jarra",
     "coletado_em": "2026-10-31T13:02:10.114590-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/jarra-fresc-2-5l-natural-policarbonato-vem/p"
+    },
+    "numero": 58,
+    "copy": {
+      "titulo_curto": "Jarra de policarbonato 2,5L",
+      "gancho": "Cansado de jarra que trinca no primeiro tombo?",
+      "dica_chef": "Policarbonato aguenta o tranco do serviço pesado e não quebra fácil no piso da cozinha. Segurança e durabilidade que o salão precisa.",
+      "beneficios": [
+        "Resistente a quedas",
+        "Capacidade de 2,5 litros",
+        "Material em policarbonato"
+      ],
+      "video": {
+        "gancho": "Cansado de jarra que trinca no piso?",
+        "produto": "Esta jarra em policarbonato tem dois litros e meio pra sua operação.",
+        "dica": "Aguenta o tranco do dia a dia sem dor de cabeça."
+      },
+      "hashtags": [
+        "cozinhaprofissional",
+        "utensilios",
+        "gastronomia",
+        "restaurante",
+        "acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "lomadee:2849",
@@ -2108,7 +2203,33 @@
     "nota_chef": "",
     "keyword": "pote",
     "coletado_em": "2026-10-31T13:02:10.114590-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/pote-batch%E2%80%93cooking-hermetico-2l-com-vedacao-vermelha-tritan-vem/p"
+    },
+    "numero": 56,
+    "copy": {
+      "titulo_curto": "pote hermetico tritan 2l",
+      "gancho": "organizar mise en place sem bagunça",
+      "dica_chef": "em cozinha real, a gente precisa ver o que tem dentro do pote sem abrir. tritan aguenta o tranco, não pega cheiro e o fechamento hermético salva o estoque da semana.",
+      "beneficios": [
+        "vedacao eficiente",
+        "material em tritan",
+        "capacidade de 2 litros"
+      ],
+      "video": {
+        "gancho": "sua geladeira de serviço está uma zona?",
+        "produto": "esse pote tritan de dois litros veda de verdade.",
+        "dica": "visibilidade total e fechamento seguro pro seu estoque."
+      },
+      "hashtags": [
+        "cozinha",
+        "misedeplace",
+        "organizacao",
+        "gastronomia",
+        "chef"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "lomadee:2844",
