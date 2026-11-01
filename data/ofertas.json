@@ -1032,7 +1032,30 @@
       "vitrine": "https://meli.la/285BAka",
       "threads": "https://meli.la/285BAka"
     },
-    "numero": 20
+    "numero": 20,
+    "copy": {
+      "titulo_curto": "panela de pressao ceramica 4,2 litros",
+      "gancho": "limpar panela de pressao queimada tira o seu tempo.",
+      "dica_chef": "o revestimento ceramico facilita muito na hora de lavar a gordura. lembre de nunca passar de dois tercos da capacidade, e use so a metade para feijao que espuma.",
+      "beneficios": [
+        "revestimento ceramico facil de lavar",
+        "capacidade ideal de 4,2 litros",
+        "fechamento seguro no dia a dia"
+      ],
+      "video": {
+        "gancho": "cansado de esfregar panela de pressao depois do servico?",
+        "produto": "essa e a panela de pressao ceramica da brinox com quatro litros e meio.",
+        "dica": "o revestimento ceramico ajuda muito na limpeza. nao encha demais."
+      },
+      "hashtags": [
+        "cozinhaprofissional",
+        "paneladepressao",
+        "gastandopouco",
+        "utilidadesdomesticas",
+        "acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur40:2992547416",
@@ -1167,7 +1190,30 @@
       "vitrine": "https://meli.la/2D8XfNY",
       "threads": "https://meli.la/2D8XfNY"
     },
-    "numero": 19
+    "numero": 19,
+    "copy": {
+      "titulo_curto": "Air Fryer 4 Litros",
+      "gancho": "Fritar sem óleo sem perder o ponto é difícil.",
+      "dica_chef": "Pré-aqueça por 3 minutos e não amontoe a comida: o ar precisa circular para crocar. Sacuda a cesta na metade do tempo.",
+      "beneficios": [
+        "Capacidade de 4 litros",
+        "Potencia de 1500 watts",
+        "Economia de tempo"
+      ],
+      "video": {
+        "gancho": "Cansado de comida murcha na air fryer? Olha isso.",
+        "produto": "Air fryer de 4 litros com 1500 watts de potencia.",
+        "dica": "Pré-aqueça 3 minutos e sacuda a cesta na metade do tempo."
+      },
+      "hashtags": [
+        "cozinha",
+        "airfryer",
+        "gastronomia",
+        "dicas",
+        "utilidades"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur45:3758198340",
@@ -1194,7 +1240,30 @@
       "vitrine": "https://meli.la/28wfEyW",
       "telegram": "https://meli.la/28wfEyW"
     },
-    "numero": 21
+    "numero": 21,
+    "copy": {
+      "titulo_curto": "Air fryer 3,5 litros 1500W",
+      "gancho": "Ligar o forno grande pra fazer só uma porção não compensa.",
+      "dica_chef": "Pra dourar de verdade, pincele o azeite direto no alimento, nunca na cesta. Como é compacta, o ar circula rápido e doura sem ressecar.",
+      "beneficios": [
+        "Potência de 1500W para preparo rápido",
+        "Capacidade de 3,5L ideal para o dia a dia",
+        "Tamanho compacto para bancadas pequenas"
+      ],
+      "video": {
+        "gancho": "Cansado de ligar forno grande pra pouca comida?",
+        "produto": "Essa air fryer de 1500W e 3,5 litros resolve rápido.",
+        "dica": "Pincele o azeite no alimento, não na cesta, pra dourar melhor."
+      },
+      "hashtags": [
+        "airfryer",
+        "cozinhapratica",
+        "dicasdecozinha",
+        "cozinhadechef",
+        "utensiliosdecozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur46:2190209522",
@@ -1221,7 +1290,30 @@
       "vitrine": "https://meli.la/2yioGJE",
       "threads": "https://meli.la/2yioGJE"
     },
-    "numero": 17
+    "numero": 17,
+    "copy": {
+      "titulo_curto": "air fryer 5,6 litros",
+      "gancho": "fritar sem sujeira e sem gastar muito gás.",
+      "dica_chef": "tamanho família que cabe um frango pequeno. forre com papel próprio para air fryer, nunca tampando as saídas de ar.",
+      "beneficios": [
+        "capacidade de 5,6 litros",
+        "espaço para frango inteiro",
+        "ótimo custo e benefício"
+      ],
+      "video": {
+        "gancho": "cansado de sujar o fogão pra fritar pouca coisa?",
+        "produto": "essa air fryer electrolux de cinco litros e meio resolve.",
+        "dica": "forre com papel próprio e nunca tape as saídas de ar."
+      },
+      "hashtags": [
+        "cozinha",
+        "airfryer",
+        "gastandopouco",
+        "utilidades",
+        "acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur47:2856069585",
@@ -1376,7 +1468,30 @@
       "vitrine": "https://meli.la/1H1Mogs",
       "threads": "https://meli.la/1H1Mogs"
     },
-    "numero": 18
+    "numero": 18,
+    "copy": {
+      "titulo_curto": "batedeira planetaria 700w",
+      "gancho": "cansado de massa sovada à mão e braço dolorido?",
+      "dica_chef": "o movimento planetário garante mistura homogênea sem sobrar resíduos nas laterais. use ingredientes em temperatura ambiente para o bolo crescer melhor.",
+      "beneficios": [
+        "potência de 700 watts",
+        "movimento planetário",
+        "alcance total da tigela"
+      ],
+      "video": {
+        "gancho": "massa pesada na mão cansa o dia todo. olha isso.",
+        "produto": "a batedeira planetária mondial 700 w resolve essa bronca na praça.",
+        "dica": "deixe os ingredientes em temperatura ambiente e o bolo cresce mais."
+      },
+      "hashtags": [
+        "confeitaria",
+        "cozinha",
+        "gastronomia",
+        "utensilios",
+        "cheff"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur52:3960571752",
