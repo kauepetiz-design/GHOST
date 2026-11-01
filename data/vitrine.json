@@ -1,5 +1,25 @@
 [
   {
+    "numero": 4,
+    "titulo": "jogo de panelas ceramica 10 pecas",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "01/11/2026 04:27"
+  },
+  {
+    "numero": 10,
+    "titulo": "Assadeira 40x60cm com silicone",
+    "preco": 265.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
+    "link": "https://lmdee.link/50iA1sr5uf7h",
+    "atualizado": "01/11/2026 04:27"
+  },
+  {
     "numero": 22,
     "titulo": "panela de pressao 4,5 litros",
     "preco": 182.7,
@@ -260,16 +280,6 @@
     "atualizado": "29/10/2026 04:01"
   },
   {
-    "numero": 4,
-    "titulo": "jogo de panelas ceramica 10 pecas",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "29/10/2026 04:00"
-  },
-  {
     "numero": 17,
     "titulo": "Air Fryer 5,6 Litros",
     "preco": 277.96,
@@ -398,16 +408,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
     "link": "https://meli.la/25t4T2m",
     "atualizado": "26/10/2026 20:07"
-  },
-  {
-    "numero": 10,
-    "titulo": "Assadeira para pão 40x60cm com silicone",
-    "preco": 265.17,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183462/104462_1.jpg?v=639221611697630000",
-    "link": "https://lmdee.link/50iA1sr5uf7h",
-    "atualizado": "25/10/2026 13:43"
   },
   {
     "numero": 56,
