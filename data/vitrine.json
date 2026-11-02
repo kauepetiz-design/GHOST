@@ -1,5 +1,15 @@
 [
   {
+    "numero": 4,
+    "titulo": "jogo panelas ceramica 10 pecas",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "02/11/2026 19:04"
+  },
+  {
     "numero": 7,
     "titulo": "jogo de panelas antiaderentes 10 pecas",
     "preco": 229.52,
@@ -158,16 +168,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
     "link": "https://meli.la/15PwCBs",
     "atualizado": "01/11/2026 14:07"
-  },
-  {
-    "numero": 4,
-    "titulo": "jogo de panelas ceramica 10 pecas",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "01/11/2026 04:27"
   },
   {
     "numero": 10,
