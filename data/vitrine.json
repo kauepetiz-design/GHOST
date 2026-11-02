@@ -1,5 +1,25 @@
 [
   {
+    "numero": 7,
+    "titulo": "jogo de panelas antiaderentes 10 pecas",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "02/11/2026 17:46"
+  },
+  {
+    "numero": 17,
+    "titulo": "air fryer 5,6 litros",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "02/11/2026 17:45"
+  },
+  {
     "numero": 36,
     "titulo": "jogo de panelas 4 pecas antiaderente",
     "preco": 99.9,
@@ -97,16 +117,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
     "link": "https://meli.la/1HLxed3",
-    "atualizado": "01/11/2026 15:07"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas 10 peças baunilha",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
     "atualizado": "01/11/2026 15:07"
   },
   {
@@ -358,16 +368,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
     "link": "https://meli.la/2X9MJQi",
     "atualizado": "29/10/2026 04:01"
-  },
-  {
-    "numero": 17,
-    "titulo": "Air Fryer 5,6 Litros",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
-    "atualizado": "28/10/2026 23:44"
   },
   {
     "numero": 11,
