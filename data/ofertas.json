@@ -204,7 +204,30 @@
       "vitrine": "https://meli.la/2peirrJ",
       "whatsapp": "https://meli.la/2peirrJ"
     },
-    "numero": 39
+    "numero": 39,
+    "copy": {
+      "titulo_curto": "Kit 3 bowls de aço inox com tampa",
+      "gancho": "Cozinha bagunçada na hora de preparar a comida?",
+      "dica_chef": "Três tamanhos de tigela resolvem a mise en place: separe tudo antes de ligar o fogo, como numa cozinha profissional.",
+      "beneficios": [
+        "Aço inox resistente",
+        "Três tamanhos úteis",
+        "Acompanha tampas"
+      ],
+      "video": {
+        "gancho": "Cozinha sem espaço na hora de preparar? Olha isso.",
+        "produto": "Kit com três bowls de inox com tampa da Electrolux.",
+        "dica": "Separe todos os ingredientes antes de ligar o fogo, igual chef."
+      },
+      "hashtags": [
+        "cozinha",
+        "acheinacozinha",
+        "miseenplace",
+        "utilidadesdomesticas",
+        "gastronomia"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur8:1568281691",
@@ -833,7 +856,30 @@
       "vitrine": "https://meli.la/1HUHevi",
       "whatsapp": "https://meli.la/1HUHevi"
     },
-    "numero": 48
+    "numero": 48,
+    "copy": {
+      "titulo_curto": "Jogo de 3 assadeiras de aluminio",
+      "gancho": "assar bem sem queimar o fundo é para poucos.",
+      "dica_chef": "Forma de alumínio distribui bem o calor. Unte e polvilhe sempre antes de colocar a massa para desenformar sem quebrar.",
+      "beneficios": [
+        "distribuicao uniforme de calor",
+        "tres tamanhos práticos",
+        "material resistente"
+      ],
+      "video": {
+        "gancho": "Cansado de queimar o fundo do bolo? Olha isso.",
+        "produto": "Jogo com três formas retangulares de alumínio por cinquenta e seis reais.",
+        "dica": "Alumínio assa por igual. Unte bem para desenformar sem grudar."
+      },
+      "hashtags": [
+        "cozinha",
+        "assadeiras",
+        "confeitaria",
+        "gastronomia",
+        "utilidades"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur32:3636549427",
@@ -954,7 +1000,30 @@
     "links": {
       "whatsapp": "https://meli.la/1GTRXTn"
     },
-    "numero": 45
+    "numero": 45,
+    "copy": {
+      "titulo_curto": "kit 2 frigideiras com tampas",
+      "gancho": "sua comida resseca antes de cozinhar por dentro?",
+      "dica_chef": "a tampa retém o vapor e acelera o cozimento sem ressecar o prato. use sempre espátulas de silicone ou madeira para o antiaderente durar anos.",
+      "beneficios": [
+        "duplo tamanho 16 e 20 cm",
+        "inclui tampas de vidro",
+        "revestimento antiaderente"
+      ],
+      "video": {
+        "gancho": "cansa de queimar a comida por fora e crua por dentro?",
+        "produto": "esse kit com duas frigideiras turim da tramontina resolve.",
+        "dica": "a tampa ajuda a terminar o cozimento por igual sem ressecar."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "cozinhaprofissional",
+        "gastandopouco",
+        "utilidadesdomesticas",
+        "dicasdecozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur37:2745845031",
@@ -1429,7 +1498,30 @@
       "vitrine": "https://meli.la/2Q8kNbr",
       "whatsapp": "https://meli.la/2Q8kNbr"
     },
-    "numero": 47
+    "numero": 47,
+    "copy": {
+      "titulo_curto": "batedeira 400w",
+      "gancho": "quer fazer bolo em casa sem gastar uma fortuna?",
+      "dica_chef": "peneire sempre a farinha antes de bater. isso deixa a massa muito mais leve e evita aqueles grumos chatos no meio do bolo.",
+      "beneficios": [
+        "potencia de 400 watts",
+        "otimo custo beneficio",
+        "ideal para bolos caseiros"
+      ],
+      "video": {
+        "gancho": "precisa de uma batedeira barata pra casa? olha isso.",
+        "produto": "essa batedeira mondial de quatrocentos watts resolve bem.",
+        "dica": "peneire a farinha e a massa vai ficar bem mais leve."
+      },
+      "hashtags": [
+        "confeitaria",
+        "cozinha",
+        "bolo",
+        "achadinhos",
+        "gastandopouco"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur54:2377704422",
@@ -1786,7 +1878,30 @@
     "links": {
       "whatsapp": "https://meli.la/2LCKMFq"
     },
-    "numero": 46
+    "numero": 46,
+    "copy": {
+      "titulo_curto": "jogo de facas com suporte de madeira",
+      "gancho": "sua gaveta de talheres embacia o fio das facas.",
+      "dica_chef": "o suporte guarda a lâmina sem bater em outras, preservando o corte. nunca lave faca na máquina: o cabo e o fio sofrem com o calor.",
+      "beneficios": [
+        "seis facas essenciais",
+        "suporte de madeira incluso",
+        "organiza a bancada"
+      ],
+      "video": {
+        "gancho": "sua gaveta de facas é uma bagunça perigosa. olha isso.",
+        "produto": "jogo tramontina plenus com seis facas e suporte de madeira.",
+        "dica": "o suporte protege as lâminas. e nunca lave faca na máquina."
+      },
+      "hashtags": [
+        "cozinha",
+        "facas",
+        "tramontina",
+        "gastronomia",
+        "utilidades"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur69:3475394011",
