@@ -1,5 +1,25 @@
 [
   {
+    "numero": 16,
+    "titulo": "jogo de panelas ceramica 5 pecas",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "03/11/2026 04:51"
+  },
+  {
+    "numero": 20,
+    "titulo": "panela de pressao ceramica 4,2 litros",
+    "preco": 199.99,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
+    "link": "https://meli.la/285BAka",
+    "atualizado": "03/11/2026 04:51"
+  },
+  {
     "numero": 15,
     "titulo": "Jogo de panelas de ceramica 5 pecas",
     "preco": 257.23,
@@ -108,16 +128,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
     "link": "https://meli.la/2iAN7g6",
     "atualizado": "01/11/2026 19:45"
-  },
-  {
-    "numero": 16,
-    "titulo": "Jogo com 5 panelas de ceramica",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "01/11/2026 19:44"
   },
   {
     "numero": 8,
@@ -278,16 +288,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
     "link": "https://meli.la/2TXS1nT",
     "atualizado": "30/10/2026 18:27"
-  },
-  {
-    "numero": 20,
-    "titulo": "panela de pressao ceramica 4,2 litros",
-    "preco": 199.99,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
-    "link": "https://meli.la/285BAka",
-    "atualizado": "30/10/2026 15:13"
   },
   {
     "numero": 30,
