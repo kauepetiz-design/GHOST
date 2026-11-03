@@ -73,7 +73,30 @@
       "whatsapp": "https://meli.la/2TXS1nT",
       "threads": "https://meli.la/2TXS1nT"
     },
-    "numero": 2
+    "numero": 2,
+    "copy": {
+      "titulo_curto": "triturador eletrico inox 2 litros 220v",
+      "gancho": "chorar picando cebola todo dia não dá.",
+      "dica_chef": "cebola, alho e tempero picados em segundos. corte em pedaços grandes antes, para não passar do ponto e virar purê.",
+      "beneficios": [
+        "capacidade de 2 litros",
+        "corpo em inox resistente",
+        "motor 220v eficiente"
+      ],
+      "video": {
+        "gancho": "cansado de chorar picando cebola na faca? olha isso.",
+        "produto": "esse triturador elétrico em inox de dois litros resolve rápido.",
+        "dica": "corte os ingredientes em pedaços grandes pra não virar purê."
+      },
+      "hashtags": [
+        "achadosdecozinha",
+        "cozinhaprofissional",
+        "gastandopouco",
+        "utilidadesdomesticas",
+        "cozinhaпраtica"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur3:3849204084",
@@ -100,7 +123,30 @@
       "whatsapp": "https://meli.la/1UtKSFu",
       "telegram": "https://meli.la/1UtKSFu"
     },
-    "numero": 1
+    "numero": 1,
+    "copy": {
+      "titulo_curto": "Sanduicheira Grill 750W",
+      "gancho": "Lanche rápido no intervalo da comanda.",
+      "dica_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
+      "beneficios": [
+        "750W de potência",
+        "Grelha por igual",
+        "Prática para o dia"
+      ],
+      "video": {
+        "gancho": "precisa de um lanche rápido no meio do turno? Olha isso.",
+        "produto": "essa sanduicheira grill entrega setecentos e cinquenta watts.",
+        "dica": "passe manteiga por fora para dourar o pão por igual."
+      },
+      "hashtags": [
+        "cozinha",
+        "lanche",
+        "gastronomia",
+        "utilidades",
+        "chef"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur4:4127098731",
@@ -127,7 +173,30 @@
       "whatsapp": "https://meli.la/1NTGSPw",
       "telegram": "https://meli.la/1NTGSPw"
     },
-    "numero": 5
+    "numero": 5,
+    "copy": {
+      "titulo_curto": "Jogo de taças bowls de vidro (6 un.)",
+      "gancho": "Sobremesa sem padrão perde valor no salão.",
+      "dica_chef": "Deixe a taça no freezer uns minutos antes de montar. A sobremesa em porção individual ganha cara de restaurante e mantém a temperatura perfeita por mais tempo.",
+      "beneficios": [
+        "Padroniza porções",
+        "Visual de restaurante",
+        "Vidro resistente"
+      ],
+      "video": {
+        "gancho": "Sua sobremesa precisa de mais presença. Olha isso.",
+        "produto": "Jogo com seis taças de vidro por vinte e três e noventa.",
+        "dica": "Bota no freezer antes de montar pra segurar a temperatura do doce."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "confeitaria",
+        "cozinhaprofissional",
+        "sobremesa",
+        "utilidadesdomesticas"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur5:1103780966",
@@ -154,7 +223,30 @@
       "whatsapp": "https://meli.la/2uCZfLN",
       "telegram": "https://meli.la/2uCZfLN"
     },
-    "numero": 6
+    "numero": 6,
+    "copy": {
+      "titulo_curto": "jogo 6 copos baixos diamond 300ml",
+      "gancho": "copo que quebra fácil no serviço não dura um mês.",
+      "dica_chef": "copo baixo serve água, suco e até sobremesa em porção pequena. Lave à mão com água morna para não embaçar.",
+      "beneficios": [
+        "capacidade ideal de 300 ml",
+        "vidro resistente e pesado",
+        "excelente custo beneficio"
+      ],
+      "video": {
+        "gancho": "precisa de copo resistente pro dia a dia? Olha isso.",
+        "produto": "jogo com seis copos baixos diamond de trezentos mililitros.",
+        "dica": "ótimo pra água, suco e até sobremesas."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "copos",
+        "cozinhaprofissional",
+        "utensilios",
+        "gastandopouco"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur6:71794851",
@@ -2108,6 +2200,32 @@
     "nota_chef": "",
     "keyword": "travessa",
     "coletado_em": "2026-11-03T15:22:53.820940-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/travessa-stillo-retangular-4-litros-vermelha-polipropileno-vem/p"
+    },
+    "numero": 57,
+    "copy": {
+      "titulo_curto": "Travessa Retangular 4 Litros Vermelha",
+      "gancho": "Cozinha cheia e louça pesando no braço?",
+      "dica_chef": "Polipropileno é leve e não trinca fácil na correria da praça. Perfeito para organizar mise en place grande ou repor saladas sem peso.",
+      "beneficios": [
+        "Capacidade de 4 litros",
+        "Material leve e resistente",
+        "Fácil de lavar e guardar"
+      ],
+      "video": {
+        "gancho": "Cansado de travessa pesada que quebra na pia? Olha isso.",
+        "produto": "Essa travessa de polipropileno tem quatro litros e não pesa nada.",
+        "dica": "Ideal para organizar a bancada sem medo de acidente."
+      },
+      "hashtags": [
+        "cozinha",
+        "gastronomia",
+        "utilidades",
+        "chef",
+        "restaurante"
+      ],
+      "origem": "ia"
+    }
   }
 ]
