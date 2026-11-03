@@ -1,5 +1,25 @@
 [
   {
+    "numero": 21,
+    "titulo": "Air Fryer 3,5 Litros",
+    "preco": 194.74,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
+    "link": "https://meli.la/28wfEyW",
+    "atualizado": "03/11/2026 15:25"
+  },
+  {
+    "numero": 8,
+    "titulo": "kit 10 potes vidro hermeticos",
+    "preco": 75.77,
+    "preco_de": 159.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
+    "link": "https://meli.la/1SJy8Mj",
+    "atualizado": "03/11/2026 15:24"
+  },
+  {
     "numero": 16,
     "titulo": "jogo de panelas ceramica 5 pecas",
     "preco": 295.0,
@@ -130,16 +150,6 @@
     "atualizado": "01/11/2026 19:45"
   },
   {
-    "numero": 8,
-    "titulo": "kit 10 potes vidro hermeticos 370ml",
-    "preco": 75.77,
-    "preco_de": 159.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
-    "link": "https://meli.la/1SJy8Mj",
-    "atualizado": "01/11/2026 19:17"
-  },
-  {
     "numero": 23,
     "titulo": "Conjunto de 5 caçarolas com utensílios",
     "preco": 179.91,
@@ -248,16 +258,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/175006/374_1.jpg?v=638943189044970000",
     "link": "https://lmdee.link/tHZhMt2RhM8y",
     "atualizado": "31/10/2026 17:27"
-  },
-  {
-    "numero": 21,
-    "titulo": "Air fryer 3,5 L 1500 W",
-    "preco": 194.74,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
-    "link": "https://meli.la/28wfEyW",
-    "atualizado": "30/10/2026 23:41"
   },
   {
     "numero": 31,
