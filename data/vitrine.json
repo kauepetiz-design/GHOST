@@ -1,5 +1,15 @@
 [
   {
+    "numero": 2,
+    "titulo": "Triturador Eletrico Inox 2L 220V",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "04/11/2026 16:59"
+  },
+  {
     "numero": 20,
     "titulo": "panela de pressao ceramica 4,2 litros",
     "preco": 199.99,
@@ -288,16 +298,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990225-MLA116049570700_092026-AB.webp",
     "link": "https://meli.la/1BFE1Be",
     "atualizado": "30/10/2026 23:16"
-  },
-  {
-    "numero": 2,
-    "titulo": "Triturador Eletrico Inox 2L 220V",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "30/10/2026 18:27"
   },
   {
     "numero": 30,
