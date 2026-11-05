@@ -1,5 +1,25 @@
 [
   {
+    "numero": 22,
+    "titulo": "Panela de pressão 4,5L Tramontina",
+    "preco": 182.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
+    "link": "https://meli.la/161SNZG",
+    "atualizado": "05/11/2026 04:53"
+  },
+  {
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "05/11/2026 04:53"
+  },
+  {
     "numero": 1,
     "titulo": "Sanduicheira Grill 750W",
     "preco": 54.99,
@@ -68,16 +88,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
     "link": "https://meli.la/2D8XfNY",
     "atualizado": "04/11/2026 04:29"
-  },
-  {
-    "numero": 22,
-    "titulo": "Panela de pressão 4,5 L",
-    "preco": 182.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
-    "link": "https://meli.la/161SNZG",
-    "atualizado": "04/11/2026 04:27"
   },
   {
     "numero": 4,
@@ -378,16 +388,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
     "link": "https://meli.la/1i99JjY",
     "atualizado": "28/10/2026 20:10"
-  },
-  {
-    "numero": 27,
-    "titulo": "fritadeira eletrica 4,2 litros",
-    "preco": 145.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
-    "link": "https://meli.la/1bd2Fef",
-    "atualizado": "28/10/2026 03:50"
   },
   {
     "numero": 37,
