@@ -1,5 +1,25 @@
 [
   {
+    "numero": 18,
+    "titulo": "Batedeira planetária 700w",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "04/11/2026 21:18"
+  },
+  {
+    "numero": 23,
+    "titulo": "jogo de 5 caçarolas com utensílios",
+    "preco": 179.91,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
+    "link": "https://meli.la/25t4T2m",
+    "atualizado": "04/11/2026 21:18"
+  },
+  {
     "numero": 2,
     "titulo": "Triturador Eletrico Inox 2L 220V",
     "preco": 75.9,
@@ -68,16 +88,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
     "link": "https://meli.la/2yioGJE",
     "atualizado": "03/11/2026 20:58"
-  },
-  {
-    "numero": 18,
-    "titulo": "Batedeira planetaria 700w",
-    "preco": 279.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
-    "link": "https://meli.la/1H1Mogs",
-    "atualizado": "03/11/2026 20:57"
   },
   {
     "numero": 3,
@@ -188,16 +198,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
     "link": "https://meli.la/2iAN7g6",
     "atualizado": "01/11/2026 19:45"
-  },
-  {
-    "numero": 23,
-    "titulo": "Conjunto de 5 caçarolas com utensílios",
-    "preco": 179.91,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
-    "link": "https://meli.la/25t4T2m",
-    "atualizado": "01/11/2026 15:07"
   },
   {
     "numero": 5,
