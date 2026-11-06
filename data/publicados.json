@@ -3464,5 +3464,13 @@
     "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
     "plataforma": "mercadolivre",
     "post_id": "17885978760691897"
+  },
+  {
+    "id": "mercadolivre:cur50:4016421685",
+    "canal": "telegram",
+    "quando": "2026-11-06T04:53:53.919589-03:00",
+    "numero": 28,
+    "titulo": "Liquidificador Electrolux 1000 W 2,7 L com TriForce",
+    "plataforma": "mercadolivre"
   }
 ]

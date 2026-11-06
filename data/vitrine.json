@@ -1,5 +1,25 @@
 [
   {
+    "numero": 23,
+    "titulo": "jogo de 5 caçarolas com utensílios",
+    "preco": 179.91,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
+    "link": "https://meli.la/25t4T2m",
+    "atualizado": "06/11/2026 04:54"
+  },
+  {
+    "numero": 28,
+    "titulo": "Liquidificador 1000W 2.7L",
+    "preco": 135.79,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
+    "link": "https://meli.la/2X9MJQi",
+    "atualizado": "06/11/2026 04:53"
+  },
+  {
     "numero": 3,
     "titulo": "Cafeteira eletrica inox",
     "preco": 93.5,
@@ -97,16 +117,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
     "link": "https://meli.la/1H1Mogs",
-    "atualizado": "04/11/2026 21:18"
-  },
-  {
-    "numero": 23,
-    "titulo": "jogo de 5 caçarolas com utensílios",
-    "preco": 179.91,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
-    "link": "https://meli.la/25t4T2m",
     "atualizado": "04/11/2026 21:18"
   },
   {
@@ -388,16 +398,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811192-MLA95941429659_102025-AB.webp",
     "link": "https://meli.la/2Jw735t",
     "atualizado": "29/10/2026 14:26"
-  },
-  {
-    "numero": 28,
-    "titulo": "Liquidificador 1000 W 2,7 L",
-    "preco": 135.79,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
-    "link": "https://meli.la/2X9MJQi",
-    "atualizado": "29/10/2026 04:01"
   },
   {
     "numero": 37,
