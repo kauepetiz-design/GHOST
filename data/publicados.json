@@ -3446,5 +3446,14 @@
     "numero": 12,
     "titulo": "Panos de prato atoalhados Laune Gourmet",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur13:2173701442",
+    "canal": "threads",
+    "quando": "2026-11-05T21:08:29.423204-03:00",
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640 ml com 4 travas",
+    "plataforma": "mercadolivre",
+    "post_id": "17979071487151337"
   }
 ]
