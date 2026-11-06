@@ -1,5 +1,15 @@
 [
   {
+    "numero": 3,
+    "titulo": "Cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "05/11/2026 22:06"
+  },
+  {
     "numero": 9,
     "titulo": "kit 6 potes de vidro 640ml 4 travas",
     "preco": 52.09,
@@ -158,16 +168,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
     "link": "https://meli.la/2yioGJE",
     "atualizado": "03/11/2026 20:58"
-  },
-  {
-    "numero": 3,
-    "titulo": "cafeteira eletrica inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "03/11/2026 16:46"
   },
   {
     "numero": 16,
