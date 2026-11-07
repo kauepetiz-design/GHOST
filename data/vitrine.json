@@ -1,5 +1,15 @@
 [
   {
+    "numero": 2,
+    "titulo": "Triturador Eletrico Inox 2L 220V",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "06/11/2026 21:39"
+  },
+  {
     "numero": 25,
     "titulo": "Liquidificador 1400 W Jarra 3,2 L",
     "preco": 150.7,
@@ -158,16 +168,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
     "link": "https://meli.la/1H1Mogs",
     "atualizado": "04/11/2026 21:18"
-  },
-  {
-    "numero": 2,
-    "titulo": "Triturador Eletrico Inox 2L 220V",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "04/11/2026 16:59"
   },
   {
     "numero": 20,
