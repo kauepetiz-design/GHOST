@@ -280,7 +280,30 @@
       "whatsapp": "https://meli.la/1i99JjY",
       "threads": "https://meli.la/1i99JjY"
     },
-    "numero": 11
+    "numero": 11,
+    "copy": {
+      "titulo_curto": "Torneira gourmet flexível de parede",
+      "gancho": "Lavar panelas grandes na pia baixa cansa o braço.",
+      "dica_chef": "Torneira alta com jato flexível facilita encher panelas e lavar a pia. Confira a rosca e a pressão da sua instalação antes de comprar.",
+      "beneficios": [
+        "Alcance flexível na pia",
+        "Dois tipos de jato",
+        "Instalação na parede"
+      ],
+      "video": {
+        "gancho": "Cansado de sofrer com pia baixa em casa? Olha isso.",
+        "produto": "Torneira gourmet flexível de parede com dois tipos de jato.",
+        "dica": "O cano flexível ajuda muito na hora de lavar panelas grandes."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "cozinha",
+        "utilidades",
+        "gastandopouco",
+        "cozinhapratica"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur11:2823022655",
@@ -908,7 +931,30 @@
       "vitrine": "https://meli.la/2WqyiGP",
       "whatsapp": "https://meli.la/2WqyiGP"
     },
-    "numero": 50
+    "numero": 50,
+    "copy": {
+      "titulo_curto": "Frigideira ceramica 28 cm inducao",
+      "gancho": "Frigideira que gruda comida no meio do serviço?",
+      "dica_chef": "Frigideira boa começa quente: deixe aquecer um minuto antes do óleo. Assim a comida sela, não gruda e usa pouca gordura.",
+      "beneficios": [
+        "Antiaderente de cerâmica",
+        "Funciona em indução e gás",
+        "Tamanho útil de 28 cm"
+      ],
+      "video": {
+        "gancho": "Cansado de comida grudando na frigideira? Olha isso.",
+        "produto": "Frigideira de cerâmica de vinte e oito centímetros por setenta e três reais.",
+        "dica": "Esquente um minuto antes do óleo para selar direito."
+      },
+      "hashtags": [
+        "achadosnacozinha",
+        "cozinhaprofissional",
+        "frigideira",
+        "cozinha",
+        "gastandopouco"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur35:1906416070",
@@ -1326,7 +1372,30 @@
       "whatsapp": "https://meli.la/2X9MJQi",
       "threads": "https://meli.la/2X9MJQi"
     },
-    "numero": 28
+    "numero": 28,
+    "copy": {
+      "titulo_curto": "liquidificador 1000w 2,7l",
+      "gancho": "motor fraco que trava no gelo é o fim da linha.",
+      "dica_chef": "potência para bater gelo e castanhas. comece na velocidade baixa e suba aos poucos para não espirrar.",
+      "beneficios": [
+        "motor potente de 1000w",
+        "copo grande de 2,7 litros",
+        "sistema triforce eficiente"
+      ],
+      "video": {
+        "gancho": "cansado de liquidificador que trava no gelo?",
+        "produto": "esse electrolux de mil watts e dois litros e meio resolve.",
+        "dica": "comece na velocidade baixa e suba aos poucos pra não espirrar."
+      },
+      "hashtags": [
+        "cozinha",
+        "gastronomia",
+        "utilidades",
+        "culinaria",
+        "equipamentos"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur51:2815624438",
@@ -1603,7 +1672,30 @@
       "vitrine": "https://meli.la/2opKUZM",
       "whatsapp": "https://meli.la/2opKUZM"
     },
-    "numero": 49
+    "numero": 49,
+    "copy": {
+      "titulo_curto": "Kit 19 Utensílios de Silicone",
+      "gancho": "montar a cozinha do zero sem gastar uma fortuna.",
+      "dica_chef": "Kit completo para montar a cozinha de uma vez. Mantenha uma colher separada para doce e outra para salgado.",
+      "beneficios": [
+        "nao arranha panelas",
+        "nao acumula sujeira",
+        "nao derrete no calor"
+      ],
+      "video": {
+        "gancho": "precisa montar a cozinha inteira gastando pouco? Olha isso.",
+        "produto": "kit com dezenove utensílios de silicone por setenta e cinco reais.",
+        "dica": "separa uma colher só pro doce e outra pro sal."
+      },
+      "hashtags": [
+        "cozinha",
+        "achados",
+        "gastronomia",
+        "utensilios",
+        "chef"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur62:1508077224",
@@ -1813,7 +1905,30 @@
     "links": {
       "whatsapp": "https://meli.la/2qPqZ4p"
     },
-    "numero": 51
+    "numero": 51,
+    "copy": {
+      "titulo_curto": "Amolador de facas magnético",
+      "gancho": "Sua faca cega não corta nem tomate maduro.",
+      "dica_chef": "Mantém o ângulo certo da lâmina, que é o difícil de acertar à mão. Passe com leveza, do cabo para a ponta.",
+      "beneficios": [
+        "Angulo de afiação ajustável",
+        "Base magnética firme",
+        "Fios precisos sem esforço"
+      ],
+      "video": {
+        "gancho": "Cansado de faca cega na hora do rush? Olha isso.",
+        "produto": "Amolador magnético com ângulo ajustável por sessenta e nove reais.",
+        "dica": "Passe com leveza, do cabo para a ponta, para não estragar o fio."
+      },
+      "hashtags": [
+        "cozinha",
+        "gastronomia",
+        "facas",
+        "chef",
+        "utensilios"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur71:573385333",
