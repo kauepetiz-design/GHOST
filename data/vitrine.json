@@ -1,5 +1,25 @@
 [
   {
+    "numero": 25,
+    "titulo": "Liquidificador 1400 W Jarra 3,2 L",
+    "preco": 150.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
+    "link": "https://meli.la/15PwCBs",
+    "atualizado": "06/11/2026 21:07"
+  },
+  {
+    "numero": 14,
+    "titulo": "Kit 10 potes vidro tampa bambu",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "06/11/2026 21:06"
+  },
+  {
     "numero": 1,
     "titulo": "Sanduicheira Grill 750W",
     "preco": 54.99,
@@ -290,16 +310,6 @@
     "atualizado": "01/11/2026 14:08"
   },
   {
-    "numero": 25,
-    "titulo": "Liquidificador Potente 3,2L",
-    "preco": 150.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
-    "link": "https://meli.la/15PwCBs",
-    "atualizado": "01/11/2026 14:07"
-  },
-  {
     "numero": 6,
     "titulo": "Jogo 6 copos baixos de vidro 300 ml",
     "preco": 24.9,
@@ -388,16 +398,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_789268-MLA114452573263_072026-AB.webp",
     "link": "https://meli.la/2YKN8Vp",
     "atualizado": "30/10/2026 04:03"
-  },
-  {
-    "numero": 14,
-    "titulo": "Kit 10 potes de vidro tampa bambu",
-    "preco": 128.25,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
-    "link": "https://meli.la/1dF6658",
-    "atualizado": "29/10/2026 20:16"
   },
   {
     "numero": 37,
