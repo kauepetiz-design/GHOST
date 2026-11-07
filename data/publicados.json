@@ -3664,5 +3664,14 @@
     "numero": 3,
     "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur58:2916951689",
+    "canal": "threads",
+    "quando": "2026-11-07T17:51:39.143416-03:00",
+    "numero": 24,
+    "titulo": "Panela de arroz elétrica Dako 4 L (10 xícaras)",
+    "plataforma": "mercadolivre",
+    "post_id": "18115978814148599"
   }
 ]
