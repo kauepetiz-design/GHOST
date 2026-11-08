@@ -1,5 +1,25 @@
 [
   {
+    "numero": 26,
+    "titulo": "Batedeira 500w bella massa",
+    "preco": 146.73,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
+    "link": "https://meli.la/2PPnb6K",
+    "atualizado": "08/11/2026 04:16"
+  },
+  {
+    "numero": 4,
+    "titulo": "jogo de panelas ceramica 10 pecas",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "08/11/2026 04:15"
+  },
+  {
     "numero": 7,
     "titulo": "jogo de panelas baunilha 10 pecas",
     "preco": 229.52,
@@ -270,16 +290,6 @@
     "atualizado": "04/11/2026 04:29"
   },
   {
-    "numero": 4,
-    "titulo": "jogo de panelas ceramica 10 pecas",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "03/11/2026 21:52"
-  },
-  {
     "numero": 17,
     "titulo": "Air Fryer 5,6 Litros",
     "preco": 277.96,
@@ -318,16 +328,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986730-MLA111359600349_052026-AB.webp",
     "link": "https://meli.la/19QD6GV",
     "atualizado": "01/11/2026 23:24"
-  },
-  {
-    "numero": 26,
-    "titulo": "Batedeira Bella Massa 500W",
-    "preco": 146.73,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
-    "link": "https://meli.la/2PPnb6K",
-    "atualizado": "01/11/2026 23:23"
   },
   {
     "numero": 34,
