@@ -1,5 +1,15 @@
 [
   {
+    "numero": 7,
+    "titulo": "jogo de panelas baunilha 10 pecas",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "07/11/2026 22:45"
+  },
+  {
     "numero": 2,
     "titulo": "Triturador Eletrico Inox 2 Litros 220V",
     "preco": 75.9,
@@ -288,16 +298,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "03/11/2026 04:51"
-  },
-  {
-    "numero": 7,
-    "titulo": "jogo de panelas antiaderentes 10 pecas",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "02/11/2026 17:46"
   },
   {
     "numero": 36,
