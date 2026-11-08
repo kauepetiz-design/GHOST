@@ -1,5 +1,55 @@
 [
   {
+    "numero": 19,
+    "titulo": "Air fryer 4 litros 1500w",
+    "preco": 249.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
+    "link": "https://meli.la/2D8XfNY",
+    "atualizado": "08/11/2026 15:07"
+  },
+  {
+    "numero": 18,
+    "titulo": "batedeira planetaria 700w",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "08/11/2026 15:07"
+  },
+  {
+    "numero": 17,
+    "titulo": "air fryer 5,6 litros",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "08/11/2026 15:07"
+  },
+  {
+    "numero": 16,
+    "titulo": "jogo de panelas ceramica 5 pecas",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "08/11/2026 15:07"
+  },
+  {
+    "numero": 6,
+    "titulo": "jogo 6 copos baixos diamond 300ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "08/11/2026 15:07"
+  },
+  {
     "numero": 27,
     "titulo": "Air fryer Elgin Quad Fry 4,2 L",
     "preco": 145.0,
@@ -98,16 +148,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
     "link": "https://meli.la/1yERjVW",
     "atualizado": "07/11/2026 17:50"
-  },
-  {
-    "numero": 6,
-    "titulo": "Jogo 6 copos baixos de vidro 300 ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "07/11/2026 14:51"
   },
   {
     "numero": 56,
@@ -260,16 +300,6 @@
     "atualizado": "05/11/2026 04:53"
   },
   {
-    "numero": 18,
-    "titulo": "Batedeira planetária 700w",
-    "preco": 279.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
-    "link": "https://meli.la/1H1Mogs",
-    "atualizado": "04/11/2026 21:18"
-  },
-  {
     "numero": 20,
     "titulo": "panela de pressao ceramica 4,2 litros",
     "preco": 199.99,
@@ -288,36 +318,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
     "link": "https://meli.la/28wfEyW",
     "atualizado": "04/11/2026 15:36"
-  },
-  {
-    "numero": 19,
-    "titulo": "Air fryer 4 litros 1500w",
-    "preco": 249.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
-    "link": "https://meli.la/2D8XfNY",
-    "atualizado": "04/11/2026 04:29"
-  },
-  {
-    "numero": 17,
-    "titulo": "Air Fryer 5,6 Litros",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
-    "atualizado": "03/11/2026 20:58"
-  },
-  {
-    "numero": 16,
-    "titulo": "jogo de panelas ceramica 5 pecas",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "03/11/2026 04:51"
   },
   {
     "numero": 36,
