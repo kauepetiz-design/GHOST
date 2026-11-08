@@ -3782,5 +3782,50 @@
     "numero": 12,
     "titulo": "Panos de prato atoalhados Laune Gourmet",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur5:1103780966",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-08T15:08:42.530363-03:00",
+    "numero": 6,
+    "titulo": "Jogo 6 copos baixos Diamond 300 ml de vidro",
+    "plataforma": "mercadolivre",
+    "post_id": "18134183815740979"
+  },
+  {
+    "id": "mercadolivre:cur43:940256003",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-08T15:08:42.533887-03:00",
+    "numero": 16,
+    "titulo": "Conjunto de 5 panelas Brinox Ceramic Life Easy",
+    "plataforma": "mercadolivre",
+    "post_id": "18134183815740979"
+  },
+  {
+    "id": "mercadolivre:cur46:2190209522",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-08T15:08:42.536925-03:00",
+    "numero": 17,
+    "titulo": "Air fryer Electrolux Rita Lobo 5,6 L",
+    "plataforma": "mercadolivre",
+    "post_id": "18134183815740979"
+  },
+  {
+    "id": "mercadolivre:cur51:2815624438",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-08T15:08:42.539908-03:00",
+    "numero": 18,
+    "titulo": "Batedeira planetária Mondial 700 W",
+    "plataforma": "mercadolivre",
+    "post_id": "18134183815740979"
+  },
+  {
+    "id": "mercadolivre:cur44:453146238",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-08T15:08:42.542922-03:00",
+    "numero": 19,
+    "titulo": "Air fryer 4 L Mondial 1500 W",
+    "plataforma": "mercadolivre",
+    "post_id": "18134183815740979"
   }
 ]
