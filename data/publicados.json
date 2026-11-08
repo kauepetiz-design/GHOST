@@ -3835,5 +3835,14 @@
     "numero": 32,
     "titulo": "Kit 4 utensílios inox: colher, concha e escumadeira",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur10:4020084223",
+    "canal": "threads",
+    "quando": "2026-11-08T18:07:49.881486-03:00",
+    "numero": 11,
+    "titulo": "Torneira gourmet flexível de parede com 2 jatos",
+    "plataforma": "mercadolivre",
+    "post_id": "18140173804663915"
   }
 ]
