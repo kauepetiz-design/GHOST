@@ -356,7 +356,30 @@
       "whatsapp": "https://meli.la/13G1iVU",
       "threads": "https://meli.la/13G1iVU"
     },
-    "numero": 9
+    "numero": 9,
+    "copy": {
+      "titulo_curto": "kit 6 potes de vidro 640ml com travas",
+      "gancho": "sua geladeira cheia de potes encardidos e vazando?",
+      "dica_chef": "vidro com quatro travas é perfeito para molhos e sobras sem manchar ou pegar cheiro. deixe a comida esfriar antes de fechar e mandar pra geladeira.",
+      "beneficios": [
+        "não pega cheiro",
+        "vai ao forno e micro-ondas",
+        "vedação com 4 travas"
+      ],
+      "video": {
+        "gancho": "lata de margarina e pote manchado na geladeira? Olha isso.",
+        "produto": "kit com seis potes de vidro de 640 ml com quatro travas bem firmes.",
+        "dica": "deixe o alimento esfriar antes de fechar pra conservar melhor."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "potesdevidro",
+        "cozinhaorganizada",
+        "utilidadesdomesticas",
+        "gastandopouco"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur14:2202310318",
@@ -405,7 +428,30 @@
       "whatsapp": "https://meli.la/1rwWsEG",
       "threads": "https://meli.la/1rwWsEG"
     },
-    "numero": 12
+    "numero": 12,
+    "copy": {
+      "titulo_curto": "Kit pano de prato atoalhado",
+      "gancho": "Gasta muito com papel toalha na sua cozinha?",
+      "dica_chef": "Pano atoalhado absorve bem e poupa papel toalha no dia a dia. Lave separado do resto da roupa.",
+      "beneficios": [
+        "Alta absorção",
+        "Tecido atoalhado",
+        "Economia de papel"
+      ],
+      "video": {
+        "gancho": "Cansado de gastar rolo e rolo de papel toalha? Olha isso.",
+        "produto": "Estes panos de prato atoalhados da laune gourmet salvam na pia.",
+        "dica": "Eles absorvem muito mais água. Só lembre de lavar separado."
+      },
+      "hashtags": [
+        "achadosdecozinha",
+        "cozinhaprofissional",
+        "panodeprato",
+        "donadecasa",
+        "cozinhapequena"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur16:1048184719",
@@ -1059,7 +1105,30 @@
       "telegram": "https://meli.la/25t4T2m",
       "threads": "https://meli.la/25t4T2m"
     },
-    "numero": 23
+    "numero": 23,
+    "copy": {
+      "titulo_curto": "jogo de panelas com caçarolas e tampas",
+      "gancho": "precisa renovar as panelas sem gastar muito?",
+      "dica_chef": "a tampa de vidro deixa ver o ponto sem perder calor. cozinhe em fogo médio e o antiaderente dura bem mais.",
+      "beneficios": [
+        "cinco caçarolas inclusas",
+        "acompanha tres utensilios",
+        "tampa de vidro resistente"
+      ],
+      "video": {
+        "gancho": "precisa renovar as panelas sem gastar uma fortuna?",
+        "produto": "esse jogo tem cinco caçarolas e tampa de vidro por cento e oitenta.",
+        "dica": "usa fogo médio pro antiaderente durar muito mais."
+      },
+      "hashtags": [
+        "cozinha",
+        "panelas",
+        "gastronomia",
+        "utilidades",
+        "culinaria"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur41:1516267908",
@@ -1298,7 +1367,30 @@
       "threads": "https://meli.la/15PwCBs",
       "whatsapp": "https://meli.la/15PwCBs"
     },
-    "numero": 25
+    "numero": 25,
+    "copy": {
+      "titulo_curto": "Liquidificador 1400w jarra 3,2l",
+      "gancho": "motor fraco queimando na hora do pico?",
+      "dica_chef": "coloque o líquido primeiro e os sólidos depois: a lâmina trabalha sem forçar e o motor dura mais. jarra gigante pra produção alta.",
+      "beneficios": [
+        "potencia de 1400 watts",
+        "jarra grande de 3,2 litros",
+        "aguentando o tranco do dia"
+      ],
+      "video": {
+        "gancho": "cansado de liquidificador que trava no meio do pico. olha isso.",
+        "produto": "liquidificador oster com 1400 watts e jarra de 3 e meio litros por cento e cinquenta reais.",
+        "dica": "joga o liquido primeiro e o solido depois pra nao forcar a lamina."
+      },
+      "hashtags": [
+        "cozinhaprofissional",
+        "utilidadesdomesticas",
+        "gastronomia",
+        "cozinha",
+        "achados"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur49:1368672589",
@@ -2061,7 +2153,32 @@
     "nota_chef": "",
     "keyword": "faca do chef",
     "coletado_em": "2026-11-08T14:00:24.331445-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p"
+    },
+    "numero": 10,
+    "copy": {
+      "titulo_curto": "assadeira silicone 40x60cm",
+      "gancho": "pão grudando na assadeira estraga a produção.",
+      "dica_chef": "as tiras em silicone facilitam a liberação do pão sem rasgar a casca. menos desperdício e menos tempo limpando.",
+      "beneficios": [
+        "tamanho 40x60cm padrão",
+        "tiras em silicone práticas",
+        "ideal para pão de semolina"
+      ],
+      "video": {
+        "gancho": "cansado de ver o pão grudar na forma? olha isso.",
+        "produto": "assadeira 40x60 com tiras de silicone para pão de semolina.",
+        "dica": "o silicone solta fácil e garante casca perfeita sem untar."
+      },
+      "hashtags": [
+        "padaria",
+        "paocaseiro",
+        "cozinhaprofissional",
+        "gastronomia",
+        "panificacao"
+      ],
+      "origem": "ia"
+    }
   }
 ]
