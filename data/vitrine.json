@@ -1,5 +1,25 @@
 [
   {
+    "numero": 13,
+    "titulo": "Escorredor de louça suspenso 65 cm",
+    "preco": 119.9,
+    "preco_de": 126.5,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811192-MLA95941429659_102025-AB.webp",
+    "link": "https://meli.la/2Jw735t",
+    "atualizado": "09/11/2026 04:54"
+  },
+  {
+    "numero": 33,
+    "titulo": "jogo 6 tacas diamond vidro 330 ml",
+    "preco": 32.88,
+    "preco_de": 54.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
+    "link": "https://meli.la/1MrpHgC",
+    "atualizado": "09/11/2026 04:54"
+  },
+  {
     "numero": 28,
     "titulo": "liquidificador 1000w 2,7l",
     "preco": 135.79,
@@ -260,16 +280,6 @@
     "atualizado": "06/11/2026 14:54"
   },
   {
-    "numero": 13,
-    "titulo": "escorredor de louca suspenso 65cm",
-    "preco": 119.9,
-    "preco_de": 126.5,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811192-MLA95941429659_102025-AB.webp",
-    "link": "https://meli.la/2Jw735t",
-    "atualizado": "06/11/2026 14:54"
-  },
-  {
     "numero": 23,
     "titulo": "jogo de 5 caçarolas com utensílios",
     "preco": 179.91,
@@ -358,16 +368,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894077-MLA115247245255_072026-AB.webp",
     "link": "https://meli.la/2iAN7g6",
     "atualizado": "01/11/2026 19:45"
-  },
-  {
-    "numero": 33,
-    "titulo": "Jogo de 6 taças de vidro 330 ml",
-    "preco": 32.88,
-    "preco_de": 54.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
-    "link": "https://meli.la/1MrpHgC",
-    "atualizado": "01/11/2026 14:08"
   },
   {
     "numero": 40,
