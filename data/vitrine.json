@@ -1,5 +1,25 @@
 [
   {
+    "numero": 3,
+    "titulo": "cafeteira eletrica inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "10/11/2026 01:35"
+  },
+  {
+    "numero": 2,
+    "titulo": "triturador eletrico inox 2l",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "10/11/2026 01:35"
+  },
+  {
     "numero": 66,
     "titulo": "Moedor de café manual 40g preto",
     "preco": 269.99,
@@ -200,16 +220,6 @@
     "atualizado": "07/11/2026 22:45"
   },
   {
-    "numero": 2,
-    "titulo": "Triturador Eletrico Inox 2 Litros 220V",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
-    "atualizado": "07/11/2026 21:27"
-  },
-  {
     "numero": 1,
     "titulo": "sanduicheira grill 750w",
     "preco": 54.99,
@@ -227,16 +237,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
     "link": "https://meli.la/171CqHo",
-    "atualizado": "07/11/2026 17:50"
-  },
-  {
-    "numero": 3,
-    "titulo": "cafeteira eletrica inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
     "atualizado": "07/11/2026 17:50"
   },
   {
