@@ -1,5 +1,25 @@
 [
   {
+    "numero": 68,
+    "titulo": "Forma para Dadinho de Tapioca 35mm",
+    "preco": 302.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/178238/Generated-Image-September-11-2025---5_45PM.png?v=638983838803600000",
+    "link": "https://lmdee.link/rTiEKLlG4GYP",
+    "atualizado": "10/11/2026 21:03"
+  },
+  {
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças,",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "10/11/2026 21:01"
+  },
+  {
     "numero": 16,
     "titulo": "Conjunto de 5 panelas ceramica",
     "preco": 295.0,
@@ -128,16 +148,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
     "link": "https://meli.la/2X9MJQi",
     "atualizado": "08/11/2026 23:36"
-  },
-  {
-    "numero": 15,
-    "titulo": "Jogo de Panelas Cerâmica 5 Peças",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
-    "atualizado": "08/11/2026 22:53"
   },
   {
     "numero": 11,
