@@ -1,5 +1,15 @@
 [
   {
+    "numero": 17,
+    "titulo": "air fryer 5,6 litros",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "10/11/2026 21:51"
+  },
+  {
     "numero": 68,
     "titulo": "Forma para Dadinho de Tapioca 35mm",
     "preco": 302.17,
@@ -187,16 +197,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
     "link": "https://meli.la/1H1Mogs",
-    "atualizado": "08/11/2026 15:07"
-  },
-  {
-    "numero": 17,
-    "titulo": "air fryer 5,6 litros",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
     "atualizado": "08/11/2026 15:07"
   },
   {
