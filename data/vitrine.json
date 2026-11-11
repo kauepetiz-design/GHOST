@@ -1,5 +1,35 @@
 [
   {
+    "numero": 6,
+    "titulo": "Jogo 6 copos baixos Diamond 300 ml",
+    "preco": 24.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
+    "link": "https://meli.la/2uCZfLN",
+    "atualizado": "11/11/2026 15:43"
+  },
+  {
+    "numero": 25,
+    "titulo": "liquidificador 1400w jarra 3 2l",
+    "preco": 150.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
+    "link": "https://meli.la/15PwCBs",
+    "atualizado": "11/11/2026 15:41"
+  },
+  {
+    "numero": 70,
+    "titulo": "Assadeira para Pão de Semolina",
+    "preco": 265.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183465/104437_1.jpg?v=639221612922970000",
+    "link": "https://lmdee.link/onrvruRIfenp",
+    "atualizado": "11/11/2026 15:40"
+  },
+  {
     "numero": 4,
     "titulo": "Jogo de panelas cerâmica 10 peças",
     "preco": 479.99,
@@ -98,16 +128,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
     "link": "https://meli.la/1UtKSFu",
     "atualizado": "10/11/2026 05:27"
-  },
-  {
-    "numero": 6,
-    "titulo": "jogo 6 copos baixos diamond 300ml",
-    "preco": 24.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808354-MLB112328830831_052026-O-jogo-6-copos-baixos-diamond-300ml-vidro-resistente-diamante.webp",
-    "link": "https://meli.la/2uCZfLN",
-    "atualizado": "10/11/2026 05:26"
   },
   {
     "numero": 3,
@@ -308,16 +328,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
     "atualizado": "07/11/2026 04:03"
-  },
-  {
-    "numero": 25,
-    "titulo": "Liquidificador 1400 W Jarra 3,2 L",
-    "preco": 150.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
-    "link": "https://meli.la/15PwCBs",
-    "atualizado": "06/11/2026 21:07"
   },
   {
     "numero": 14,
