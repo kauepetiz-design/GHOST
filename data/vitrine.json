@@ -1,5 +1,35 @@
 [
   {
+    "numero": 4,
+    "titulo": "Jogo de panelas cerâmica 10 peças",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "11/11/2026 04:45"
+  },
+  {
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640ml 4 travas",
+    "preco": 52.09,
+    "preco_de": 149.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
+    "link": "https://meli.la/13G1iVU",
+    "atualizado": "11/11/2026 04:44"
+  },
+  {
+    "numero": 69,
+    "titulo": "Assadeira para pão 50x72cm com silicone",
+    "preco": 298.8,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183468/104463_1.jpg?v=639221615503670000",
+    "link": "https://lmdee.link/WXuFSkXPbm6U",
+    "atualizado": "11/11/2026 04:44"
+  },
+  {
     "numero": 17,
     "titulo": "air fryer 5,6 litros",
     "preco": 277.96,
@@ -230,16 +260,6 @@
     "atualizado": "08/11/2026 04:16"
   },
   {
-    "numero": 4,
-    "titulo": "jogo de panelas ceramica 10 pecas",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "08/11/2026 04:15"
-  },
-  {
     "numero": 24,
     "titulo": "panela de arroz elétrica 4 litros",
     "preco": 160.89,
@@ -328,16 +348,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
     "link": "https://meli.la/25t4T2m",
     "atualizado": "06/11/2026 04:54"
-  },
-  {
-    "numero": 9,
-    "titulo": "kit 6 potes de vidro 640ml 4 travas",
-    "preco": 52.09,
-    "preco_de": 149.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949846-MLA112368844650_062026-AB.webp",
-    "link": "https://meli.la/13G1iVU",
-    "atualizado": "05/11/2026 21:07"
   },
   {
     "numero": 8,

@@ -4088,5 +4088,21 @@
     "titulo": "Air fryer Electrolux Rita Lobo 5,6 L",
     "plataforma": "mercadolivre",
     "post_id": "18116795858014141"
+  },
+  {
+    "id": "lomadee:2915",
+    "canal": "telegram",
+    "quando": "2026-11-11T04:44:09.999882-03:00",
+    "numero": 69,
+    "titulo": "Assadeira para Pão de Semolina 50x72cm Vermelha com 4 Tiras em Silicone - Linha Pró Chef S",
+    "plataforma": "lomadee"
+  },
+  {
+    "id": "mercadolivre:cur13:2173701442",
+    "canal": "telegram",
+    "quando": "2026-11-11T04:44:36.828767-03:00",
+    "numero": 9,
+    "titulo": "Kit 6 potes de vidro 640 ml com 4 travas",
+    "plataforma": "mercadolivre"
   }
 ]
