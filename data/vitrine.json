@@ -1,5 +1,35 @@
 [
   {
+    "numero": 14,
+    "titulo": "10 potes de vidro com tampa de bambu",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "11/11/2026 22:30"
+  },
+  {
+    "numero": 68,
+    "titulo": "Forma de Silicone para Dadinho 35mm",
+    "preco": 302.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/178238/Generated-Image-September-11-2025---5_45PM.png?v=638983838803600000",
+    "link": "https://lmdee.link/rTiEKLlG4GYP",
+    "atualizado": "11/11/2026 22:30"
+  },
+  {
+    "numero": 16,
+    "titulo": "jogo de panelas ceramica",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "11/11/2026 22:30"
+  },
+  {
     "numero": 67,
     "titulo": "Forma para Dadinho de Tapioca",
     "preco": 302.17,
@@ -80,16 +110,6 @@
     "atualizado": "10/11/2026 21:51"
   },
   {
-    "numero": 68,
-    "titulo": "Forma para Dadinho de Tapioca 35mm",
-    "preco": 302.17,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/178238/Generated-Image-September-11-2025---5_45PM.png?v=638983838803600000",
-    "link": "https://lmdee.link/rTiEKLlG4GYP",
-    "atualizado": "10/11/2026 21:03"
-  },
-  {
     "numero": 15,
     "titulo": "Jogo de panelas de cerâmica 5 peças,",
     "preco": 257.23,
@@ -98,16 +118,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
     "link": "https://meli.la/1HLxed3",
     "atualizado": "10/11/2026 21:01"
-  },
-  {
-    "numero": 16,
-    "titulo": "Conjunto de 5 panelas ceramica",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "10/11/2026 16:57"
   },
   {
     "numero": 5,
@@ -338,16 +348,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
     "atualizado": "07/11/2026 04:03"
-  },
-  {
-    "numero": 14,
-    "titulo": "Kit 10 potes vidro tampa bambu",
-    "preco": 128.25,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
-    "link": "https://meli.la/1dF6658",
-    "atualizado": "06/11/2026 21:06"
   },
   {
     "numero": 10,
