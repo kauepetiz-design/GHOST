@@ -481,7 +481,30 @@
       "whatsapp": "https://meli.la/1BFE1Be",
       "threads": "https://meli.la/1BFE1Be"
     },
-    "numero": 31
+    "numero": 31,
+    "copy": {
+      "titulo_curto": "Porta-temperos giratório com 9 potes",
+      "gancho": "Isso aqui resolve um problema chato da cozinha",
+      "dica_chef": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "40% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Porta-temperos giratório com 9 potes.",
+        "dica": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur19:3788327414",
@@ -650,7 +673,30 @@
       "whatsapp": "https://meli.la/1MrpHgC",
       "threads": "https://meli.la/1MrpHgC"
     },
-    "numero": 33
+    "numero": 33,
+    "copy": {
+      "titulo_curto": "Jogo de 6 taças Diamond de vidro 330",
+      "gancho": "Isso aqui resolve um problema chato da cozinha",
+      "dica_chef": "Taça individual transforma sobremesa simples em prato de restaurante. Gele a taça antes de montar.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "40% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Cozinha de chef gastando pouco? Olha isso.",
+        "produto": "Jogo de 6 taças Diamond de vidro 330.",
+        "dica": "Taça individual transforma sobremesa simples em prato de restaurante."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur26:2954431803",
@@ -703,7 +749,30 @@
       "whatsapp": "https://meli.la/2iAN7g6",
       "threads": "https://meli.la/2iAN7g6"
     },
-    "numero": 34
+    "numero": 34,
+    "copy": {
+      "titulo_curto": "Cortador fatiador ralador de legumes",
+      "gancho": "Isso aqui resolve um problema chato da cozinha",
+      "dica_chef": "Corte uniforme é cozimento uniforme. Use sempre o protetor de mão: a lâmina é muito afiada.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "34% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Cortador fatiador ralador de legumes.",
+        "dica": "Corte uniforme é cozimento uniforme. Use sempre o protetor de mão: a lâmina é muito afiada."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur28:98223228",
@@ -757,7 +826,30 @@
       "whatsapp": "https://meli.la/2qxTMW9",
       "threads": "https://meli.la/2qxTMW9"
     },
-    "numero": 32
+    "numero": 32,
+    "copy": {
+      "titulo_curto": "Kit 4 utensílios inox: colher, concha",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Colher, concha e escumadeira resolvem a maior parte das panelas. Inox risca antiaderente, então confira antes de usar.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "42% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Kit 4 utensílios inox: colher, concha.",
+        "dica": "Colher, concha e escumadeira resolvem a maior parte das panelas."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur30:2384686910",
@@ -1198,7 +1290,30 @@
       "vitrine": "https://meli.la/2yioGJE",
       "threads": "https://meli.la/2yioGJE"
     },
-    "numero": 17
+    "numero": 17,
+    "copy": {
+      "titulo_curto": "Air fryer Electrolux Rita Lobo 5,6 L",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Tamanho família cabe um frango pequeno. Forre com papel próprio para air fryer, nunca tampando as saídas de ar.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Air fryer Electrolux Rita Lobo 5,6 L.",
+        "dica": "Forre com papel próprio para air fryer, nunca tampando as saídas de ar."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur47:2856069585",
