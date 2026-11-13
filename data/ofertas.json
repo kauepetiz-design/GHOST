@@ -73,7 +73,30 @@
       "whatsapp": "https://meli.la/2TXS1nT",
       "threads": "https://meli.la/2TXS1nT"
     },
-    "numero": 2
+    "numero": 2,
+    "copy": {
+      "titulo_curto": "Processador Eletrico Inox 2L 220V",
+      "gancho": "Chorar picando cebola no fim do turno não dá.",
+      "dica_chef": "Corte os ingredientes em pedaços grandes antes de colocar no copo. Assim você evita que o motor passe do ponto e o tempero vire um purê.",
+      "beneficios": [
+        "Copo em inox de 2 litros",
+        "Pica temperos em segundos",
+        "Motor 220V eficiente"
+      ],
+      "video": {
+        "gancho": "Cansado de chorar picando cebola no fim do turno? Olha isso.",
+        "produto": "Processador elétrico em inox de dois litros por setenta e cinco e noventa.",
+        "dica": "Corte em pedaços grandes pra não virar purê."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "cozinhaprofissional",
+        "utilidadesdomesticas",
+        "cozinha",
+        "blackfriday"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur3:3849204084",
@@ -100,7 +123,30 @@
       "whatsapp": "https://meli.la/1UtKSFu",
       "telegram": "https://meli.la/1UtKSFu"
     },
-    "numero": 1
+    "numero": 1,
+    "copy": {
+      "titulo_curto": "Sanduicheira Grill 750W",
+      "gancho": "Pão frio na hora do rush estraga o serviço.",
+      "dica_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
+      "beneficios": [
+        "Selagem rápida",
+        "Potência de 750W",
+        "Chapa antiaderente"
+      ],
+      "video": {
+        "gancho": "Cliente esperando lanche e a chapa tá ocupada? Olha isso.",
+        "produto": "Sanduicheira grill com setecentos e cinquenta watts por cinquenta e quatro reais.",
+        "dica": "Passe um fio fino de manteiga por fora para dourar por igual."
+      },
+      "hashtags": [
+        "cozinhaprofissional",
+        "cheffazer",
+        "achadoscozinha",
+        "gastronomia",
+        "restaurante"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur4:4127098731",
@@ -127,7 +173,30 @@
       "whatsapp": "https://meli.la/1NTGSPw",
       "telegram": "https://meli.la/1NTGSPw"
     },
-    "numero": 5
+    "numero": 5,
+    "copy": {
+      "titulo_curto": "Jogo 6 Taças Bowls para Sobremesa",
+      "gancho": "Sobremesa sem apresentação parece comida de refeitório.",
+      "dica_chef": "Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar para manter o doce na temperatura certa por mais tempo.",
+      "beneficios": [
+        "Padroniza porções",
+        "Vidro resistente",
+        "Visual impecável"
+      ],
+      "video": {
+        "gancho": "Cansado de servir sobremesa de qualquer jeito? Olha isso.",
+        "produto": "Jogo com seis taças de vidro para sobremesa por vinte e três reais.",
+        "dica": "Deixe a taça no freezer uns minutos antes de montar."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "confeitaria",
+        "sobremesas",
+        "restaurante",
+        "cozinhaprofissional"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur5:1103780966",
@@ -2038,7 +2107,33 @@
     "nota_chef": "",
     "keyword": "air fryer",
     "coletado_em": "2026-11-13T15:29:12.244382-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/tapete-para-air-fryer-perfurado-quadrado-19cm-em-preto-em-silicone/p"
+    },
+    "numero": 72,
+    "copy": {
+      "titulo_curto": "Tapete para Air Fryer Silicone 19cm",
+      "gancho": "Cansado de esfregar a air fryer depois de usar?",
+      "dica_chef": "Use um tapete perfurado de silicone para manter o fluxo de ar da air fryer e evitar que os alimentos grudem, economizando tempo na limpeza.",
+      "beneficios": [
+        "Evita que o alimento grude",
+        "Fácil de lavar",
+        "Mantém a circulação de ar"
+      ],
+      "video": {
+        "gancho": "Cansado de esfregar a air fryer? Olha isso.",
+        "produto": "Tapete de silicone perfurado quadrado de dezenove centímetros.",
+        "dica": "Não bloqueia o ar e facilita a limpeza do cesto."
+      },
+      "hashtags": [
+        "achadosdecozinha",
+        "airfryer",
+        "cozinhapratica",
+        "utensilios",
+        "gastronomia"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "lomadee:2641",
@@ -2456,7 +2551,33 @@
     "nota_chef": "",
     "keyword": "panela elétrica de arroz",
     "coletado_em": "2026-11-13T15:29:12.244382-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/forma-dadinho-tapioca-35mm-silicone-preto-marmore-vem-/p"
+    },
+    "numero": 68,
+    "copy": {
+      "titulo_curto": "Forma para Dadinho de Tapioca",
+      "gancho": "Padronizar dadinho de tapioca na faca é perda de tempo.",
+      "dica_chef": "Use a forma de silicone para gelar a massa por igual. Na hora de desenformar, os cubos saem perfeitos e sem desperdício de produto.",
+      "beneficios": [
+        "Padroniza o tamanho dos cubos",
+        "Silicone facilita desenformar",
+        "Material resistente e prático"
+      ],
+      "video": {
+        "gancho": "Cansado de cortar dadinho torto na faca? Olha isso.",
+        "produto": "Forma de silicone antiaderente para dadinho de tapioca perfeito.",
+        "dica": "Gelem a massa direto na forma para ganhar velocidade no corte."
+      },
+      "hashtags": [
+        "cozinhaprofissional",
+        "gastronomia",
+        "utensiliosdecozinha",
+        "cheflife",
+        "restaurante"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "lomadee:2923",
