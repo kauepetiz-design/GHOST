@@ -1,5 +1,25 @@
 [
   {
+    "numero": 29,
+    "titulo": "Copo térmico 1,2 litro com canudo",
+    "preco": 48.99,
+    "preco_de": 76.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
+    "link": "https://meli.la/1oD9W6i",
+    "atualizado": "12/11/2026 21:12"
+  },
+  {
+    "numero": 67,
+    "titulo": "Forma para Dadinho de Tapioca",
+    "preco": 302.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/178247/104095_1.jpg?v=638983839059300000",
+    "link": "https://lmdee.link/0ep2Ib7UXUHH",
+    "atualizado": "12/11/2026 21:11"
+  },
+  {
     "numero": 71,
     "titulo": "Forma para dadinho de tapioca 35mm",
     "preco": 249.99,
@@ -88,16 +108,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "11/11/2026 22:30"
-  },
-  {
-    "numero": 67,
-    "titulo": "Forma para Dadinho de Tapioca",
-    "preco": 302.17,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/178247/104095_1.jpg?v=638983839059300000",
-    "link": "https://lmdee.link/0ep2Ib7UXUHH",
-    "atualizado": "11/11/2026 16:49"
   },
   {
     "numero": 6,
@@ -368,16 +378,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
     "link": "https://meli.la/1rwWsEG",
     "atualizado": "07/11/2026 04:05"
-  },
-  {
-    "numero": 29,
-    "titulo": "copo termico 1.2l inox com tampa",
-    "preco": 48.99,
-    "preco_de": 76.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
-    "link": "https://meli.la/1oD9W6i",
-    "atualizado": "07/11/2026 04:03"
   },
   {
     "numero": 23,
