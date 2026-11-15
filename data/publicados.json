@@ -4599,5 +4599,45 @@
     "titulo": "Air fryer Electrolux Rita Lobo 5,6 L",
     "plataforma": "mercadolivre",
     "post_id": "18122761117948966"
+  },
+  {
+    "id": "lomadee:2915",
+    "canal": "whatsapp",
+    "quando": "2026-11-15T14:56:19.563984-03:00",
+    "numero": 69,
+    "titulo": "Assadeira para Pão de Semolina 50x72cm Vermelha com 4 Tiras em Silicone - Linha Pró Chef S",
+    "plataforma": "lomadee"
+  },
+  {
+    "id": "mercadolivre:cur30:2384686910",
+    "canal": "whatsapp",
+    "quando": "2026-11-15T14:56:19.568671-03:00",
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderentes 10 peças Baunilha",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur42:822263710",
+    "canal": "whatsapp",
+    "quando": "2026-11-15T14:56:19.573002-03:00",
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças, indução",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur43:940256003",
+    "canal": "whatsapp",
+    "quando": "2026-11-15T14:56:19.577168-03:00",
+    "numero": 16,
+    "titulo": "Conjunto de 5 panelas Brinox Ceramic Life Easy",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur1:2420699312",
+    "canal": "whatsapp",
+    "quando": "2026-11-15T14:56:19.581309-03:00",
+    "numero": 3,
+    "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
+    "plataforma": "mercadolivre"
   }
 ]
