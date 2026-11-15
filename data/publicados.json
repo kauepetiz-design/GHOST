@@ -4639,5 +4639,50 @@
     "numero": 3,
     "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur3:3849204084",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-15T16:09:43.978850-03:00",
+    "numero": 1,
+    "titulo": "Sanduicheira multilaser grill gourmet 750W",
+    "plataforma": "mercadolivre",
+    "post_id": "18120734651281178"
+  },
+  {
+    "id": "mercadolivre:cur2:3558990979",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-15T16:09:43.983089-03:00",
+    "numero": 2,
+    "titulo": "Processador triturador elétrico de alimentos inox 2 L (220V)",
+    "plataforma": "mercadolivre",
+    "post_id": "18120734651281178"
+  },
+  {
+    "id": "mercadolivre:cur24:1360100424",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-15T16:09:43.986710-03:00",
+    "numero": 4,
+    "titulo": "Jogo de panelas antiaderente cerâmica Mimo 10 peças",
+    "plataforma": "mercadolivre",
+    "post_id": "18120734651281178"
+  },
+  {
+    "id": "mercadolivre:cur4:4127098731",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-15T16:09:43.990346-03:00",
+    "numero": 5,
+    "titulo": "Jogo de taças bowls de vidro para sobremesas (6 un.)",
+    "plataforma": "mercadolivre",
+    "post_id": "18120734651281178"
+  },
+  {
+    "id": "lomadee:2633",
+    "canal": "instagram_carrossel",
+    "quando": "2026-11-15T16:09:43.993945-03:00",
+    "numero": 67,
+    "titulo": "Forma para Dadinho de Tapioca 35MM Preta em Silicone",
+    "plataforma": "lomadee",
+    "post_id": "18120734651281178"
   }
 ]
