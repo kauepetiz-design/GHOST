@@ -1,5 +1,25 @@
 [
   {
+    "numero": 18,
+    "titulo": "Batedeira Planetaria 700W",
+    "preco": 279.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
+    "link": "https://meli.la/1H1Mogs",
+    "atualizado": "15/11/2026 20:23"
+  },
+  {
+    "numero": 21,
+    "titulo": "Air Fryer 3,5 Litros",
+    "preco": 194.74,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
+    "link": "https://meli.la/28wfEyW",
+    "atualizado": "15/11/2026 20:23"
+  },
+  {
     "numero": 67,
     "titulo": "Forma silicone dadinho de tapioca 35mm",
     "preco": 302.17,
@@ -120,16 +140,6 @@
     "atualizado": "14/11/2026 19:44"
   },
   {
-    "numero": 21,
-    "titulo": "air fryer 3,5 litros 1500w",
-    "preco": 194.74,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752803-MLA99685375508_122025-AB.webp",
-    "link": "https://meli.la/28wfEyW",
-    "atualizado": "14/11/2026 18:25"
-  },
-  {
     "numero": 20,
     "titulo": "Panela de pressão Brinox Ceramic Life",
     "preco": 199.99,
@@ -158,16 +168,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
     "link": "https://meli.la/2D8XfNY",
     "atualizado": "14/11/2026 14:01"
-  },
-  {
-    "numero": 18,
-    "titulo": "batedeira planetaria 700w",
-    "preco": 279.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_876522-MLA99990720373_112025-AB.webp",
-    "link": "https://meli.la/1H1Mogs",
-    "atualizado": "14/11/2026 14:00"
   },
   {
     "numero": 16,
