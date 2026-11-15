@@ -1,5 +1,25 @@
 [
   {
+    "numero": 17,
+    "titulo": "air fryer 5,6 litros",
+    "preco": 277.96,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
+    "link": "https://meli.la/2yioGJE",
+    "atualizado": "15/11/2026 14:40"
+  },
+  {
+    "numero": 75,
+    "titulo": "Esteira para assadeira de silicone",
+    "preco": 47.9,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183512/104317_1.jpg?v=639226557305730000",
+    "link": "https://lmdee.link/RiIbSBet9I6M",
+    "atualizado": "15/11/2026 14:40"
+  },
+  {
     "numero": 71,
     "titulo": "Forma para Dadinho de Tapioca",
     "preco": 249.99,
@@ -118,16 +138,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "14/11/2026 04:34"
-  },
-  {
-    "numero": 17,
-    "titulo": "air fryer 5,6 litros",
-    "preco": 277.96,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_947666-MLA103616632598_012026-AB.webp",
-    "link": "https://meli.la/2yioGJE",
-    "atualizado": "14/11/2026 04:33"
   },
   {
     "numero": 4,
@@ -588,15 +598,5 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_849419-MLB116549588914_092026-AB.webp",
     "link": "https://meli.la/2RkZDsG",
     "atualizado": "18/10/2026 02:48"
-  },
-  {
-    "numero": 41,
-    "titulo": "Kit 6 utensílios de bambu com suporte",
-    "preco": 84.45,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_939854-MLA107830516972_032026-AB.webp",
-    "link": "https://meli.la/1XhcCHi",
-    "atualizado": "17/10/2026 21:55"
   }
 ]
