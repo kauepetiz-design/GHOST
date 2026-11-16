@@ -231,7 +231,30 @@
       "threads": "https://meli.la/1SJy8Mj",
       "whatsapp": "https://meli.la/1SJy8Mj"
     },
-    "numero": 8
+    "numero": 8,
+    "copy": {
+      "titulo_curto": "Kit 10 potes de vidro herméticos",
+      "gancho": "Plástico engordurado e manchado na sua gaveta?",
+      "dica_chef": "Vidro não pega cheiro nem mancha. Use o mesmo pote para guardar, esquentar no micro-ondas e servir direto na mesa, ganhando tempo no serviço.",
+      "beneficios": [
+        "Não retém cheiro nem sabor",
+        "Vai do forno direto à mesa",
+        "Vedação hermética segura"
+      ],
+      "video": {
+        "gancho": "Cansado de pote de plástico manchado de molho?",
+        "produto": "Kit com dez potes de vidro herméticos por setenta e cinco reais.",
+        "dica": "Esquenta e serve no mesmo pote, sem sujeira extra na pia."
+      },
+      "hashtags": [
+        "achadosdecozinha",
+        "potesdevidro",
+        "cozinhapratica",
+        "blackfriday",
+        "organizacao"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur9:469022862",
@@ -623,7 +646,30 @@
       "whatsapp": "https://meli.la/2Y9cBfF",
       "telegram": "https://meli.la/2Y9cBfF"
     },
-    "numero": 4
+    "numero": 4,
+    "copy": {
+      "titulo_curto": "jogo panelas ceramica 10 pecas",
+      "gancho": "gruda tudo na panela velha?",
+      "dica_chef": "antiaderente dura mais com fogo medio e utensilio de silicone ou madeira. evite esponja de aco para nao riscar o revestimento.",
+      "beneficios": [
+        "revestimento ceramico",
+        "dez pecas completas",
+        "limpeza muito mais facil"
+      ],
+      "video": {
+        "gancho": "cansado de comida grudando no fundo da panela?",
+        "produto": "esse jogo de panelas em ceramica com dez pecas resolve.",
+        "dica": "use fogo medio e silicone para o antiaderente durar muito mais."
+      },
+      "hashtags": [
+        "cozinha",
+        "panelas",
+        "gastronomia",
+        "chef",
+        "acheinacozinha"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur25:4057462633",
@@ -982,7 +1028,30 @@
       "telegram": "https://meli.la/161SNZG",
       "threads": "https://meli.la/161SNZG"
     },
-    "numero": 22
+    "numero": 22,
+    "copy": {
+      "titulo_curto": "Panela de pressão 4,5L Tramontina",
+      "gancho": "Panela que perde pressão no meio do serviço não dá.",
+      "dica_chef": "Troque a borracha de vedação uma vez por ano e ela segura pressão sempre. Marca com peças de reposição fáceis de achar na praça.",
+      "beneficios": [
+        "Capacidade de 4,5 litros",
+        "Estrutura resistente",
+        "Fechamento seguro"
+      ],
+      "video": {
+        "gancho": "Cansado de panela de pressão que falha no serviço?",
+        "produto": "A panela de pressão Tramontina Vancouver de 4,5 litros não te deixa na mão.",
+        "dica": "Troque a borracha uma vez por ano e ela nunca perde a pressão."
+      },
+      "hashtags": [
+        "achadosnacozinha",
+        "cozinhaprofissional",
+        "paneladepressao",
+        "tramontina",
+        "blackfriday"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "mercadolivre:cur39:1562767506",
@@ -1508,7 +1577,30 @@
       "whatsapp": "https://meli.la/171CqHo",
       "threads": "https://meli.la/171CqHo"
     },
-    "numero": 24
+    "numero": 24,
+    "copy": {
+      "titulo_curto": "Panela de arroz elétrica Dako 4 L",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Arroz solto sem vigiar o fogo. Lave os grãos até a água ficar quase clara e meça a água em proporção de 1 para 1,5.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Cozinha de chef gastando pouco? Olha isso.",
+        "produto": "Panela de arroz elétrica Dako 4 L.",
+        "dica": "Arroz solto sem vigiar o fogo."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur59:2357540850",
@@ -2387,7 +2479,33 @@
     "nota_chef": "",
     "keyword": "panela elétrica de arroz",
     "coletado_em": "2026-11-16T17:56:28.002390-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/prato-de-bolo-elegance-redondo-30cm-preto-policarbonato-vem/p"
+    },
+    "numero": 74,
+    "copy": {
+      "titulo_curto": "Prato de Bolo Preto 30cm",
+      "gancho": "A louça quebra fácil no seu salão?",
+      "dica_chef": "Policarbonato aguenta o tranco do salão e da praça de eventos sem lascar a borda. Segurança na operação é tudo.",
+      "beneficios": [
+        "Resiste a quedas",
+        "Diâmetro de 30cm",
+        "Visual profissional"
+      ],
+      "video": {
+        "gancho": "Louça quebrando no pico do movimento?",
+        "produto": "Prato de bolo em policarbonato preto da linha profissional.",
+        "dica": "Durabilidade de cozinha industrial na sua mesa."
+      },
+      "hashtags": [
+        "acheinacozinha",
+        "confeitaria",
+        "gastronomia",
+        "cozinhaprofissional",
+        "utensilios"
+      ],
+      "origem": "ia"
+    }
   },
   {
     "id": "lomadee:2666",
