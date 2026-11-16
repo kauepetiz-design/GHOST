@@ -68,5 +68,18 @@
       "instagram_reel": 6,
       "instagram_carrossel": 5
     }
+  },
+  {
+    "semana_fim": "2026-11-16",
+    "comissao_total": 0,
+    "vendas": 0,
+    "posts": {
+      "whatsapp": 40,
+      "instagram": 7,
+      "telegram": 25,
+      "threads": 22,
+      "instagram_reel": 6,
+      "instagram_carrossel": 5
+    }
   }
 ]
