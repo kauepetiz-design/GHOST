@@ -4853,5 +4853,45 @@
     "titulo": "Liquidificador Oster 1400 W com jarra de 3,2 L",
     "plataforma": "mercadolivre",
     "post_id": "18036242585674760"
+  },
+  {
+    "id": "mercadolivre:cur10:4020084223",
+    "canal": "whatsapp",
+    "quando": "2026-11-17T16:57:55.246843-03:00",
+    "numero": 11,
+    "titulo": "Torneira gourmet flexível de parede com 2 jatos",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur50:4016421685",
+    "canal": "whatsapp",
+    "quando": "2026-11-17T16:57:55.250675-03:00",
+    "numero": 28,
+    "titulo": "Liquidificador Electrolux 1000 W 2,7 L com TriForce",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "lomadee:2928",
+    "canal": "whatsapp",
+    "quando": "2026-11-17T16:57:55.254404-03:00",
+    "numero": 78,
+    "titulo": "Assadeira Smart para Pão Francês 32x53cm Preta com 3 Tiras em Silicone - Linha Pró Chef Si",
+    "plataforma": "lomadee"
+  },
+  {
+    "id": "mercadolivre:cur56:3384932072",
+    "canal": "whatsapp",
+    "quando": "2026-11-17T16:57:55.258100-03:00",
+    "numero": 38,
+    "titulo": "Grill sanduicheira Cadence SAN400",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur7:3768554742",
+    "canal": "whatsapp",
+    "quando": "2026-11-17T16:57:55.261662-03:00",
+    "numero": 39,
+    "titulo": "Electrolux kit 3 bowls de aço inox com tampa",
+    "plataforma": "mercadolivre"
   }
 ]
