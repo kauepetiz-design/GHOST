@@ -4810,5 +4810,14 @@
     "numero": 23,
     "titulo": "Conjunto de 5 panelas caçarola com 3 utensílios e tampa de vidro",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur39:1562767506",
+    "canal": "threads",
+    "quando": "2026-11-17T00:44:49.792170-03:00",
+    "numero": 20,
+    "titulo": "Panela de pressão Brinox Ceramic Life 4,2 L",
+    "plataforma": "mercadolivre",
+    "post_id": "18025400294946975"
   }
 ]
