@@ -1,5 +1,25 @@
 [
   {
+    "numero": 2,
+    "titulo": "Processador triturador elétrico",
+    "preco": 75.9,
+    "preco_de": 129.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
+    "link": "https://meli.la/2TXS1nT",
+    "atualizado": "17/11/2026 23:51"
+  },
+  {
+    "numero": 3,
+    "titulo": "Cafeteira elétrica Electrolux inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "17/11/2026 23:51"
+  },
+  {
     "numero": 1,
     "titulo": "Sanduicheira multilaser grill gourmet",
     "preco": 54.99,
@@ -68,16 +88,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937372-MLA118383619877_092026-AB.webp",
     "link": "https://meli.la/25t4T2m",
     "atualizado": "17/11/2026 00:43"
-  },
-  {
-    "numero": 3,
-    "titulo": "cafeteira eletrica inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
-    "atualizado": "16/11/2026 19:35"
   },
   {
     "numero": 10,
@@ -187,16 +197,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
     "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "15/11/2026 16:08"
-  },
-  {
-    "numero": 2,
-    "titulo": "Processador Triturador Inox 2L 220V",
-    "preco": 75.9,
-    "preco_de": 129.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613992-MLB110351987191_042026-O-processador-triturador-eletrico-de-alimentos-inox-2-litros.webp",
-    "link": "https://meli.la/2TXS1nT",
     "atualizado": "15/11/2026 16:08"
   },
   {
