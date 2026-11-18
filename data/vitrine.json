@@ -1,5 +1,25 @@
 [
   {
+    "numero": 8,
+    "titulo": "Kit 10 potes de vidro 370 ml",
+    "preco": 75.77,
+    "preco_de": 159.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
+    "link": "https://meli.la/1SJy8Mj",
+    "atualizado": "18/11/2026 16:43"
+  },
+  {
+    "numero": 22,
+    "titulo": "Panela de pressão Tramontina",
+    "preco": 182.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
+    "link": "https://meli.la/161SNZG",
+    "atualizado": "18/11/2026 16:43"
+  },
+  {
     "numero": 74,
     "titulo": "Prato de Bolo Elegance Redondo 30cm",
     "preco": 108.76,
@@ -250,16 +270,6 @@
     "atualizado": "14/11/2026 23:36"
   },
   {
-    "numero": 8,
-    "titulo": "Kit 10 potes de vidro 370 ml herméticos",
-    "preco": 75.77,
-    "preco_de": 159.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
-    "link": "https://meli.la/1SJy8Mj",
-    "atualizado": "14/11/2026 23:35"
-  },
-  {
     "numero": 16,
     "titulo": "jogo de panelas ceramica 5 pecas",
     "preco": 295.0,
@@ -468,16 +478,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
     "link": "https://meli.la/1rwWsEG",
     "atualizado": "07/11/2026 04:05"
-  },
-  {
-    "numero": 22,
-    "titulo": "Panela de pressão 4,5L Tramontina",
-    "preco": 182.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
-    "link": "https://meli.la/161SNZG",
-    "atualizado": "05/11/2026 04:53"
   },
   {
     "numero": 36,
