@@ -1,5 +1,25 @@
 [
   {
+    "numero": 74,
+    "titulo": "Prato de Bolo Elegance Redondo 30cm",
+    "preco": 108.76,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/177104/951_1.jpg?v=638979441686300000",
+    "link": "https://lmdee.link/uNTRZF7XUo38",
+    "atualizado": "18/11/2026 05:28"
+  },
+  {
+    "numero": 4,
+    "titulo": "Jogo de panelas antiaderente cerâmica",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "18/11/2026 05:28"
+  },
+  {
     "numero": 2,
     "titulo": "Processador triturador elétrico",
     "preco": 75.9,
@@ -190,16 +210,6 @@
     "atualizado": "15/11/2026 16:08"
   },
   {
-    "numero": 4,
-    "titulo": "jogo de panelas cerâmica 10 peças",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "15/11/2026 16:08"
-  },
-  {
     "numero": 17,
     "titulo": "air fryer 5,6 litros",
     "preco": 277.96,
@@ -228,16 +238,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183533/Sem-nome--1200-x-1200-px---3-.jpg?v=639237740261770000",
     "link": "https://lmdee.link/qLodKf31fjUw",
     "atualizado": "15/11/2026 04:50"
-  },
-  {
-    "numero": 74,
-    "titulo": "Prato de Bolo Preto 30cm Policabonato",
-    "preco": 108.76,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/177104/951_1.jpg?v=638979441686300000",
-    "link": "https://lmdee.link/uNTRZF7XUo38",
-    "atualizado": "15/11/2026 04:49"
   },
   {
     "numero": 72,
