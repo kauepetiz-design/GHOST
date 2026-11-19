@@ -379,7 +379,30 @@
       "whatsapp": "https://meli.la/13G1iVU",
       "threads": "https://meli.la/13G1iVU"
     },
-    "numero": 9
+    "numero": 9,
+    "copy": {
+      "titulo_curto": "Kit 6 potes de vidro 640 ml com 4",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Vidro com 4 travas é ótimo para molhos e sobras. Deixe esfriar antes de fechar e levar à geladeira.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "65% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Kit 6 potes de vidro 640 ml com 4.",
+        "dica": "Vidro com 4 travas é ótimo para molhos e sobras."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur14:2202310318",
@@ -428,7 +451,30 @@
       "whatsapp": "https://meli.la/1rwWsEG",
       "threads": "https://meli.la/1rwWsEG"
     },
-    "numero": 12
+    "numero": 12,
+    "copy": {
+      "titulo_curto": "Panos de prato atoalhados Laune",
+      "gancho": "O item que eu mais uso na cozinha do restaurante",
+      "dica_chef": "Pano atoalhado absorve bem e poupa papel toalha no dia a dia. Lave separado do resto da roupa.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "45% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Panos de prato atoalhados Laune.",
+        "dica": "Pano atoalhado absorve bem e poupa papel toalha no dia a dia."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur16:1048184719",
@@ -1298,7 +1344,30 @@
       "threads": "https://meli.la/15PwCBs",
       "whatsapp": "https://meli.la/15PwCBs"
     },
-    "numero": 25
+    "numero": 25,
+    "copy": {
+      "titulo_curto": "Liquidificador Oster 1400 W com jarra",
+      "gancho": "O item que eu mais uso na cozinha do restaurante",
+      "dica_chef": "Coloque o líquido primeiro e os sólidos depois: a lâmina trabalha sem forçar e o motor dura mais.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Liquidificador Oster 1400 W com jarra.",
+        "dica": "Coloque o líquido primeiro e os sólidos depois: a lâmina trabalha sem forçar e o motor dura mais."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur49:1368672589",
@@ -1812,7 +1881,30 @@
       "vitrine": "https://meli.la/2UMViV5",
       "whatsapp": "https://meli.la/2UMViV5"
     },
-    "numero": 40
+    "numero": 40,
+    "copy": {
+      "titulo_curto": "Faca Tramontina Butcher 8 pol., cabo",
+      "gancho": "Achado que vale cada centavo",
+      "dica_chef": "Faca grande para carne e churrasco. Corte contra a fibra para a carne ficar macia.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Parece bobo, mas muda a rotina na cozinha.",
+        "produto": "Faca Tramontina Butcher 8 pol., cabo.",
+        "dica": "Faca grande para carne e churrasco. Corte contra a fibra para a carne ficar macia."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur70:2178820540",
@@ -2540,8 +2632,33 @@
     "nota_chef": "",
     "keyword": "saco de confeitar",
     "coletado_em": "2026-11-19T16:28:19.895590-03:00",
-    "links": {},
-    "numero": null
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/assadeira-para-pao-frances-40x60-3-tiras-vermelha-em-silicone-silpro/p"
+    },
+    "numero": 10,
+    "copy": {
+      "titulo_curto": "Assadeira para Pão de Semolina",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Olha esse achado de cozinha.",
+        "produto": "Assadeira para Pão de Semolina.",
+        "dica": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "lomadee:2915",
