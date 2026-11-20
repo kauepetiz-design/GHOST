@@ -5070,5 +5070,14 @@
     "numero": 28,
     "titulo": "Liquidificador Electrolux 1000 W 2,7 L com TriForce",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur38:1424939063",
+    "canal": "threads",
+    "quando": "2026-11-19T23:15:29.606110-03:00",
+    "numero": 22,
+    "titulo": "Panela de pressão Tramontina Vancouver 4,5 L",
+    "plataforma": "mercadolivre",
+    "post_id": "18130055920877041"
   }
 ]
