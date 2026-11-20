@@ -1,5 +1,25 @@
 [
   {
+    "numero": 22,
+    "titulo": "Panela de pressão Tramontina",
+    "preco": 182.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
+    "link": "https://meli.la/161SNZG",
+    "atualizado": "19/11/2026 23:14"
+  },
+  {
+    "numero": 28,
+    "titulo": "Liquidificador Electrolux 1000 W 2,7",
+    "preco": 135.79,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
+    "link": "https://meli.la/2X9MJQi",
+    "atualizado": "19/11/2026 23:14"
+  },
+  {
     "numero": 2,
     "titulo": "Processador triturador elétrico",
     "preco": 75.9,
@@ -97,16 +117,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
     "link": "https://meli.la/1SJy8Mj",
-    "atualizado": "18/11/2026 16:43"
-  },
-  {
-    "numero": 22,
-    "titulo": "Panela de pressão Tramontina",
-    "preco": 182.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821832-MLA99571452148_122025-AB.webp",
-    "link": "https://meli.la/161SNZG",
     "atualizado": "18/11/2026 16:43"
   },
   {
@@ -418,16 +428,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910536-MLA118811051627_102026-AB.webp",
     "link": "https://meli.la/1MrpHgC",
     "atualizado": "09/11/2026 04:54"
-  },
-  {
-    "numero": 28,
-    "titulo": "liquidificador 1000w 2,7l",
-    "preco": 135.79,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
-    "link": "https://meli.la/2X9MJQi",
-    "atualizado": "08/11/2026 23:36"
   },
   {
     "numero": 32,
