@@ -1,5 +1,25 @@
 [
   {
+    "numero": 5,
+    "titulo": "Jogo de taças bowls de vidro",
+    "preco": 23.9,
+    "preco_de": 39.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
+    "link": "https://meli.la/1NTGSPw",
+    "atualizado": "21/11/2026 14:57"
+  },
+  {
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderentes 10",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "21/11/2026 14:57"
+  },
+  {
     "numero": 77,
     "titulo": "Luva Para Cabo De Panela 17,5cm",
     "preco": 55.17,
@@ -87,16 +107,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
     "link": "https://meli.la/1yERjVW",
-    "atualizado": "20/11/2026 05:27"
-  },
-  {
-    "numero": 5,
-    "titulo": "Jogo de taças bowls de vidro",
-    "preco": 23.9,
-    "preco_de": 39.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O-jogo-de-tacas-bowls-de-vidro-para-sobremesas-e-sorvete.webp",
-    "link": "https://meli.la/1NTGSPw",
     "atualizado": "20/11/2026 05:27"
   },
   {
@@ -348,16 +358,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
     "link": "https://meli.la/1HLxed3",
     "atualizado": "13/11/2026 15:30"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas antiaderentes 10",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "13/11/2026 04:54"
   },
   {
     "numero": 29,
