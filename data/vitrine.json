@@ -1,5 +1,25 @@
 [
   {
+    "numero": 24,
+    "titulo": "Panela de arroz elétrica Dako 4 L",
+    "preco": 160.89,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
+    "link": "https://meli.la/171CqHo",
+    "atualizado": "21/11/2026 20:47"
+  },
+  {
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças,",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "21/11/2026 20:47"
+  },
+  {
     "numero": 6,
     "titulo": "Jogo 6 copos baixos Diamond 300 ml",
     "preco": 24.9,
@@ -157,16 +177,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
     "link": "https://meli.la/2PPnb6K",
-    "atualizado": "19/11/2026 05:42"
-  },
-  {
-    "numero": 24,
-    "titulo": "Panela de arroz elétrica Dako 4 L",
-    "preco": 160.89,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
-    "link": "https://meli.la/171CqHo",
     "atualizado": "19/11/2026 05:42"
   },
   {
@@ -348,16 +358,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "14/11/2026 04:34"
-  },
-  {
-    "numero": 15,
-    "titulo": "jogo de panelas ceramica 5 pecas",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
-    "atualizado": "13/11/2026 15:30"
   },
   {
     "numero": 29,
