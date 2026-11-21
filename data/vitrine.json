@@ -1,5 +1,25 @@
 [
   {
+    "numero": 77,
+    "titulo": "Luva Para Cabo De Panela 17,5cm",
+    "preco": 55.17,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/179832/104047_1.jpg?v=638990728678100000",
+    "link": "https://lmdee.link/RcafngNutF1O",
+    "atualizado": "21/11/2026 05:14"
+  },
+  {
+    "numero": 69,
+    "titulo": "Assadeira para Pão de Semolina",
+    "preco": 298.8,
+    "preco_de": null,
+    "plataforma": "lomadee",
+    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183468/104463_1.jpg?v=639221615503670000",
+    "link": "https://lmdee.link/WXuFSkXPbm6U",
+    "atualizado": "21/11/2026 05:14"
+  },
+  {
     "numero": 4,
     "titulo": "Jogo de panelas antiaderente cerâmica",
     "preco": 479.99,
@@ -210,16 +230,6 @@
     "atualizado": "17/11/2026 00:43"
   },
   {
-    "numero": 77,
-    "titulo": "luva de silicone para cabo de panela",
-    "preco": 55.17,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/179832/104047_1.jpg?v=638990728678100000",
-    "link": "https://lmdee.link/RcafngNutF1O",
-    "atualizado": "16/11/2026 17:57"
-  },
-  {
     "numero": 73,
     "titulo": "Prato de bolo 30cm policarbonato branco",
     "preco": 108.76,
@@ -328,16 +338,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
     "link": "https://meli.la/1NVpsto",
     "atualizado": "14/11/2026 04:34"
-  },
-  {
-    "numero": 69,
-    "titulo": "Assadeira para Pao Silpro 50x72cm",
-    "preco": 298.8,
-    "preco_de": null,
-    "plataforma": "lomadee",
-    "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183468/104463_1.jpg?v=639221615503670000",
-    "link": "https://lmdee.link/WXuFSkXPbm6U",
-    "atualizado": "13/11/2026 16:58"
   },
   {
     "numero": 15,
