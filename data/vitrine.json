@@ -1,5 +1,25 @@
 [
   {
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "22/11/2026 15:30"
+  },
+  {
+    "numero": 25,
+    "titulo": "Liquidificador Oster 1400 W com jarra",
+    "preco": 150.7,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
+    "link": "https://meli.la/15PwCBs",
+    "atualizado": "22/11/2026 15:30"
+  },
+  {
     "numero": 4,
     "titulo": "Jogo de panelas antiaderente cerâmica",
     "preco": 479.99,
@@ -170,16 +190,6 @@
     "atualizado": "19/11/2026 23:14"
   },
   {
-    "numero": 27,
-    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
-    "preco": 145.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
-    "link": "https://meli.la/1bd2Fef",
-    "atualizado": "19/11/2026 16:28"
-  },
-  {
     "numero": 11,
     "titulo": "Torneira gourmet flexível de parede",
     "preco": 27.98,
@@ -238,16 +248,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/177104/951_1.jpg?v=638979441686300000",
     "link": "https://lmdee.link/uNTRZF7XUo38",
     "atualizado": "18/11/2026 05:28"
-  },
-  {
-    "numero": 25,
-    "titulo": "Liquidificador Oster 1400 W com jarra",
-    "preco": 150.7,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864038-MLA100027785333_122025-AB.webp",
-    "link": "https://meli.la/15PwCBs",
-    "atualizado": "17/11/2026 16:47"
   },
   {
     "numero": 20,
