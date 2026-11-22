@@ -5322,5 +5322,45 @@
     "numero": 25,
     "titulo": "Liquidificador Oster 1400 W com jarra de 3,2 L",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur51:2815624438",
+    "canal": "whatsapp",
+    "quando": "2026-11-22T15:36:52.267474-03:00",
+    "numero": 18,
+    "titulo": "Batedeira planetária Mondial 700 W",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur44:453146238",
+    "canal": "whatsapp",
+    "quando": "2026-11-22T15:36:52.272788-03:00",
+    "numero": 19,
+    "titulo": "Air fryer 4 L Mondial 1500 W",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur39:1562767506",
+    "canal": "whatsapp",
+    "quando": "2026-11-22T15:36:52.277923-03:00",
+    "numero": 20,
+    "titulo": "Panela de pressão Brinox Ceramic Life 4,2 L",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur45:3758198340",
+    "canal": "whatsapp",
+    "quando": "2026-11-22T15:36:52.285525-03:00",
+    "numero": 21,
+    "titulo": "Air fryer 3,5 L Mondial 1500 W",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "lomadee:1345",
+    "canal": "whatsapp",
+    "quando": "2026-11-22T15:36:52.293338-03:00",
+    "numero": 80,
+    "titulo": "Jarra Fresc 2,5L Laranja em Polipropileno – Linha Tropical VEM",
+    "plataforma": "lomadee"
   }
 ]
