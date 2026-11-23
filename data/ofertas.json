@@ -73,7 +73,30 @@
       "whatsapp": "https://meli.la/2TXS1nT",
       "threads": "https://meli.la/2TXS1nT"
     },
-    "numero": 2
+    "numero": 2,
+    "copy": {
+      "titulo_curto": "Processador triturador elétrico",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Cebola, alho e tempero picados em segundos. Corte em pedaços grandes antes, para não passar do ponto e virar purê.",
+      "beneficios": [
+        "Nota 4,7 de quem comprou",
+        "5.000 vendidos",
+        "42% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Olha esse achado de cozinha.",
+        "produto": "Processador triturador elétrico.",
+        "dica": "Corte em pedaços grandes antes, para não passar do ponto e virar purê."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur3:3849204084",
@@ -100,7 +123,30 @@
       "whatsapp": "https://meli.la/1UtKSFu",
       "telegram": "https://meli.la/1UtKSFu"
     },
-    "numero": 1
+    "numero": 1,
+    "copy": {
+      "titulo_curto": "Sanduicheira multilaser grill gourmet",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Pão fechado e dourado em poucos minutos. Passe um fio fino de manteiga por fora para dourar por igual.",
+      "beneficios": [
+        "Nota 4,8 de quem comprou",
+        "1.000 vendidos",
+        "72% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Sanduicheira multilaser grill gourmet.",
+        "dica": "Passe um fio fino de manteiga por fora para dourar por igual."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur4:4127098731",
@@ -127,7 +173,30 @@
       "whatsapp": "https://meli.la/1NTGSPw",
       "telegram": "https://meli.la/1NTGSPw"
     },
-    "numero": 5
+    "numero": 5,
+    "copy": {
+      "titulo_curto": "Jogo de taças bowls de vidro",
+      "gancho": "O item que eu mais uso na cozinha do restaurante",
+      "dica_chef": "Sobremesa em porção individual ganha cara de restaurante. Deixe a taça no freezer uns minutos antes de montar.",
+      "beneficios": [
+        "Nota 4,8 de quem comprou",
+        "10.000 vendidos",
+        "40% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Parece bobo, mas muda a rotina na cozinha.",
+        "produto": "Jogo de taças bowls de vidro.",
+        "dica": "Sobremesa em porção individual ganha cara de restaurante."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur5:1103780966",
@@ -1198,7 +1267,30 @@
       "vitrine": "https://meli.la/2yioGJE",
       "threads": "https://meli.la/2yioGJE"
     },
-    "numero": 17
+    "numero": 17,
+    "copy": {
+      "titulo_curto": "Air fryer Electrolux Rita Lobo 5,6 L",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Tamanho família cabe um frango pequeno. Forre com papel próprio para air fryer, nunca tampando as saídas de ar.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Air fryer Electrolux Rita Lobo 5,6 L.",
+        "dica": "Forre com papel próprio para air fryer, nunca tampando as saídas de ar."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur47:2856069585",
@@ -2388,7 +2480,33 @@
     "nota_chef": "",
     "keyword": "panela elétrica de arroz",
     "coletado_em": "2026-11-23T19:34:03.803679-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/forma-dadinho-tapioca-35mm-silicone-preto-marmore-vem-/p"
+    },
+    "numero": 68,
+    "copy": {
+      "titulo_curto": "Forma para Dadinho de Tapioca 35mm",
+      "gancho": "Achado que vale cada centavo",
+      "dica_chef": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Forma para Dadinho de Tapioca 35mm.",
+        "dica": "Silicone não risca antiaderente e aguenta calor. Espátula boa raspa a panela toda e nada se perde."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "lomadee:2919",
