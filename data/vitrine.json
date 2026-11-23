@@ -1,5 +1,25 @@
 [
   {
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "22/11/2026 21:16"
+  },
+  {
+    "numero": 12,
+    "titulo": "Panos de prato atoalhados Laune",
+    "preco": 41.98,
+    "preco_de": 76.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
+    "link": "https://meli.la/1rwWsEG",
+    "atualizado": "22/11/2026 21:16"
+  },
+  {
     "numero": 8,
     "titulo": "Kit 10 potes de vidro 370 ml",
     "preco": 75.77,
@@ -48,16 +68,6 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
     "link": "https://meli.la/1yERjVW",
     "atualizado": "22/11/2026 16:59"
-  },
-  {
-    "numero": 27,
-    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
-    "preco": 145.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
-    "link": "https://meli.la/1bd2Fef",
-    "atualizado": "22/11/2026 15:30"
   },
   {
     "numero": 25,
@@ -468,16 +478,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_770265-MLA117214172384_102026-AB.webp",
     "link": "https://meli.la/2Unj9Km",
     "atualizado": "07/11/2026 13:49"
-  },
-  {
-    "numero": 12,
-    "titulo": "Panos de prato atoalhados Laune",
-    "preco": 41.98,
-    "preco_de": 76.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_632973-MLA118919233211_102026-AB.webp",
-    "link": "https://meli.la/1rwWsEG",
-    "atualizado": "07/11/2026 04:05"
   },
   {
     "numero": 36,
