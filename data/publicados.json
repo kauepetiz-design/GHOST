@@ -5415,5 +5415,14 @@
     "numero": 12,
     "titulo": "Panos de prato atoalhados Laune Gourmet",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur47:2856069585",
+    "canal": "threads",
+    "quando": "2026-11-22T21:17:30.225682-03:00",
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "plataforma": "mercadolivre",
+    "post_id": "18029664536924646"
   }
 ]
