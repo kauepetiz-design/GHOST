@@ -1,5 +1,25 @@
 [
   {
+    "numero": 11,
+    "titulo": "Torneira gourmet flexível de parede",
+    "preco": 27.98,
+    "preco_de": 59.97,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
+    "link": "https://meli.la/1i99JjY",
+    "atualizado": "23/11/2026 05:58"
+  },
+  {
+    "numero": 16,
+    "titulo": "Conjunto de 5 panelas Brinox Ceramic",
+    "preco": 295.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
+    "link": "https://meli.la/1NVpsto",
+    "atualizado": "23/11/2026 05:58"
+  },
+  {
     "numero": 2,
     "titulo": "Processador triturador elétrico",
     "preco": 75.9,
@@ -110,16 +130,6 @@
     "atualizado": "22/11/2026 05:01"
   },
   {
-    "numero": 16,
-    "titulo": "Conjunto de 5 panelas Brinox Ceramic",
-    "preco": 295.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_833994-MLA96143406807_102025-AB.webp",
-    "link": "https://meli.la/1NVpsto",
-    "atualizado": "21/11/2026 21:42"
-  },
-  {
     "numero": 24,
     "titulo": "Panela de arroz elétrica Dako 4 L",
     "preco": 160.89,
@@ -218,16 +228,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
     "link": "https://meli.la/2X9MJQi",
     "atualizado": "19/11/2026 23:14"
-  },
-  {
-    "numero": 11,
-    "titulo": "Torneira gourmet flexível de parede",
-    "preco": 27.98,
-    "preco_de": 59.97,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_746561-MLA111291534913_052026-AB.webp",
-    "link": "https://meli.la/1i99JjY",
-    "atualizado": "19/11/2026 16:28"
   },
   {
     "numero": 26,
