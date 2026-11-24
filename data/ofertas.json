@@ -504,7 +504,30 @@
       "whatsapp": "https://meli.la/1BFE1Be",
       "threads": "https://meli.la/1BFE1Be"
     },
-    "numero": 31
+    "numero": 31,
+    "copy": {
+      "titulo_curto": "Porta-temperos giratório com 9 potes",
+      "gancho": "Isso aqui resolve um problema chato da cozinha",
+      "dica_chef": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "40% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Porta-temperos giratório com 9 potes.",
+        "dica": "Tempero à vista é tempero usado. Deixe os mais usados na frente e etiquete cada pote."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur19:3788327414",
@@ -673,7 +696,30 @@
       "whatsapp": "https://meli.la/1MrpHgC",
       "threads": "https://meli.la/1MrpHgC"
     },
-    "numero": 33
+    "numero": 33,
+    "copy": {
+      "titulo_curto": "Jogo de 6 taças Diamond de vidro 330",
+      "gancho": "Isso aqui resolve um problema chato da cozinha",
+      "dica_chef": "Taça individual transforma sobremesa simples em prato de restaurante. Gele a taça antes de montar.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "40% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Cozinha de chef gastando pouco? Olha isso.",
+        "produto": "Jogo de 6 taças Diamond de vidro 330.",
+        "dica": "Taça individual transforma sobremesa simples em prato de restaurante."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur26:2954431803",
@@ -780,7 +826,30 @@
       "whatsapp": "https://meli.la/2qxTMW9",
       "threads": "https://meli.la/2qxTMW9"
     },
-    "numero": 32
+    "numero": 32,
+    "copy": {
+      "titulo_curto": "Kit 4 utensílios inox: colher, concha",
+      "gancho": "Cozinha de chef gastando pouco",
+      "dica_chef": "Colher, concha e escumadeira resolvem a maior parte das panelas. Inox risca antiaderente, então confira antes de usar.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "42% abaixo do preço cheio"
+      ],
+      "video": {
+        "gancho": "Isso resolve um problema chato da cozinha.",
+        "produto": "Kit 4 utensílios inox: colher, concha.",
+        "dica": "Colher, concha e escumadeira resolvem a maior parte das panelas."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "mercadolivre:cur30:2384686910",
@@ -2540,7 +2609,33 @@
     "nota_chef": "",
     "keyword": "organizador de geladeira",
     "coletado_em": "2026-11-24T18:05:53.926251-03:00",
-    "links": {}
+    "links": {
+      "whatsapp": "https://www.mundovem.com.br/pote-organizador-food-service-18-litros-com-medidor-policarbonato-vem/p"
+    },
+    "numero": 81,
+    "copy": {
+      "titulo_curto": "Pote Organizador para Food Service 18",
+      "gancho": "Parece bobo, mas muda sua rotina na cozinha",
+      "dica_chef": "Pote transparente e etiquetado é regra na cozinha profissional: você vê o que tem e evita desperdício.",
+      "beneficios": [
+        "Bem avaliado por quem comprou",
+        "Muito procurado",
+        "Preço justo pelo que entrega"
+      ],
+      "video": {
+        "gancho": "Achado que vale cada centavo.",
+        "produto": "Pote Organizador para Food Service 18.",
+        "dica": "Pote transparente e etiquetado é regra na cozinha profissional: você vê o que tem e evita desperdício."
+      },
+      "hashtags": [
+        "achadinhos",
+        "cozinha",
+        "dicasdecozinha",
+        "utilidadesdomesticas",
+        "achadinhosshopee"
+      ],
+      "origem": "template"
+    }
   },
   {
     "id": "lomadee:2525",
