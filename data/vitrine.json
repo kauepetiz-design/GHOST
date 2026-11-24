@@ -1,5 +1,15 @@
 [
   {
+    "numero": 19,
+    "titulo": "Air fryer 4 L Mondial 1500 W",
+    "preco": 249.9,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
+    "link": "https://meli.la/2D8XfNY",
+    "atualizado": "24/11/2026 04:11"
+  },
+  {
     "numero": 10,
     "titulo": "Assadeira para Pão de Semolina",
     "preco": 265.17,
@@ -308,16 +318,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/179842/2253_1.jpg?v=638990729283130000",
     "link": "https://lmdee.link/WHTbp7o3CvBp",
     "atualizado": "16/11/2026 04:54"
-  },
-  {
-    "numero": 19,
-    "titulo": "Air Fryer 4 Litros",
-    "preco": 249.9,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775407-MLA99776749612_122025-AB.webp",
-    "link": "https://meli.la/2D8XfNY",
-    "atualizado": "15/11/2026 20:32"
   },
   {
     "numero": 18,

@@ -5489,5 +5489,13 @@
     "numero": 2,
     "titulo": "Processador triturador elétrico de alimentos inox 2 L (220V)",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur44:453146238",
+    "canal": "telegram",
+    "quando": "2026-11-24T04:11:30.612150-03:00",
+    "numero": 19,
+    "titulo": "Air fryer 4 L Mondial 1500 W",
+    "plataforma": "mercadolivre"
   }
 ]
