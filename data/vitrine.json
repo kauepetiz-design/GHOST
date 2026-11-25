@@ -1,5 +1,15 @@
 [
   {
+    "numero": 20,
+    "titulo": "Panela de pressão Brinox Ceramic Life",
+    "preco": 199.99,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
+    "link": "https://meli.la/285BAka",
+    "atualizado": "25/11/2026 06:46"
+  },
+  {
     "numero": 17,
     "titulo": "Air fryer Electrolux Rita Lobo 5,6 L",
     "preco": 277.96,
@@ -298,16 +308,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/177104/951_1.jpg?v=638979441686300000",
     "link": "https://lmdee.link/uNTRZF7XUo38",
     "atualizado": "18/11/2026 05:28"
-  },
-  {
-    "numero": 20,
-    "titulo": "Panela de pressão cerâmica 4,2 L",
-    "preco": 199.99,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681726-MLA99524592290_122025-AB.webp",
-    "link": "https://meli.la/285BAka",
-    "atualizado": "17/11/2026 00:43"
   },
   {
     "numero": 73,
