@@ -1,5 +1,5 @@
 {
-  "proximo_numero": 82,
+  "proximo_numero": 83,
   "numeros": {
     "mercadolivre:cur3:3849204084": 1,
     "mercadolivre:cur2:3558990979": 2,
@@ -81,6 +81,7 @@
     "lomadee:2928": 78,
     "lomadee:2906": 79,
     "lomadee:1345": 80,
-    "lomadee:2527": 81
+    "lomadee:2527": 81,
+    "lomadee:2907": 82
   }
 }
