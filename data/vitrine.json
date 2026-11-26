@@ -1,5 +1,15 @@
 [
   {
+    "numero": 3,
+    "titulo": "Cafeteira elétrica Electrolux inox",
+    "preco": 93.5,
+    "preco_de": 129.99,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
+    "link": "https://meli.la/1yERjVW",
+    "atualizado": "26/11/2026 18:51"
+  },
+  {
     "numero": 67,
     "titulo": "Forma para Dadinho de Tapioca 35MM",
     "preco": 302.17,
@@ -187,16 +197,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
     "link": "https://meli.la/1U1iWdD",
-    "atualizado": "22/11/2026 16:59"
-  },
-  {
-    "numero": 3,
-    "titulo": "Cafeteira elétrica Electrolux inox",
-    "preco": 93.5,
-    "preco_de": 129.99,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-O.webp",
-    "link": "https://meli.la/1yERjVW",
     "atualizado": "22/11/2026 16:59"
   },
   {
