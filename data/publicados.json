@@ -5717,5 +5717,21 @@
     "titulo": "Cafeteira elétrica Electrolux inox com filtro permanente",
     "plataforma": "mercadolivre",
     "post_id": "18143410285714155"
+  },
+  {
+    "id": "mercadolivre:cur8:1568281691",
+    "canal": "telegram",
+    "quando": "2026-11-27T00:37:00.863891-03:00",
+    "numero": 8,
+    "titulo": "Kit 10 potes de vidro 370 ml herméticos",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "lomadee:2923",
+    "canal": "telegram",
+    "quando": "2026-11-27T00:37:02.988589-03:00",
+    "numero": 71,
+    "titulo": "Forma para Dadinho de Tapioca 35mm Vermelha em Silicone Preto - Linha Profissional Cook VE",
+    "plataforma": "lomadee"
   }
 ]
