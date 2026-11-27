@@ -5749,5 +5749,21 @@
     "numero": 23,
     "titulo": "Conjunto de 5 panelas caçarola com 3 utensílios e tampa de vidro",
     "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur52:3960571752",
+    "canal": "telegram",
+    "quando": "2026-11-27T16:53:41.157145-03:00",
+    "numero": 26,
+    "titulo": "Batedeira Mondial Bella Massa 500 W",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur47:2856069585",
+    "canal": "telegram",
+    "quando": "2026-11-27T16:53:42.734757-03:00",
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "plataforma": "mercadolivre"
   }
 ]

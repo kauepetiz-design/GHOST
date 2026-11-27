@@ -1,5 +1,35 @@
 [
   {
+    "numero": 7,
+    "titulo": "Jogo de panelas antiaderentes 10",
+    "preco": 229.52,
+    "preco_de": 269.9,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
+    "link": "https://meli.la/1U1iWdD",
+    "atualizado": "27/11/2026 16:53"
+  },
+  {
+    "numero": 27,
+    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
+    "preco": 145.0,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
+    "link": "https://meli.la/1bd2Fef",
+    "atualizado": "27/11/2026 16:53"
+  },
+  {
+    "numero": 26,
+    "titulo": "Batedeira Mondial Bella Massa 500 W",
+    "preco": 146.73,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
+    "link": "https://meli.la/2PPnb6K",
+    "atualizado": "27/11/2026 16:53"
+  },
+  {
     "numero": 23,
     "titulo": "Conjunto de 5 panelas caçarola com 3",
     "preco": 179.91,
@@ -18,16 +48,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183401/104355_1.jpg?v=639202264981530000",
     "link": "https://lmdee.link/hnJQVnIsGreh",
     "atualizado": "27/11/2026 06:38"
-  },
-  {
-    "numero": 7,
-    "titulo": "Jogo de panelas antiaderentes 10",
-    "preco": 229.52,
-    "preco_de": 269.9,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897550-MLA111138894183_052026-AB.webp",
-    "link": "https://meli.la/1U1iWdD",
-    "atualizado": "27/11/2026 00:37"
   },
   {
     "numero": 71,
@@ -210,16 +230,6 @@
     "atualizado": "22/11/2026 22:10"
   },
   {
-    "numero": 27,
-    "titulo": "Air fryer Elgin Quad Fry 4,2 L",
-    "preco": 145.0,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_813389-MLA99520090726_112025-AB.webp",
-    "link": "https://meli.la/1bd2Fef",
-    "atualizado": "22/11/2026 21:16"
-  },
-  {
     "numero": 12,
     "titulo": "Panos de prato atoalhados Laune",
     "preco": 41.98,
@@ -328,16 +338,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_609283-MLA91471706618_092025-AB.webp",
     "link": "https://meli.la/2X9MJQi",
     "atualizado": "19/11/2026 23:14"
-  },
-  {
-    "numero": 26,
-    "titulo": "Batedeira Mondial Bella Massa 500 W",
-    "preco": 146.73,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832995-MLA99509482724_112025-AB.webp",
-    "link": "https://meli.la/2PPnb6K",
-    "atualizado": "19/11/2026 05:42"
   },
   {
     "numero": 74,
