@@ -1,5 +1,15 @@
 [
   {
+    "numero": 1,
+    "titulo": "Sanduicheira multilaser grill gourmet",
+    "preco": 54.99,
+    "preco_de": 199.0,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
+    "link": "https://meli.la/1UtKSFu",
+    "atualizado": "27/11/2026 18:34"
+  },
+  {
     "numero": 7,
     "titulo": "Jogo de panelas antiaderentes 10",
     "preco": 229.52,
@@ -308,16 +318,6 @@
     "imagem": "https://vemplast.vteximg.com.br/arquivos/ids/183468/104463_1.jpg?v=639221615503670000",
     "link": "https://lmdee.link/WXuFSkXPbm6U",
     "atualizado": "21/11/2026 05:14"
-  },
-  {
-    "numero": 1,
-    "titulo": "Sanduicheira multilaser grill gourmet",
-    "preco": 54.99,
-    "preco_de": 199.0,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798833-MLA99962055785_112025-O.webp",
-    "link": "https://meli.la/1UtKSFu",
-    "atualizado": "20/11/2026 16:04"
   },
   {
     "numero": 22,
