@@ -5848,5 +5848,21 @@
     "titulo": "Processador triturador elétrico de alimentos inox 2 L (220V)",
     "plataforma": "mercadolivre",
     "post_id": "18080356019444057"
+  },
+  {
+    "id": "mercadolivre:cur24:1360100424",
+    "canal": "telegram",
+    "quando": "2026-11-28T05:52:27.054884-03:00",
+    "numero": 4,
+    "titulo": "Jogo de panelas antiaderente cerâmica Mimo 10 peças",
+    "plataforma": "mercadolivre"
+  },
+  {
+    "id": "mercadolivre:cur20:715089928",
+    "canal": "telegram",
+    "quando": "2026-11-28T05:52:28.986229-03:00",
+    "numero": 14,
+    "titulo": "Kit 10 potes de vidro com tampa de bambu",
+    "plataforma": "mercadolivre"
   }
 ]

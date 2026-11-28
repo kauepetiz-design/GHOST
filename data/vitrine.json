@@ -1,5 +1,35 @@
 [
   {
+    "numero": 15,
+    "titulo": "Jogo de panelas de cerâmica 5 peças,",
+    "preco": 257.23,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
+    "link": "https://meli.la/1HLxed3",
+    "atualizado": "28/11/2026 05:52"
+  },
+  {
+    "numero": 14,
+    "titulo": "Kit 10 potes de vidro com tampa",
+    "preco": 128.25,
+    "preco_de": null,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
+    "link": "https://meli.la/1dF6658",
+    "atualizado": "28/11/2026 05:52"
+  },
+  {
+    "numero": 4,
+    "titulo": "Jogo de panelas antiaderente cerâmica",
+    "preco": 479.99,
+    "preco_de": 633.49,
+    "plataforma": "mercadolivre",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
+    "link": "https://meli.la/2Y9cBfF",
+    "atualizado": "28/11/2026 05:52"
+  },
+  {
     "numero": 2,
     "titulo": "Processador triturador elétrico",
     "preco": 75.9,
@@ -270,16 +300,6 @@
     "atualizado": "22/11/2026 15:30"
   },
   {
-    "numero": 4,
-    "titulo": "Jogo de panelas antiaderente cerâmica",
-    "preco": 479.99,
-    "preco_de": 633.49,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689204-MLB82249899483_022025-AB.webp",
-    "link": "https://meli.la/2Y9cBfF",
-    "atualizado": "22/11/2026 05:01"
-  },
-  {
     "numero": 9,
     "titulo": "Kit 6 potes de vidro 640 ml com 4",
     "preco": 52.09,
@@ -297,16 +317,6 @@
     "plataforma": "mercadolivre",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689924-MLA99949592111_112025-AB.webp",
     "link": "https://meli.la/171CqHo",
-    "atualizado": "21/11/2026 20:47"
-  },
-  {
-    "numero": 15,
-    "titulo": "Jogo de panelas de cerâmica 5 peças,",
-    "preco": 257.23,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_729072-MLA109111585999_032026-AB.webp",
-    "link": "https://meli.la/1HLxed3",
     "atualizado": "21/11/2026 20:47"
   },
   {
@@ -408,16 +418,6 @@
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_762324-MLA114173652868_082026-AB.webp",
     "link": "https://meli.la/1oD9W6i",
     "atualizado": "12/11/2026 21:12"
-  },
-  {
-    "numero": 14,
-    "titulo": "10 potes de vidro com tampa de bambu",
-    "preco": 128.25,
-    "preco_de": null,
-    "plataforma": "mercadolivre",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777723-MLA109742348077_032026-AB.webp",
-    "link": "https://meli.la/1dF6658",
-    "atualizado": "11/11/2026 22:30"
   },
   {
     "numero": 66,
